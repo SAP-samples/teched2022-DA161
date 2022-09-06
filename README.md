@@ -16,8 +16,8 @@ The script and exercises are built to accommodate new users as well as experienc
 
 We will be using a provided SAP Analytics Cloud Tenant for these exercises. You can find a list of login credentials that will allow you to access the tenant under the User List.
 
-Tenant URL (TBD):
-Users (TBD):
+Tenant URL (TBD): TODO
+Users (TBD): TODO
 
 These exercise build on top of one another to provide a holistic learning experience. For inexperienced users, it is recommended to follow the exercises in order. 
 For more advanced users you may find each completed exercise as a story that can be duplicated from the Public/TechEd folder on the tenant. This allows you to personalize your session experience by moving to the section most interesting to you.

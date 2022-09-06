@@ -2,15 +2,25 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called Session ID - Session Title.  
+This repository contains the material for the SAP TechEd 2022 session called DA161 - Create Analytic Applications and Planning Applications with One Integrated Design Time and Artifact.
 
 ## Overview
 
-This session introduces attendees to...
+This session consists of a series of exercises to introduce you to the most innovative features in SAP Analytics Cloud. You will learn how to create your first story, use the newest data visualization features, integrating planning and analytics, and build impactful stories.
 
-## Requirements
+We've also included additional in-depth content for experienced users which will teach best practices and overview how to use powerful SAC features to create calculations, create data actions, build versatile geo visualizations, manipulate time dimensions, and integrate more advanced planning workflows.
 
-The requirements to follow the exercises in this repository are...
+The script and exercises are built to accommodate new users as well as experienced users. New users are recommended to focus on sections one to seven, which will take approximately two hours, and more advanced users should try the deep dives if they'd like to learn more about complex topics.
+
+## Overview
+
+We will be using a provided SAP Analytics Cloud Tenant for these exercises. You can find a list of login credentials that will allow you to access the tenant under the User List.
+
+Tenant URL (TBD):
+Users (TBD):
+
+These exercise build on top of one another to provide a holistic learning experience. For inexperienced users, it is recommended to follow the exercises in order. 
+For more advanced users you may find each completed exercise as a story that can be duplicated from the Public/TechEd folder on the tenant. This allows you to personalize your session experience by moving to the section most interesting to you.
 
 ## Exercises
 

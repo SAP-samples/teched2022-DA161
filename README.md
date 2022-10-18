@@ -1,16 +1,14 @@
-# DA161 - Planning and Analytics with One Integrated Solution
+# DA161 - Create Your Analytics and Planning Applications in One Design-Time Artifcat
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called **DA161 - Create Analytic Applications and Planning Applications with One Integrated Design Time and Artifact.**
+This repository contains the material for the SAP TechEd 2022 session called **DA161 - Create Your Analytics and Planning Applications in One Design-Time Artifcat.**
 
 ## Overview
 
-This session consists of a series of exercises to introduce you to the most innovative features in SAP Analytics Cloud. You will learn how to create your first story, use the newest data visualization features, integrating planning and analytics, and build impactful stories.
+This session consists of a series of exercises to introduce you to basics of SAP Analytics Cloud giving you the opportunity to interact with the latest visualizations, leverage basic planning capabilities, and learn to customize their dashboards using simple scripting all in a single user interface.
 
-We've also included additional in-depth content for experienced users which will teach best practices and overview how to use powerful SAC features to create calculations, create data actions, build versatile geo visualizations, manipulate time dimensions, and integrate more advanced planning workflows.
-
-The script and exercises are built to accommodate new users as well as experienced users. New users are recommended to focus on sections one to seven, which will take approximately two hours, and more advanced users should try the deep dives if they'd like to learn more about complex topics.
+We've also included an opportunity for you to get an early hands-on preview, and can provide valuable feedback, with our new Optimized Story Experience which combines the simplicity of our traditional story-based dashboard and the extensibility of our existing analytics application building capabilities. 
 
 ## Overview
 
@@ -20,9 +18,7 @@ Tenant URL (TBD): [TODO]
 
 Users (TBD): [TODO]
 
-These exercise build on top of one another to provide a holistic learning experience. For inexperienced users, it is recommended to follow the exercises in order. 
-
-For more advanced users you may find each completed exercise as a story that can be duplicated from the Public/TechEd folder on the tenant. This allows you to personalize your session experience by moving to the section most interesting to you.
+These exercise build on top of one another to provide a holistic learning experience. For experienced users, it is still recommended to complete the exercises as it will build the foundation for you to provide feedback on the Optimized Story Experience.
 
 ## Exercises
 

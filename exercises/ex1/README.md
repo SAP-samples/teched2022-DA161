@@ -18,6 +18,12 @@ When completing exercises, some data values or sceenshots may not match what you
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 🚩As a Business Analyst for TCS Technologies, we are interested in creating a dashboard that incorporates Business Intelligence, Planning, and Scripting. As a starting point, you want to enhance the dashboard that your colleague has started by incorporating HR data.
+ 
+Lets start by editing the dashboard!
+
+1. Click **Edit**
+
+![image 1](https://user-images.githubusercontent.com/90856848/138345633-6f60e8b2-01e4-4a76-8473-f7ac522420c2.png)
 
 
 ## Summary

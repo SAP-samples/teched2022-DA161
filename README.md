@@ -25,8 +25,8 @@ These exercise build on top of one another to provide a holistic learning experi
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
-- [Exercise 1 - Understanding Basics](exercises/ex1/)
-- [Exercise 2 - Integrating Planning](exercises/ex2/)
+- [Exercise 1 - Understanding the Basics](exercises/ex1/)
+- [Exercise 2 - Integrating Planning into a Business Intelligence Story](exercises/ex2/)
 
   
 **OR** Link to the Tutorial Navigator for example...

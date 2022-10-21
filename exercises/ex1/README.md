@@ -1,44 +1,34 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 – Understnading the Basics
 
-In this exercise, we will create...
+**Objective:** You should develop a basic understanding on how to create visualization within SAP Analytics Coud. 
 
-## Exercise 1.1 Sub Exercise 1 Description
+**Estimated Time:** 25 mins
 
-After completing these steps you will have created...
+**Exercise Description:** You and a colleague are building a dashboard for the upcoming board meeting. As a starting point, your colleague has incorporated some Financial Planning Data into the dashboard. You want to further enhance the dashboard to better represent some KPIs while including HR data to get a better understanding on the end-to-end business operations as TCS Technologies. 
 
-1. Click here.
-<br>![](/exercises/ex1/images/01_01_0010.png)
+**Key Features:**
+- Create a set of visualizations (i.e. Chart, Geo, and Table) to illustrate key relationships within your data
+- Understand the Builder Panel vs. Styling Panel 
+- Learn how to create some calculations
+- Include Chart Add-ons, such as a Variance
 
-2.	Insert this line of code.
-```abap
-response->set_text( |Hello World! | ). 
-```
+⚠️**Disclaimer**
+When completing exercises, some data values or sceenshots may not match what you see on your sceen. It is because the current exercise is based on a feature that is currently in BETA. 
 
+----------------------------------------------------------------------------------------------------------------------------------------
 
-
-## Exercise 1.2 Sub Exercise 2 Description
-
-After completing these steps you will have...
-
-1.	Enter this code.
-```abap
-DATA(lt_params) = request->get_form_fields(  ).
-READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
-  IF sy-subrc <> 0.
-    response->set_status( i_code = 400
-                     i_reason = 'Bad request').
-    RETURN.
-  ENDIF.
-
-```
-
-2.	Click here.
-<br>![](/exercises/ex1/images/01_02_0010.png)
+🚩As a Business Analyst for TCS Technologies, we are interested in creating a dashboar that incorporates Business Intelligence, Planning, and Scripting. As a starting point, you want to enhance the dashboard that your colleague has started by incorporating HR data.
 
 
 ## Summary
 
-You've now ...
+**You have completed the entire Understanding Basics section!**
+
+**You are now able to:**
+- Create a set of visualizations (i.e. Chart, Geo, and Table) to illustrate key relationships within your data
+- Understand the difference between the Builder Panel vs. Styling Panel 
+- Create a set of basic calculations
+- Include Chart Add-ons, such as a Variance
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 

@@ -17,7 +17,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-🚩As a Business Analyst for TCS Technologies, we are interested in creating a dashboar that incorporates Business Intelligence, Planning, and Scripting. As a starting point, you want to enhance the dashboard that your colleague has started by incorporating HR data.
+🚩As a Business Analyst for TCS Technologies, we are interested in creating a dashboard that incorporates Business Intelligence, Planning, and Scripting. As a starting point, you want to enhance the dashboard that your colleague has started by incorporating HR data.
 
 
 ## Summary

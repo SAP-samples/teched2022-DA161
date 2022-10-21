@@ -30,5 +30,5 @@ When completing exercises, some data values or sceenshots may not match what you
 - Create a set of basic calculations
 - Include Chart Add-ons, such as a Variance
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+Continue to - [Exercise 2 - Integrating Planning into a Business Intelligence Story](../ex2/README.md)
 

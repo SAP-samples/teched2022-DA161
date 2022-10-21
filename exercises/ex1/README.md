@@ -1,4 +1,4 @@
-# Exercise 1 – Understnading the Basics
+# Exercise 1 – Understanding the Basics of SAP Analytics Cloud Stories
 
 **Objective:** You should develop a basic understanding on how to create visualization within SAP Analytics Coud. 
 

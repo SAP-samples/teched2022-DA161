@@ -10,7 +10,7 @@ This session consists of a series of exercises to introduce you to basics of SAP
 
 We've also included an opportunity for you to get an early hands-on preview, and can provide valuable feedback, with our new Optimized Story Experience which combines the simplicity of our traditional story-based dashboard and the extensibility of our existing analytics application building capabilities. 
 
-## Overview
+## Instructions to Logon to Tenant
 
 We will be using a provided SAP Analytics Cloud Tenant for these exercises. You can find a list of login credentials that will allow you to access the tenant under the User List.
 
@@ -21,15 +21,19 @@ Users (TBD): [TODO]
 These exercise build on top of one another to provide a holistic learning experience. For experienced users, it is still recommended to complete the exercises as it will build the foundation for you to provide feedback on the Optimized Story Experience.
 
 ## Exercises
-
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 – Understanding the Basics of SAP Analytics Cloud Stories](exercises/ex1/)
 - [Exercise 2 - Integrating Planning into a Business Intelligence Story](exercises/ex2/)
 
-## How to obtain support
+## Further Learning
+**[Link to SAP Community](https://community.sap.com/topics/cloud-analytics)** - It contains a list of articles and blogs outlining various SAP Analytics Coud topics 
+**[Link to OpenSAP Course](https://open.sap.com/courses/sac1)** - It contains a list of various trainings that enabled you to make intelligent decisions with SAP Analytics Cloud
+**[Link to Customer Influence](https://influence.sap.com/sap/ino/#/campaigns-open)** - You can help shape the future of SAP Analytics Cloud by suggesting and voting on potential improvements
+**[Link to Roadmap Explorer](https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&range=CURRENT-LAST#Q4%202021)** - You can learn more about the future improvements that will be coming to SAP Analytics Cloud with every quarterly release 
 
+## Obtain Support
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
 
 ## License

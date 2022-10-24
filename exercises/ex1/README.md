@@ -111,7 +111,7 @@ Let's resize the visualization for better readability.
 
 ## Summary
 
-**You have completed the entire Understanding Basics section!**
+**You have completed the entire Understanding the Basics of SAP Analytics Cloud Stories section!**
 
 **You are now able to:**
 - Create a set of visualizations (i.e. Chart, Geo, and Table) to illustrate key relationships within your data

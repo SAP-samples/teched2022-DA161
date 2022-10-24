@@ -107,10 +107,100 @@ For this Chart, we are using SAP_XPA_FINANCE, which is a New Model type. The Cha
 
 🚩 We can now see data for our Gross Profit per Product. Based on this breakdown we can see that Youth Bikes bring us the most Gross Profit in comparison to any other product that we offer.
 
-Let's resize the visualization for better readability. 
+Let's resize and reposition the visualization for better readability. 
 
-20. Click and hold the bottom right resize icon for the Chart
-21. Resize the Chart so that it has the same height as the other two widgets
+20. Scroll to the right of the dashboard
+21. Click and hold the border of the chart to move the object
+
+![image](https://user-images.githubusercontent.com/112718519/197629130-8797e878-0285-4ce3-a46f-4d81c743b636.png)
+
+22. Move the Chart to align it with the top of the Table
+
+![image](https://user-images.githubusercontent.com/112718519/197629215-5058ecdb-822d-4487-a356-d291b136a39b.png)
+
+23. Click and hold the bottom right resize icon for the Chart
+
+![image](https://user-images.githubusercontent.com/112718519/197629286-402df8f0-f0f4-4e5b-b1cd-208bb6619dd1.png)
+
+24. Resize the Chart to align it with the table and the edge of the shape header
+
+![image](https://user-images.githubusercontent.com/112718519/197629395-c6630f32-7857-47fe-9e94-13649fa31c87.png)
+
+⚠️**Quality Check!**
+Does your Table and Currency Selection Input Control look like this?
+
+**IMAGE**
+
+🚩 Now, the Chart only shows actual Gross Profit. We want the Chart to show actual Gross Profit versus planned Gross Profit. We will add planned Gross Profit into the Chart by adding an additional Dimension. 
+
+25. Scroll to the bottom of the Builder Panel
+26. Click + Add Dimension/Account
+
+![image](https://user-images.githubusercontent.com/112718519/197629674-bc76455f-095f-40db-a0b8-65e95fd16402.png)
+
+27. Click Version
+
+![image](https://user-images.githubusercontent.com/112718519/197629699-f4bc5c08-6377-4435-9e0b-c41b1fc77d5c.png)
+
+ℹ️ International Business Communication Standards (IBCS)
+
+The color of the Chart is now changed to black for actual Gross Profit. This is because SAP Analytics Cloud is following International Business Communication Standards (IBCS), so we are coloring the bars based on the color of the Version that is added to the Chart. Now that we have actual Gross Profit in your Chart, we want to add planned Gross Profit.
+
+**IMAGE**
+
+28. Click + Add Verion
+
+![image](https://user-images.githubusercontent.com/112718519/197629736-b2d67db7-cc95-4772-856c-00cc74fbc275.png)
+
+29. Click 22 Plan
+30. Click on a spot outside the Version selection dropdown menu to collapse it
+
+![image](https://user-images.githubusercontent.com/112718519/197629879-7aeae2a3-99d9-43fb-84aa-4a8c10f4258e.png)
+
+🚩 We can see the difference between our Plan 22 and Actuals. However, we want a better visual representation of this data. Hence, lets add a variance to show the difference between Actual and 22 Plan.
+
+31.	Click the expand icon for Chart Add-ons
+32.	Scroll to the bottom of the Builder Panel
+33.	Click Variance
+
+![image](https://user-images.githubusercontent.com/112718519/197629918-621777df-166e-4a8c-8be4-dbc76093d960.png)
+
+34. Click + Add Version/Time
+
+![image](https://user-images.githubusercontent.com/112718519/197629994-ec040816-36f2-4003-abf9-d6a6d46f49dd.png)
+
+35. Click Version
+
+![image](https://user-images.githubusercontent.com/112718519/197630189-ffbc8eab-f284-4c8b-b0a6-ac0c248a4634.png)
+
+36.	For Compare (A), click the expand icon for Version
+37.	Click Actual
+
+![image](https://user-images.githubusercontent.com/112718519/197630227-733d1396-820f-4509-bb55-e42d26f146db.png)
+
+38.	For To (B), click the expand icon for Version
+39.	Click 22 Plan
+
+![image](https://user-images.githubusercontent.com/112718519/197630259-c97f3461-f460-4633-b95f-d1375b0da9f5.png)
+
+40.	Click Data Label
+41.	Scroll to the bottom of the Variance Panel
+42.	Click Both
+43.	Click  the expand icon for Number
+44.	Click 1
+
+![image](https://user-images.githubusercontent.com/112718519/197630308-29086c92-50e8-4206-9ceb-4231de056880.png)
+
+45.	Click expand for Percentage
+46.	Click 1
+47.	Click Done
+
+![image](https://user-images.githubusercontent.com/112718519/197630320-32c4fc63-9264-452f-b1c9-63d8ee4c8b77.png)
+
+⚠️**Quality Check!**
+Does you Chart look like this?
+
+**IMAGE**
 
 ## Summary
 

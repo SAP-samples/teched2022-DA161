@@ -23,9 +23,13 @@ These exercise build on top of one another to provide a holistic learning experi
 ## Exercises
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
+### Hands-on Exercies
+
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 – Understanding the Basics of SAP Analytics Cloud Stories](exercises/ex1/)
 - [Exercise 2 - Integrating Planning into a Business Intelligence Story](exercises/ex2/)
+
+### Integrated Design Time - Usability Tasks
 
 ## Further Learning
 **[Link to SAP Community](https://community.sap.com/topics/cloud-analytics)** - It contains a list of articles and blogs outlining various SAP Analytics Coud topics 

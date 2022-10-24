@@ -32,11 +32,11 @@ There are two exercises that you will run through within this session. These exe
 ### Integrated Design Time - Usability Tasks
 With these tasks it is **recommended** to complete as many interactions as you can independently. The purpose of the scripts provided within this section is to guide you in case you get stuck at any point in time.
 
-- [Task 1 - Evaluate the Usability of the Left Side Panel](exercises/ex4/)
-- [Task 2 - Evaluate the Usability of the Left/Ride Side Panel Triggers](exercises/ex5/)
-- [Task 3 - Evaluate the Usability of Both Designer and Developer Roles](exercises/ex6/)
-- [Task 4 - Evaluate the Usability of Adding Scripts and Stack/Unstacked Tabs](exercises/ex7/)
-- [Task 5 - Evaluate the Usability of View Options for Advanced Users](exercises/ex8/)
+- [Task 1 - Evaluate the Usability of the Left Side Panel](exercises/task1/)
+- [Task 2 - Evaluate the Usability of the Left/Ride Side Panel Triggers](exercises/task2/)
+- [Task 3 - Evaluate the Usability of Both Designer and Developer Roles](exercises/task3/)
+- [Task 4 - Evaluate the Usability of Adding Scripts and Stack/Unstacked Tabs](exercises/task4/)
+- [Task 5 - Evaluate the Usability of View Options for Advanced Users](exercises/task5/)
 
 ## Further Learning
 **[Link to SAP Community](https://community.sap.com/topics/cloud-analytics)** - It contains a list of articles and blogs outlining various SAP Analytics Coud topics 

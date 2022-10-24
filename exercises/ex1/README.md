@@ -363,9 +363,14 @@ Does you Geo Visualization look like this?
 
 ![image](https://user-images.githubusercontent.com/112718519/197651643-81a3b138-39bc-4c45-a02e-27d9cd7f3176.png)
 
+ℹ️ Location Clustering in Geo Visualization!
+Adding a Location Dimension will determine whether or not Location Clustering in the Builder Panel will continue to be turned on or automatically turned off. It will be turned off if you have less than 5000 data points. 
+
 84.	Click Hire_Location
 
 ![image](https://user-images.githubusercontent.com/112718519/197651670-401b1d7a-0b4b-4855-b570-d0c99b99da30.png)
+
+🚩 We can now see data points for all our hire locations. Let's add Headcount and Career Level as the size and color respectively to further drill down into our data. 
 
 85.	Under Bubble Size click Add Account
 

@@ -23,4 +23,4 @@ When completing exercises, some data values or sceenshots may not match what you
 **You are now able to:**
 - TODO
 
-Continue to - [DA161 - Create Your Analytics and Planning Applications in One Design-Time Artifact](../README.md)
+Continue to - [DA161 - Create Your Analytics and Planning Applications in One Design-Time Artifact](https://github.com/SAP-samples/teched2022-DA161/blob/main/README.md)

@@ -18,18 +18,23 @@ Tenant URL (TBD): [TODO]
 
 Users (TBD): [TODO]
 
-These exercise build on top of one another to provide a holistic learning experience. For experienced users, it is still recommended to complete the exercises as it will build the foundation for you to provide feedback on the Optimized Story Experience.
-
 ## Exercises
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+There are two exercises that you will run through within this session. These exercise build on top of one another to provide a holistic learning experience. For experienced users, it is still recommended to complete the exercises as it will build the foundation for you to provide feedback on the Optimized Story Experience.
 
 ### Hands-on Exercies
 
-- [Getting Started](exercises/ex0/)
 - [Exercise 1 – Understanding the Basics of SAP Analytics Cloud Stories](exercises/ex1/)
 - [Exercise 2 - Integrating Planning into a Business Intelligence Story](exercises/ex2/)
+- [Exercise 3 - Integrating Scripting](exercises/ex3/)
 
 ### Integrated Design Time - Usability Tasks
+With these tasks it is **recommended** to complete as many interactions as you can independently. The purpose of the scripts provided within this section is to guide you in case you get stuck at any point in time.
+
+- [Task 1 - Evaluate the Usability of the Left Side Panel](exercises/ex4/)
+- [Task 2 - Evaluate the Usability of the Left/Ride Side Panel Triggers](exercises/ex5/)
+- [Task 3 - Evaluate the Usability of Both Designer and Developer Roles](exercises/ex6/)
+- [Task 4 - Evaluate the Usability of Adding Scripts and Stack/Unstacked Tabs](exercises/ex7/)
+- [Task 5 - Evaluate the Usability of View Options for Advanced Users](exercises/ex8/)
 
 ## Further Learning
 **[Link to SAP Community](https://community.sap.com/topics/cloud-analytics)** - It contains a list of articles and blogs outlining various SAP Analytics Coud topics 

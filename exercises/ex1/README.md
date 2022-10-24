@@ -85,7 +85,7 @@ For this Chart, we are using SAP_XPA_FINANCE, which is a New Model type. The Cha
 
 🚩 We can now see data for our Gross Profit as we've successfully met the minimum conditions to view data for our Bar / Column Chart. Let's now add our Product dimension to see the breakdown per Product.
 
-![image 12]
+![image](https://user-images.githubusercontent.com/112718519/197633398-29c382fb-9e11-4234-9bdd-7ac5be668fc5.png)
 
 15. Click +Add Dimension
 
@@ -98,7 +98,7 @@ For this Chart, we are using SAP_XPA_FINANCE, which is a New Model type. The Cha
 
 🚩 We can now see data for our Gross Profit per Product. However, as Product is a hierarchial dimension, we want to drill down into the Product Dimension so that we can see a more detailed view of our Gross Profit. 
 
-![image 15]
+![image](https://user-images.githubusercontent.com/112718519/197633436-c1b80d44-7d2c-432a-97cb-493cc2b43c9b.png)
 
 18. Within the Builder Panel click the drill icon in the SAP_XPA_Product Dimension
 19. Click on Level 2
@@ -127,7 +127,7 @@ Let's resize and reposition the visualization for better readability.
 ![image](https://user-images.githubusercontent.com/112718519/197629395-c6630f32-7857-47fe-9e94-13649fa31c87.png)
 
 ⚠️**Quality Check!**
-Does your Table and Currency Selection Input Control look like this?
+Does your dashboard look like this?
 
 **IMAGE**
 

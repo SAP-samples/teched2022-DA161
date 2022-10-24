@@ -22,14 +22,14 @@ Lets start by editing the dashboard!
 
 1. Click **Edit**
 
-![image](https://user-images.githubusercontent.com/112718519/197612082-31f775ae-4c3d-4086-8299-60b5d9adf2a2.png)
+![image](https://user-images.githubusercontent.com/112718519/197612585-fa64eced-2aab-4148-ad42-6eeef8efc19e.png)
 
 🚩 We can see that based on the current design of the dashboard, the Table and Currency Selection (Measure Input Control) takes up the entire dashboard. Let's resize a few widgets to make room for some additional visualizations that we want to create.
 
 2. Scroll to the **bottom of the dashboard**
 3. Cick an **hold** the bottom right resize icon of the Table
 
-![image](https://user-images.githubusercontent.com/112718519/197612097-5dc0ab9b-92b4-4df7-be22-2086f552c47b.png)
+![image](https://user-images.githubusercontent.com/112718519/197612666-a99716a3-89cf-43ee-a2b1-5dba39adf5ee.png)
 
 4. Resize the Table until it just fits all the Accounts
 

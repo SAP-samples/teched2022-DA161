@@ -46,7 +46,7 @@ Lets start by editing the dashboard!
 ⚠️**Quality Check!**
 Does your Table and Currency Selection Input Control look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/197613451-4d50dab9-8979-43f7-b9e1-1ef7325952ad.png)
+![image](https://user-images.githubusercontent.com/112718519/197619011-916979d4-4ed4-413a-84b3-e025d8b47e10.png)
 
 🚩 Now that we have room on our dashboards, let's create our first visualization. We want to provide our colleagues a better understanding of the Gross Profit per Product.
  
@@ -54,7 +54,7 @@ Let's insert a Chart to visualize this information.
 
 7. In the toolbar click on the Chart icon
 
-![image](https://user-images.githubusercontent.com/112718519/197613522-55b20a86-4082-41d6-b86c-c3876a537a2e.png)
+![image](https://user-images.githubusercontent.com/112718519/197619063-09705a2c-7aad-4a19-8639-ff374c068cbc.png)
 
 ℹ️ Welcome to the Builder Panel!
 
@@ -62,26 +62,26 @@ The Builder Panel is a place where you can create your visualizations by specify
  
 For this Chart, we are using SAP_XPA_FINANCE, which is a New Model type. The Chart requires at least one Account and at least one Measure to be selected from the Builder Panel. 
 
-![image 7]
+![image](https://user-images.githubusercontent.com/112718519/197619076-27a85402-48e5-4dc1-bc60-c2b06fca7387.png)
 
 8. Click + At least 1 Account required
 
-![image 8]
+![image](https://user-images.githubusercontent.com/112718519/197619103-c342ed13-49cc-43bb-90f6-02557aa1b7d3.png)
 
 9. Click on the arrow beside Operating Income to expand the Account
 10. Click on Gross Profit
-14. Click anywhere outside the Account selection drop down menu to collapse it 
+11. Click anywhere outside the Account selection drop down menu to collapse it 
 
-![image 9]
+![image](https://user-images.githubusercontent.com/112718519/197619116-a90dd2fa-85c4-4f47-b949-f39ba9f4f363.png)
 
 12. Click + At least 1 Measure required
 
-![image 10]
+![image](https://user-images.githubusercontent.com/112718519/197619158-234a75bf-9157-418d-9203-5e62599d8856.png)
 
 13. Click Currency Selection
 14. Click anywhere outside the Measure selection drop down menu to collapse it 
 
-![image 11]
+![image](https://user-images.githubusercontent.com/112718519/197619167-2c62e4ad-a72e-45e3-8573-4f1425b87223.png)
 
 🚩 We can now see data for our Gross Profit as we've successfully met the minimum conditions to view data for our Bar / Column Chart. Let's now add our Product dimension to see the breakdown per Product.
 
@@ -89,12 +89,12 @@ For this Chart, we are using SAP_XPA_FINANCE, which is a New Model type. The Cha
 
 15. Click +Add Dimension
 
-![image 13]
+![image](https://user-images.githubusercontent.com/112718519/197619199-ecae15ce-6dd2-4bec-84e5-10f65ffd3513.png)
 
 16. Click SAP_XPA_PRODUCT
 17. Click anywhere outside the Dimension selection drop down menu to collapse it
 
-![image 14]
+![image](https://user-images.githubusercontent.com/112718519/197619234-0a8574d9-7a72-4df1-b19d-dd6c18a0d3aa.png)
 
 🚩 We can now see data for our Gross Profit per Product. However, as Product is a hierarchial dimension, we want to drill down into the Product Dimension so that we can see a more detailed view of our Gross Profit. 
 
@@ -103,7 +103,7 @@ For this Chart, we are using SAP_XPA_FINANCE, which is a New Model type. The Cha
 18. Within the Builder Panel click the drill icon in the SAP_XPA_Product Dimension
 19. Click on Level 2
 
-![image 16]
+![image](https://user-images.githubusercontent.com/112718519/197619292-a9c2159e-cb6f-43cb-8856-2cfdad9c0bde.png)
 
 🚩 We can now see data for our Gross Profit per Product. Based on this breakdown we can see that Youth Bikes bring us the most Gross Profit in comparison to any other product that we offer.
 

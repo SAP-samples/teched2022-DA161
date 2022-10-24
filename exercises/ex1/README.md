@@ -322,6 +322,76 @@ Does you Chart look like this?
 
 **IMAGE**
 
+🚩 We now want to add a Geographical representation of where are hires are per location. It would also be a good idea for us to better understanding the various career levels that we have by headcount per location.
+
+Let's add a new Geo Visualization. 
+
+75.	Click the Add icon
+76.	Click Geo Map in the Others section
+
+![image](https://user-images.githubusercontent.com/112718519/197651430-681ae30e-6ef5-4b69-b5e7-35f3a6c0c55c.png)
+
+77.	Click and hold the border of the Geo Widget to move the object
+ 
+![image](https://user-images.githubusercontent.com/112718519/197651444-1bb5fba9-37b1-445a-a400-b7b93158fb3a.png)
+
+78.	Move the Geo Widget to align it with the top of the Chart
+ 
+![image](https://user-images.githubusercontent.com/112718519/197651455-c4a25dfb-ca01-4fa2-9200-b6499266e9c7.png)
+
+79.	Resize the Geo to align it with the Chart above and the edge of the shape header
+ 
+![image](https://user-images.githubusercontent.com/112718519/197651478-ea1b89ab-bc35-4933-9609-89e71280872c.png)
+
+⚠️**Quality Check!**
+Does you Geo Visualization look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/197651509-2c6132aa-6ff8-4d42-be0b-d4cdad03c3c2.png)
+
+🚩 We want to change the Base Layer Style to better match the theme of the rest of the dashboard. 
+
+80.	Click Light Gray to open the dropdown menu to see other Base Layer Styles.
+81.	Click Transparent Dark Gray
+ 
+![image](https://user-images.githubusercontent.com/112718519/197651540-26b1e3c6-d184-4d83-a1af-14f0bb0c22d7.png)
+
+82.	Click + Add Layer
+
+![image](https://user-images.githubusercontent.com/112718519/197651622-6dacd766-ee45-480f-89c9-244eced27500.png)
+
+83.	Click + Location Dimension required
+
+![image](https://user-images.githubusercontent.com/112718519/197651643-81a3b138-39bc-4c45-a02e-27d9cd7f3176.png)
+
+84.	Click Hire_Location
+
+![image](https://user-images.githubusercontent.com/112718519/197651670-401b1d7a-0b4b-4855-b570-d0c99b99da30.png)
+
+85.	Under Bubble Size click Add Account
+
+![image](https://user-images.githubusercontent.com/112718519/197651685-9a6cea5e-9e8e-4727-b951-985fc00ca607.png)
+
+86.	Click Headcount
+
+![image](https://user-images.githubusercontent.com/112718519/197651717-65de588f-1211-4303-a50e-5974d189e88c.png)
+
+87.	Under Bubble Color click Add Dimension/Account
+
+![image](https://user-images.githubusercontent.com/112718519/197651734-d92cbc4b-715d-47a0-8163-7f9e01b9314d.png)
+
+88.	Click SAP_XPA_CAREER_LEVEL
+
+![image](https://user-images.githubusercontent.com/112718519/197651746-3cdb2fcd-3905-4924-a6f4-78e36d137319.png)
+
+89.	Rename the Layer Name to Headcount by Career Level
+90.	Click Done
+
+![image](https://user-images.githubusercontent.com/112718519/197651752-03cf8ae8-f78e-4835-864c-f9dd7d2d1338.png)
+
+⚠️**Quality Check!**
+Does you Geo Visualization look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/197651790-fddf611c-7149-4a0a-8b15-7d208bb4bd1a.png)
 
 ## Summary
 

@@ -27,7 +27,7 @@ Lets start by editing the dashboard!
 🚩 We can see that based on the current design of the dashboard, the Table and Currency Selection (Measure Input Control) takes up the entire dashboard. Let's resize a few widgets to make room for some additional visualizations that we want to create.
 
 2. Scroll to the **bottom of the dashboard**
-3. Cick an **hold** the bottom right resize icon of the Table
+3. Cick and **hold** the bottom right resize icon of the Table
 
 ![image](https://user-images.githubusercontent.com/112718519/197618514-dd7755d3-cc25-4564-9327-8755ee61c661.png)
 
@@ -201,6 +201,127 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 Does you Chart look like this?
 
 **IMAGE**
+
+🚩 We now have a good representation of some key figures when it comes to our financial data. Now, lets incorporate some Headcount data into our dashboard to provide our management team a holistic view of the business. 
+
+48.	In the toolbar, click on the Chart icon
+
+![image](https://user-images.githubusercontent.com/112718519/197639226-f0f12495-5a0f-4316-9d0a-63cccf5da2e6.png)
+
+49. Click and hold the border of the chart to move the object and position it to align with the Currecy Selection Input Control.
+
+![image](https://user-images.githubusercontent.com/112718519/197639283-0b35c35f-5c21-48a2-81c6-f67733e4afab.png)
+
+50.	Cick and hold the bottom right resize icon of the Chart
+
+![image](https://user-images.githubusercontent.com/112718519/197639310-21d74e50-f4d3-4499-970e-1aa7bca67722.png)
+
+51.	Resize the Chart so that its width is slightly smaller than the Table above
+
+![image](https://user-images.githubusercontent.com/112718519/197639333-43038748-7669-4196-8ae3-c513d41b9942.png)
+
+⚠️**Quality Check!**
+Does you Chart look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/197639350-858e6521-9fe8-4ecc-9749-6aa723c84ad6.png)
+
+🚩 We can see that the current data model that is being used in the Chart is SAP_XPA_FINANCE. In order to incorporate Headcount data into the Chart, you will need to change the Data Model for this Chart. 
+
+52. Click on the Data Model icon 
+![image](https://user-images.githubusercontent.com/112718519/197639376-f57ee6c8-93ee-4cff-9f82-b875d7ea01fc.png)
+
+53. Click OK
+
+![image](https://user-images.githubusercontent.com/112718519/197639527-b67ce87a-793d-48e0-ba58-352a25ff59a3.png)
+
+54. Click Select other model...
+
+![image](https://user-images.githubusercontent.com/112718519/197639594-3755f6f9-3550-4f5f-80a6-c18ae0692945.png)
+
+55. In the Search field, type SAP_XPA_HEADCOUNT
+56. Click SAP_XPA_HEADCOUNT
+ 
+![image](https://user-images.githubusercontent.com/112718519/197639648-e992112a-a376-44c4-a085-e4df8cdfaacc.png)
+
+🚩 After selecting the Headcount Data Model, the Builder Panel automatically updates the name of the Data Model. For the Headcount Data Model, it is a Classic Account Model instead of a New Model that we saw for the Finance Data Model. Therefore, the Builder Panel is updated to reflect how Account is the only requirement for the Classic Account Model. 
+
+You are not too familiar with the Headcount Data Model and you want to see a list of Accounts and Dimensions that are available to insert into the Chart. In the top right of the Builder Panel, click Available Objects.
+
+57.	Click Available Objects
+
+![image](https://user-images.githubusercontent.com/112718519/197639673-5a8b5110-e372-4791-a6a5-2d7f2e026fad.png)
+
+ℹ️ Welcome to the Available Objects!
+
+It provides you a hollistic view of all the data related objects that are associated to the data model. It provides you an ability to quickly drag an drop objects into the Builder Panel or use any of the quick action menus to bind the data.
+
+![image](https://user-images.githubusercontent.com/112718519/197639771-4ade8c48-bff3-42ca-a676-2e6c4135b01a.png)
+
+🚩 Based on the data that is available within this data model, we are interested in building a trend over time that represents our headcount.
+
+58. Click on the more action icon for Headcount
+59. Click Add to Accounts
+
+![image](https://user-images.githubusercontent.com/112718519/197640032-20084fbb-c2c9-474a-a135-18905f1b42c9.png)
+
+60. Click on the search bar and type Hire
+61. Click on the more action icon for SAP_XPA_HIRE_DATE
+62. Click on Add to Dimensions
+
+![image](https://user-images.githubusercontent.com/112718519/197640064-4bd24b89-408d-4735-9ed0-e3d125ec70cf.png)
+
+⚠️**Quality Check!**
+Does you Chart look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/197640088-d38d455f-4f66-4ff1-a528-af20b713ecef.png)
+
+🚩 Based on the data type that you added into the Chart, SAP Analytics Cloud will automatically change the Chart Orientation to best represent the data. Since you added a time-based Dimension into the Chart, the Chart orientation is automatically vertical.
+
+Let's drill into the visualization to see the data context per quarter.
+
+63.	Click on the bar that represents (all)
+64.	Click on the Drill Down icon
+
+![image](https://user-images.githubusercontent.com/112718519/197640284-b7a10a12-5f3c-4168-b576-58ec8daf4dc2.png)
+
+65.	Within the Builder Panel click on the Drill icon for SAP_XPA_HIRE_DATE
+66.	Click Level 3
+
+⚠️**Quality Check!**
+Does you Chart look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/197640353-d4d87796-5bca-4780-8a64-28bd64644a5a.png)
+
+🚩 Now, you are interested in adding a variance to see the difference in Headcount between the current quarter and the previous quarter.
+
+67.	Scroll to the bottom of the Builder Panel
+68.	Click expand for the Chart Add-ons
+69.	Click Variance
+
+![image](https://user-images.githubusercontent.com/112718519/197640425-1205215c-7cec-4304-8b20-2ff79927d47c.png)
+
+70.	Click + Add Version/Time
+
+![image](https://user-images.githubusercontent.com/112718519/197640436-0361fbd4-6390-4d49-a8a6-4a0f5075ad58.png)
+
+71.	Click SAP_XPA_HIRE_DATE
+
+![image](https://user-images.githubusercontent.com/112718519/197640458-4c33d15a-e2fe-4d6e-8f12-5c5dc19f7df3.png)
+
+72.	Click Integrated
+73.	Click Done
+
+![image](https://user-images.githubusercontent.com/112718519/197640476-17c437de-f92e-41df-944d-b8fb9a5ce2df.png)
+
+74.	Click X to close the Available Objects List
+
+![image](https://user-images.githubusercontent.com/112718519/197640498-0b1a71f7-5fa0-40dd-98dd-7498e0a82cbd.png)
+
+⚠️**Quality Check!**
+Does you Chart look like this?
+
+**IMAGE**
+
 
 ## Summary
 

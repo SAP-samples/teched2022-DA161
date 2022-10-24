@@ -14,9 +14,9 @@ We've also included an opportunity for you to get an early hands-on preview, and
 
 We will be using a provided SAP Analytics Cloud Tenant for these exercises. You can find a list of login credentials that will allow you to access the tenant under the User List.
 
-Tenant URL (TBD): [TODO]
+Tenant URL: [https://ana161.eu10.hcs.cloud.sap/](https://ana161.eu10.hcs.cloud.sap/)
 
-Users (TBD): [TODO]
+Users: [User List](https://docs.google.com/spreadsheets/d/1IxlHauMTgc0DmFSWbx-hyOhRzaX75VtJQYmYK7_SSBg/edit?usp=sharing)
 
 ## Exercises
 There are two exercises that you will run through within this session. These exercise build on top of one another to provide a holistic learning experience. For experienced users, it is still recommended to complete the exercises as it will build the foundation for you to provide feedback on the Optimized Story Experience.

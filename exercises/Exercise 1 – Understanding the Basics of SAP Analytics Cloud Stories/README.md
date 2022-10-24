@@ -119,5 +119,5 @@ Let's resize the visualization for better readability.
 - Create a set of basic calculations
 - Include Chart Add-ons, such as a Variance
 
-Continue to - [Exercise 2 - Integrating Planning into a Business Intelligence Story](../Exercise 2 - Integrating Planning into a Business Intelligence Story/README.md)
+Continue to - [Exercise 2 - Integrating Planning into a Business Intelligence Story](../(Exercise 2 - Integrating Planning into a Business Intelligence Story)/README.md)
 

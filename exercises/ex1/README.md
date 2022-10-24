@@ -33,15 +33,15 @@ Lets start by editing the dashboard!
 
 4. Resize the Table until it just fits all the Accounts
 
-![image](https://user-images.githubusercontent.com/112718519/197618589-7e4855fa-9bfb-40d6-bfff-255d3fceef3b.png)
+![image](https://user-images.githubusercontent.com/112718519/197618719-43f9b390-62a1-40bd-b398-b0d94fcc8ca7.png)
 
 5. Click and hold the bottom right resize icon for the Currency Selection Input Control
 
-![image](https://user-images.githubusercontent.com/112718519/197618626-1992e4a5-02f7-4368-81e8-dcacc83994f9.png)
+![image](https://user-images.githubusercontent.com/112718519/197618589-7e4855fa-9bfb-40d6-bfff-255d3fceef3b.png)
 
 6. Resize the Currency Selection Input Control so that it has the same height as the Table
 
-![image](https://user-images.githubusercontent.com/112718519/197613366-39d4247d-ead0-4455-93c6-5797bae8d900.png)
+![image](https://user-images.githubusercontent.com/112718519/197618626-1992e4a5-02f7-4368-81e8-dcacc83994f9.png)
 
 ⚠️**Quality Check!**
 Does your Table and Currency Selection Input Control look like this?

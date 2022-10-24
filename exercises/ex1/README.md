@@ -22,28 +22,32 @@ Lets start by editing the dashboard!
 
 1. Click **Edit**
 
-![image 1](https://user-images.githubusercontent.com/112718519/197307241-2af88602-d135-48ca-a44d-b41dc56461e5.png)
+![image](https://user-images.githubusercontent.com/112718519/197612082-31f775ae-4c3d-4086-8299-60b5d9adf2a2.png)
 
 🚩 We can see that based on the current design of the dashboard, the Table and Currency Selection (Measure Input Control) takes up the entire dashboard. Let's resize a few widgets to make room for some additional visualizations that we want to create.
 
 2. Scroll to the **bottom of the dashboard**
 3. Cick an **hold** the bottom right resize icon of the Table
 
-![image 2](https://user-images.githubusercontent.com/112718519/197307257-fb7532fd-ae48-4017-b28a-96c9c702e991.png)
+![image](https://user-images.githubusercontent.com/112718519/197612097-5dc0ab9b-92b4-4df7-be22-2086f552c47b.png)
 
 4. Resize the Table until it just fits all the Accounts
 
-![image 3]
+![image](https://user-images.githubusercontent.com/112718519/197612114-a555bd39-7206-45d6-b193-051b5866487b.png)
 
 5. Click and hold the bottom right resize icon for the Currency Selection Input Control
+
+![image](https://user-images.githubusercontent.com/112718519/197612129-f1eada14-ad98-453d-a496-c0b2e2e555cc.png)
+
 6. Resize the Currency Selection Input Control so that it has the same height as the Table
 
-![image 4]
+![image](https://user-images.githubusercontent.com/112718519/197612142-adc74bff-4865-44f1-8779-7d8ab10d265c.png)
 
 ⚠️**Quality Check!**
 Does your Table and Currency Selection Input Control look like this?
 
-![image 5]
+![image](https://user-images.githubusercontent.com/112718519/197612354-642adbf9-21b0-41ca-9f01-28864150833d.png)
+
 
 🚩 Now that we have room on our dashboards, let's create our first visualization. We want to provide our colleagues a better understanding of the Gross Profit per Product.
  
@@ -51,7 +55,7 @@ Let's insert a Chart to visualize this information.
 
 7. In the toolbar click on the Chart icon
 
-![image 6]
+![image](https://user-images.githubusercontent.com/112718519/197612395-538de9b5-0136-420b-9bba-191f48f7cb58.png)
 
 ℹ️ Welcome to the Builder Panel!
 

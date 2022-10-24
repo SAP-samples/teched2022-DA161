@@ -1,8 +1,8 @@
-# DA161 - Create Your Analytics and Planning Applications in One Design-Time Artifcat
+# DA161 - Create Your Analytics and Planning Applications in One Design-Time Artifact
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called **DA161 - Create Your Analytics and Planning Applications in One Design-Time Artifcat.**
+This repository contains the material for the SAP TechEd 2022 session called **DA161 - Create Your Analytics and Planning Applications in One Design-Time Artifact.**
 
 ## Overview
 

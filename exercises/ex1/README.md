@@ -22,14 +22,7 @@ Lets start by editing the dashboard!
 
 1. Click **Edit**
 
-![image](https://user-images.githubusercontent.com/112718519/197618258-19205d99-781b-4cb1-9d10-a8626253724c.png)
-
-![image](https://user-images.githubusercontent.com/112718519/197618277-6d75b728-36f1-48a1-9183-1ae3141ae718.png)
-
-![image](https://user-images.githubusercontent.com/112718519/197618325-190ff922-1791-4c41-98ec-55ac24a59bc4.png)
-
-![image](https://user-images.githubusercontent.com/112718519/197618335-d1d8ffac-3970-422c-97cf-e9a619c264bd.png)
-
+![image](https://user-images.githubusercontent.com/112718519/197618418-b5b30ca2-29d8-4004-ac78-28d9f8234c67.png)
 
 🚩 We can see that based on the current design of the dashboard, the Table and Currency Selection (Measure Input Control) takes up the entire dashboard. Let's resize a few widgets to make room for some additional visualizations that we want to create.
 

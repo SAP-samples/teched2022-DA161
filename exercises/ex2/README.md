@@ -226,6 +226,8 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/197899915-45a871ad-8a93-47ad-93a0-08f55e00978c.png)
 
+ℹ️ After running the Data Action Trigger, the widgets are updated to reflect the new calculation. The two KPIS, Operating Income XX - 23 Plan and Total Labour Cost, both have updated values. The Table also has updated values highlighted in yellow, which includes values for Opearting Income, Operating Expenses and Personnel Costs.
+
 ⚠️ **Quality check!** Does your Table look like this? 
 
 ![image](https://user-images.githubusercontent.com/112718519/197865162-9e4a9180-0056-4922-abb3-a2777456d010.png)

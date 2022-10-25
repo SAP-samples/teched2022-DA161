@@ -150,7 +150,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 🚩 Finally, you want to make some adjustments to Headcount for our Japanese business (Nippon Bikes) in anticpation of further growth in that market beyond 2023.  Navigate to the page in your story that contains Headcount data. 
 
-26. Click **Employee Plan**.
+26. Click the arrow in the top panel to navigate to the **Employee Plan** page.
 
 
 

@@ -158,8 +158,76 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/197862188-5d62021b-7535-4cff-8b0f-da0b36c13682.png)
 
+28. Click the **story filter** in the top panel. Click **Nippon Bikes**.
+![image](https://user-images.githubusercontent.com/112718519/197862517-165f070a-563a-4a99-afd0-50c39c91dfa0.png)
 
+🚩 For August through December 2023, we are looking to ramp up Headcount in Sales & Marketing. As a result of increasing Headcount, you are also anticipating that sales will increase in future years. 
 
+29. In Sales & Marketing for August 2023, type in **17**
+
+![image](https://user-images.githubusercontent.com/112718519/197862614-d3a01f2c-db99-4a9b-87f7-3272cb86a7cb.png)
+
+30. In Sales & Marketing for September 2023, type **20**
+
+![image](https://user-images.githubusercontent.com/112718519/197864226-e564fcfc-1914-404c-b2fc-f469fcd93245.png)
+
+31. For Sales & Marketing in October 2023, type **23**
+
+![image](https://user-images.githubusercontent.com/112718519/197864291-711c9c1a-3dcd-49da-ac23-f784b4523732.png)
+
+32. For Sales & Marketing in November 2023, type **25**
+
+![image](https://user-images.githubusercontent.com/112718519/197864366-ddafa652-5544-438f-a373-64d06ca6814f.png)
+
+33. For Sales & Marketing in December 2023, type **27**
+
+![image](https://user-images.githubusercontent.com/112718519/197864426-2ec889fe-8433-46c9-8cfb-227f025ec9be.png)
+
+⚠️ **Quality check!** Does your table look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/197864554-098cc072-4681-4dea-a8ec-fc692d2bdbb5.png)
+
+34. Now, you want to ensure that changes with the Headcount data is reflected in the overall Financial Plan. Click the arrow in the top panel to navigate to the **Financial Plan** tab.
+
+![image](https://user-images.githubusercontent.com/112718519/197864651-0d46c25d-c872-428b-9ca0-2992d984da20.png)
+
+35. Click into the **story filter**. Click **All**.
+
+![image](https://user-images.githubusercontent.com/112718519/197864725-7c6e0527-f50e-474e-8a21-fb179bfb42c2.png)
+
+36. In the Financial Account filter panel, click **Operating Income**
+
+![image](https://user-images.githubusercontent.com/112718519/197864800-8188afa3-afd9-4e2c-9d45-8e5fd1ab0979.png)
+
+37. In the Plan Currency filter panel, click **US Dollars** 
+
+![image](https://user-images.githubusercontent.com/112718519/197864843-8061901c-3ddb-4fa2-9b00-de28ace614a3.png)
+
+38. Click the **Run Data Action** button
+
+![image](https://user-images.githubusercontent.com/112718519/197864891-ac978afb-e5ca-4016-9fe7-43d26fd397ad.png)
+
+ℹ️ The Data Action Trigger runs a batch calculation to recalculate personnel costs related to the increase in Headcount.
+
+39. Click the **version icon** to open a list of target versions
+
+![image](https://user-images.githubusercontent.com/112718519/197864987-72c78389-7e20-4dd5-85ac-76dc28fe9334.png)
+
+40. Click the private version that you created. In this case, it would be XX - 23 Plan.
+
+![image](https://user-images.githubusercontent.com/112718519/197865026-8e045807-db24-4a0d-85a4-94ac9c4af123.png)
+
+41. Click **OK**
+
+![image](https://user-images.githubusercontent.com/112718519/197865065-4c1e238e-ff49-4850-9c0d-ee443184bb79.png)
+
+42. Click **Run**.  The Data Action will be running the calculation in the background and updating your data.
+
+![image](https://user-images.githubusercontent.com/112718519/197865097-550d637a-4ede-425d-9378-bd18b3b29598.png)
+
+⚠️ **Quality check!** Does your Table look like this? 
+
+![image](https://user-images.githubusercontent.com/112718519/197865162-9e4a9180-0056-4922-abb3-a2777456d010.png)
 
 
 ## Summary
@@ -167,7 +235,10 @@ When completing exercises, some data values or sceenshots may not match what you
 **You have completed the entire Integrating Planning into a Business Intelligence Story section!**
 
 **You are now able to:**
-- TODO
+* Conduct changes to planned data
+* Use the Planning Panel to distribute values
+* Use the Version Management Panel to create versions
+* Run a data action to perform a batch calculation 
 
 Continue to - [Exercise 3 - Integrating Scripting](../ex3/README.md)
 

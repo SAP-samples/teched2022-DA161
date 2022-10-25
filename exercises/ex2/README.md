@@ -64,11 +64,11 @@ When completing exercises, some data values or sceenshots may not match what you
 
 🚩 The planned changes to changes to raw material will not take effect until our new supply contract becomes active, which will occur after Q1/2023 (i.e. increases will not apply to the first three months of the year). 
 
-10. Highlight the cells from January to March 2023. 
+10. Highlight the cells from **January to March 2023**. 
 
 ![image](https://user-images.githubusercontent.com/112718519/197857593-65972a8b-94f9-4ded-aade-7005ae8cf933.png)
 
-11. Right click the highlighted cells and click Lock Cell. 
+11. Right click the highlighted cells and click **Lock Cell**. 
 
 🚩 By clicking Lock Cell, you are no longer able to apply edits and changes to the cells.
 
@@ -78,7 +78,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/197857806-23ca38db-3b06-4962-925f-703d04353801.png)
 
-13. Type in +10% directly into the cell
+13. Type in **+10%** directly into the cell
 
 ![image](https://user-images.githubusercontent.com/112718519/197857846-23063384-04a6-4be9-b6c6-a1890aa3d71b.png)
 
@@ -86,7 +86,76 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/197857953-2adba33f-66e4-480b-aa26-48e6fbe1498c.png)
 
-⚠️ Quality check! Does your Table look like this?
+⚠️ **Quality check!** Does your Table look like this?
+
+🚩 Let's change the story filter so that you are filtering the data to show bikes in the Chinese market. 
+
+14. Click the story filter in the top panel. Click **China Bikes Ltd**.
+
+![image](https://user-images.githubusercontent.com/112718519/197858769-aa895356-10fa-48bf-9289-9a27ef9375a7.png)
+
+15. In the Financial Account filter panel, click **Gross Sales**
+
+![image](https://user-images.githubusercontent.com/112718519/197858825-4b6868cf-8753-4ab5-8ff5-76baf41cd38a.png)
+
+16. In the Plan Currency filter panel, click **Local Currency**
+
+![image](https://user-images.githubusercontent.com/112718519/197858876-4074856c-5a47-4395-9898-b67d0e7bd80a.png)
+
+17. Click the **arrow** to expand All Channels, which will show unassigned data for Gross Sales
+
+![image](https://user-images.githubusercontent.com/112718519/197858961-676bb33d-9e15-48fb-8af7-6774a53ed5ef.png)
+
+🚩 The unassigned data is assumed to be the total Gross Sales, all of which has occurred via our retail channel up until this point. However, next year we are going to run a pilot project in China to also sell direct via a newly developed Web Store.  For this reason, we want to distribute the unassigned data for Gross Sales into different channels, which includes the Web Store and Retailer network. Before you do that, you want to display all channel members so that they are visible in the Table.
+
+18. Right-click on the **SAP_XPA_CHANNEL header** in the Table. In Show/Hide, click Unbooked.
+
+![image](https://user-images.githubusercontent.com/112718519/197859068-bbddced9-6047-4903-9dd2-b797cd97ab66.png)
+
+🚩 Currently, there are no values in Web Store and Retail Stores, so you want to distribute the unassigned data for Gross Sales into these two channels. You assume Web Store consumes 10% of Gross Sales and Retail Stores consume 90% of Gross Sales.
+
+19. Let's right click into the unassigned value for 2023. Click **Distribute Value**.
+
+![image](https://user-images.githubusercontent.com/112718519/197859208-2c3536b1-fbd5-4a01-b451-55b55dbd2778.png)
+
+ℹ️ Welcome to the Planning Panel! This is where you can specify the distribution of values to one or more cells. Or, you can also redistribute the values of a group of cells.
+
+20. Under Recommendations, click **Distribute to SAP_XPA_CHANNEL members of the same level
+
+![image](https://user-images.githubusercontent.com/112718519/197859357-15903864-ecc8-4b82-86e2-798ec03d462b.png)
+
+21. Under Cell, select **Overwrite
+
+![image](https://user-images.githubusercontent.com/112718519/197859424-c83c6fce-5109-4dda-a6df-c45b11dba27b.png)
+
+22. Under Input Values, select **Input Weights
+
+![image](https://user-images.githubusercontent.com/112718519/197859491-bfd19d79-a7ea-4ace-8b39-26253ae020cc.png)
+
+23. Now, you can specify the weights that you want to assign to Web Store and Retails Stores. Enter **10** for Web Store.
+
+![image](https://user-images.githubusercontent.com/112718519/197859549-8b691cb2-b46a-4739-b4a6-3ea334ec3d0c.png)
+
+24. Enter **90** for Retail Stores
+
+![image](https://user-images.githubusercontent.com/112718519/197859579-b2028ae7-9bfa-490f-971e-7b847c1859c2.png)
+
+25. Click **Apply
+
+![image](https://user-images.githubusercontent.com/112718519/197859615-cb53e735-5093-49af-b3bc-c49ce444e96d.png)
+
+⚠️ **Quality check!** All the unassigned data for Gross Sales are now distributed to the corresponding channels. Does your Table look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/197859709-b1701458-c17f-41fe-ac92-26e8c463dae0.png)
+
+🚩 Finally, you want to make some adjustments to Headcount for our Japanese business (Nippon Bikes) in anticpation of further growth in that market beyond 2023.  Navigate to the page in your story that contains Headcount data. 
+
+26. Click **Employee Plan.
+
+
+
+
+
 
 
 ## Summary

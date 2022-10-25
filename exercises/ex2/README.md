@@ -159,6 +159,7 @@ When completing exercises, some data values or sceenshots may not match what you
 ![image](https://user-images.githubusercontent.com/112718519/197862188-5d62021b-7535-4cff-8b0f-da0b36c13682.png)
 
 28. Click the **story filter** in the top panel. Click **Nippon Bikes**.
+
 ![image](https://user-images.githubusercontent.com/112718519/197862517-165f070a-563a-4a99-afd0-50c39c91dfa0.png)
 
 🚩 For August through December 2023, we are looking to ramp up Headcount in Sales & Marketing. As a result of increasing Headcount, you are also anticipating that sales will increase in future years. 

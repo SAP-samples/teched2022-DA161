@@ -32,6 +32,8 @@ There are two exercises that you will run through within this session. These exe
 ### Integrated Design Time - Usability Tasks
 With these tasks it is **recommended** to complete as many interactions as you can independently. The purpose of the scripts provided within this section is to guide you in case you get stuck at any point in time.
 
+Please open the following Survey in another tab. **DO NOT** answer the question until you have completed the specific task. [User Zoom Survey](https://preview.userzoom.com/mpaap/MTAgQzg4M1M2NzQ0/1)
+
 - [Task 1 - Evaluate the Usability of the Left Side Panel](exercises/task1/)
 - [Task 2 - Evaluate the Usability of the Left/Ride Side Panel Triggers](exercises/task2/)
 - [Task 3 - Evaluate the Usability of Both Designer and Developer Roles](exercises/task3/)

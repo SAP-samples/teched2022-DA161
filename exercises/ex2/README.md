@@ -120,15 +120,15 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ℹ️ Welcome to the Planning Panel! This is where you can specify the distribution of values to one or more cells. Or, you can also redistribute the values of a group of cells.
 
-20. Under Recommendations, click **Distribute to SAP_XPA_CHANNEL members of the same level
+20. Under Recommendations, click **Distribute to SAP_XPA_CHANNEL members of the same level**
 
 ![image](https://user-images.githubusercontent.com/112718519/197859357-15903864-ecc8-4b82-86e2-798ec03d462b.png)
 
-21. Under Cell, select **Overwrite
+21. Under Cell, select **Overwrite**
 
 ![image](https://user-images.githubusercontent.com/112718519/197859424-c83c6fce-5109-4dda-a6df-c45b11dba27b.png)
 
-22. Under Input Values, select **Input Weights
+22. Under Input Values, select **Input Weights**
 
 ![image](https://user-images.githubusercontent.com/112718519/197859491-bfd19d79-a7ea-4ace-8b39-26253ae020cc.png)
 
@@ -140,7 +140,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/197859579-b2028ae7-9bfa-490f-971e-7b847c1859c2.png)
 
-25. Click **Apply
+25. Click **Apply**
 
 ![image](https://user-images.githubusercontent.com/112718519/197859615-cb53e735-5093-49af-b3bc-c49ce444e96d.png)
 
@@ -150,7 +150,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 🚩 Finally, you want to make some adjustments to Headcount for our Japanese business (Nippon Bikes) in anticpation of further growth in that market beyond 2023.  Navigate to the page in your story that contains Headcount data. 
 
-26. Click **Employee Plan.
+26. Click **Employee Plan**.
 
 
 

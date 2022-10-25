@@ -35,7 +35,7 @@ Lets start by editing the dashboard!
 
 ![image](https://user-images.githubusercontent.com/112718519/197618719-43f9b390-62a1-40bd-b398-b0d94fcc8ca7.png)
 
-5. Click and hold the resize icon in the bottom right for the Currency Selection Input Control
+5. Click and hold the resize icon in the bottom right of the Currency Selection Input Control
 
 ![image](https://user-images.githubusercontent.com/112718519/197618589-7e4855fa-9bfb-40d6-bfff-255d3fceef3b.png)
 

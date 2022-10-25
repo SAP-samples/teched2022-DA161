@@ -14,7 +14,15 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+ℹ️ Welcome to Planning!
+
 🚩 TODO
+
+1. Click on Edit
+
+![image](https://user-images.githubusercontent.com/112718519/197836619-4985218b-7798-4a7c-a904-56cf42f63576.png)
+
+
 
 ## Summary
 

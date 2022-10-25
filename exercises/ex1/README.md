@@ -27,7 +27,7 @@ Lets start by editing the dashboard!
 🚩 We can see that based on the current design of the dashboard, the Table and Currency Selection (Measure Input Control) takes up the entire dashboard. Let's resize a few widgets to make room for some additional visualizations that we want to create.
 
 2. Scroll to the **bottom of the dashboard**
-3. Cick and **hold** the bottom right resize icon of the Table
+3. Click and **hold** the bottom right resize icon of the Table
 
 ![image](https://user-images.githubusercontent.com/112718519/197618514-dd7755d3-cc25-4564-9327-8755ee61c661.png)
 

@@ -104,19 +104,19 @@ When completing exercises, some data values or sceenshots may not match what you
 
 17. Click the **arrow** to expand All Channels, which will show unassigned data for Gross Sales
 
-![image](https://user-images.githubusercontent.com/112718519/197858961-676bb33d-9e15-48fb-8af7-6774a53ed5ef.png)
+![image](https://user-images.githubusercontent.com/112718519/197900243-27084990-388c-4306-ad05-5dce6461174c.png)
 
 🚩 The unassigned data is assumed to be the total Gross Sales, all of which has occurred via our retail channel up until this point. However, next year we are going to run a pilot project in China to also sell direct via a newly developed Web Store.  For this reason, we want to distribute the unassigned data for Gross Sales into different channels, which includes the Web Store and Retailer network. Before you do that, you want to display all channel members so that they are visible in the Table.
 
 18. Right-click on the **SAP_XPA_CHANNEL header** in the Table. In Show/Hide, click Unbooked.
 
-![image](https://user-images.githubusercontent.com/112718519/197859068-bbddced9-6047-4903-9dd2-b797cd97ab66.png)
+![image](https://user-images.githubusercontent.com/112718519/197900253-bd2d7a64-820d-4c6a-8343-7eaf8904ab9c.png)
 
 🚩 Currently, there are no values in Web Store and Retail Stores, so you want to distribute the unassigned data for Gross Sales into these two channels. You assume Web Store consumes 10% of Gross Sales and Retail Stores consume 90% of Gross Sales.
 
 19. Let's right click into the unassigned value for 2023. Click **Distribute Value**.
 
-![image](https://user-images.githubusercontent.com/112718519/197859208-2c3536b1-fbd5-4a01-b451-55b55dbd2778.png)
+![image](https://user-images.githubusercontent.com/112718519/197900265-d93bb3b7-d590-4371-b8be-13704bc117ff.png)
 
 ℹ️ Welcome to the Planning Panel! This is where you can specify the distribution of values to one or more cells. Or, you can also redistribute the values of a group of cells.
 

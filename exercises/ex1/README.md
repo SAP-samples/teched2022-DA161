@@ -27,7 +27,7 @@ Lets start by editing the dashboard!
 🚩 We can see that based on the current design of the dashboard, the Table and Currency Selection (Measure Input Control) takes up the entire dashboard. Let's resize a few widgets to make room for some additional visualizations that we want to create.
 
 2. Scroll to the **bottom of the dashboard**
-3. Click and **hold** the bottom right resize icon of the Table
+3. Click and **hold** the resize icon in the bottom right of the Table 
 
 ![image](https://user-images.githubusercontent.com/112718519/197618514-dd7755d3-cc25-4564-9327-8755ee61c661.png)
 
@@ -35,7 +35,7 @@ Lets start by editing the dashboard!
 
 ![image](https://user-images.githubusercontent.com/112718519/197618719-43f9b390-62a1-40bd-b398-b0d94fcc8ca7.png)
 
-5. Click and hold the bottom right resize icon for the Currency Selection Input Control
+5. Click and hold the resize icon in the bottom right for the Currency Selection Input Control
 
 ![image](https://user-images.githubusercontent.com/112718519/197618589-7e4855fa-9bfb-40d6-bfff-255d3fceef3b.png)
 
@@ -52,7 +52,7 @@ Does your Table and Currency Selection Input Control look like this?
  
 Let's insert a Chart to visualize this information.
 
-7. In the toolbar click on the Chart icon
+7. In the toolbar, click on the **Chart** icon
 
 ![image](https://user-images.githubusercontent.com/112718519/197619063-09705a2c-7aad-4a19-8639-ff374c068cbc.png)
 
@@ -118,7 +118,7 @@ Let's resize and reposition the visualization for better readability.
 
 ![image](https://user-images.githubusercontent.com/112718519/197629215-5058ecdb-822d-4487-a356-d291b136a39b.png)
 
-23. Click and hold the bottom right resize icon for the Chart
+23. Click and hold the resize icon in the bottom right of the Chart
 
 ![image](https://user-images.githubusercontent.com/112718519/197629286-402df8f0-f0f4-4e5b-b1cd-208bb6619dd1.png)
 

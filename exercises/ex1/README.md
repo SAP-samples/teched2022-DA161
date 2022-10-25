@@ -100,7 +100,7 @@ For this Chart, we are using SAP_XPA_FINANCE, which is a New Model type. The Cha
 
 ![image](https://user-images.githubusercontent.com/112718519/197633436-c1b80d44-7d2c-432a-97cb-493cc2b43c9b.png)
 
-18. Within the Builder Panel click the **drill** icon in the SAP_XPA_Product Dimension
+18. Within the Builder Panel click the **Drill** icon in the SAP_XPA_Product Dimension
 19. Click on **Level 2**
 
 ![image](https://user-images.githubusercontent.com/112718519/197619292-a9c2159e-cb6f-43cb-8856-2cfdad9c0bde.png)

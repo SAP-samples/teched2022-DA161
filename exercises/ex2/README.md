@@ -152,7 +152,11 @@ When completing exercises, some data values or sceenshots may not match what you
 
 26. Click the arrow in the top panel to navigate to the **Employee Plan** page.
 
+![image](https://user-images.githubusercontent.com/112718519/197862137-7f9205e1-05db-49d0-8a5c-595e1ebd3746.png)
 
+27. Click **XX - 23 Plan**
+
+![image](https://user-images.githubusercontent.com/112718519/197862188-5d62021b-7535-4cff-8b0f-da0b36c13682.png)
 
 
 

@@ -7,10 +7,9 @@
 **Exercise Description:** You are managing a dashboard that contains planned financial data for TCS Technologies. You have already completed a preliminary plan for 2023, however based on some new information some final adjustments are required before sending it out to the various regions for any last minute adjustments they may have. 
 
 **Key Features:**
-•	Make updates to planned data
-•	Understand the Planning Panel and Version Management Panel
-•	Run a data action to perform a batch calculation 
-
+* Make updates to planned data
+* Understand the Planning Panel and Version Management Panel
+* Run a data action to perform a batch calculation 
 
 ⚠️**Disclaimer**
 When completing exercises, some data values or sceenshots may not match what you see on your sceen. It is because the current exercise is based on a feature that is currently in BETA. 

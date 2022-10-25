@@ -144,11 +144,11 @@ Does your dashboard look like this?
 
 ℹ️ International Business Communication Standards (IBCS)
 
-The color of the Chart is now changed to black for actual Gross Profit. This is because SAP Analytics Cloud is following International Business Communication Standards (IBCS), so we are coloring the bars based on the color of the Version that is added to the Chart. Now that we have actual Gross Profit in your Chart, we want to add planned Gross Profit.
+The color of the Chart is now changed to black for actual Gross Profit. This is because SAP Analytics Cloud is following International Business Communication Standards (IBCS), so we are coloring the bars based on the color of the Version that is added to the Chart. Now that we have actual Gross Profit in our Chart, we want to add planned Gross Profit.
 
 **IMAGE**
 
-28. Click **+ Add Verion**
+28. Click **+ Add Version**
 
 ![image](https://user-images.githubusercontent.com/112718519/197629736-b2d67db7-cc95-4772-856c-00cc74fbc275.png)
 
@@ -202,7 +202,7 @@ Does you Chart look like this?
 
 **IMAGE**
 
-🚩 We now have a good representation of some key figures when it comes to our financial data. Now, lets incorporate some Headcount data into our dashboard to provide our management team a holistic view of the business. 
+🚩 We now have a good representation of some key figures when it comes to our financial data. Now, let's incorporate some Headcount data into our dashboard to provide our management team a holistic view of the business. 
 
 48.	In the toolbar, click on the **Chart** icon
 
@@ -253,7 +253,7 @@ You are not too familiar with the Headcount Data Model and you want to see a lis
 
 ℹ️ Welcome to the Available Objects!
 
-It provides you a hollistic view of all the data related objects that are associated to the data model. It provides you an ability to quickly drag an drop objects into the Builder Panel or use any of the quick action menus to bind the data.
+It provides you a holistic view of all the data related objects that are associated to the data model. It provides you an ability to quickly drag and drop objects into the Builder Panel or use any of the quick action menus to bind the data.
 
 ![image](https://user-images.githubusercontent.com/112718519/197639771-4ade8c48-bff3-42ca-a676-2e6c4135b01a.png)
 
@@ -322,7 +322,7 @@ Does you Chart look like this?
 
 **IMAGE**
 
-🚩 We now want to add a Geographical representation of where are hires are per location. It would also be a good idea for us to better understanding the various career levels that we have by headcount per location.
+🚩 We now want to add a Geographical representation of where the hires are per location. It would also be a good idea for us to better understand the various career levels that we have by headcount per location.
 
 Let's add a new Geo Visualization. 
 
@@ -344,13 +344,13 @@ Let's add a new Geo Visualization.
 ![image](https://user-images.githubusercontent.com/112718519/197651478-ea1b89ab-bc35-4933-9609-89e71280872c.png)
 
 ⚠️**Quality Check!**
-Does you Geo Visualization look like this?
+Does your Geo Visualization look like this?
 
 ![image](https://user-images.githubusercontent.com/112718519/197651509-2c6132aa-6ff8-4d42-be0b-d4cdad03c3c2.png)
 
 🚩 We want to change the Base Layer Style to better match the theme of the rest of the dashboard. 
 
-80.	Click Light Gray to open the dropdown menu to see other Base Layer Styles.
+80.	Click Light Gray to open the dropdown menu to see other Base Layer Styles
 81.	Click **Transparent Dark Gray**
  
 ![image](https://user-images.githubusercontent.com/112718519/197651540-26b1e3c6-d184-4d83-a1af-14f0bb0c22d7.png)
@@ -372,7 +372,7 @@ Adding a Location Dimension will determine whether or not Location Clustering in
 
 🚩 We can now see data points for all our hire locations. Let's add Headcount and Career Level as the size and color respectively to further drill down into our data. 
 
-85.	Under Bubble Size click **Add Account**
+85.	Under Bubble Size click **+ Add Account**
 
 ![image](https://user-images.githubusercontent.com/112718519/197651685-9a6cea5e-9e8e-4727-b951-985fc00ca607.png)
 
@@ -380,7 +380,7 @@ Adding a Location Dimension will determine whether or not Location Clustering in
 
 ![image](https://user-images.githubusercontent.com/112718519/197651717-65de588f-1211-4303-a50e-5974d189e88c.png)
 
-87.	Under Bubble Color click **Add Dimension/Account**
+87.	Under Bubble Color click **+ Add Dimension/Account**
 
 ![image](https://user-images.githubusercontent.com/112718519/197651734-d92cbc4b-715d-47a0-8163-7f9e01b9314d.png)
 
@@ -394,7 +394,7 @@ Adding a Location Dimension will determine whether or not Location Clustering in
 ![image](https://user-images.githubusercontent.com/112718519/197651752-03cf8ae8-f78e-4835-864c-f9dd7d2d1338.png)
 
 ⚠️**Quality Check!**
-Does you Geo Visualization look like this?
+Does your Geo Visualization look like this?
 
 ![image](https://user-images.githubusercontent.com/112718519/197651790-fddf611c-7149-4a0a-8b15-7d208bb4bd1a.png)
 

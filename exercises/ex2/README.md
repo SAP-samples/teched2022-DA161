@@ -88,7 +88,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ⚠️ **Quality check!** Does your Table look like this?
 
-🚩 Let's change the story filter so that you are filtering the data to show bikes in the Chinese market. 
+🚩 Let's change the story filter so that you are filtering the data to show bikes in the Chinese market (China Bikes Ltd). 
 
 14. Click the story filter in the top panel. Click **China Bikes Ltd**.
 

@@ -28,7 +28,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 2. Click the **Version Management** icon in the top panel
 
-![image](https://user-images.githubusercontent.com/112718519/197899218-91460dbd-d4b2-45ba-aa06-60c248d1f866.png)
+<img src="https://user-images.githubusercontent.com/112718519/197899218-91460dbd-d4b2-45ba-aa06-60c248d1f866.png" width="700" />
 
 ℹ️ Welcome to Version Management! This is where you can manage any public/private versions that are associated with the data model. In this example, all versions are public, which means that the values are visible to other users. You can make changes directly on a public version or work with a private version instead.
 

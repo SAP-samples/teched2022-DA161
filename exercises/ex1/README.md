@@ -1,6 +1,6 @@
 # Exercise 1 – Understanding the Basics of SAP Analytics Cloud Stories
 
-**Objective:** You should develop a basic understanding on how to create visualizations within SAP Analytics Coud. 
+**Objective:** You should develop a basic understanding on how to create visualizations within SAP Analytics Cloud. 
 
 **Estimated Time:** 25 mins
 

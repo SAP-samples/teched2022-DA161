@@ -18,7 +18,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ℹ️ Welcome to Planning!
 
-🚩 Welcome to Section 2 of TechEd! You are going to make changes to planned financial data. First, you will be making a copy of the last planned version for 2023. 
+🚩 Welcome to Section 2 of TechEd! You are going to make changes to planned financial data. First, you will be making a copy of the last planned version for 2023. Before you get started, refer to the Getting Started section to find the starting dashboard for this exercise and create a copy of the starting dashboard.  
 
 1. Click on any cell in the Table
 

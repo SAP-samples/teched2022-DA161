@@ -22,7 +22,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 🚩 You are going to make changes to planned financial data. First, you will be making a copy of the last planned version for 2023.
 
-1. Click on any cell in the Table
+1. Click on the Financial Plan tab on the top panel and click on any cell in the Table
 
 ![image](https://user-images.githubusercontent.com/112718519/197855251-1a4e3988-c6f1-42f3-9875-6fc64fc21314.png)
 

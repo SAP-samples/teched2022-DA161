@@ -400,6 +400,89 @@ Does your Geo Visualization look like this?
 
 ![image](https://user-images.githubusercontent.com/112718519/197651790-fddf611c-7149-4a0a-8b15-7d208bb4bd1a.png)
 
+🚩 We are now intersted in adding another KPI to summary the Average Salary that we are paying our employees. To make it easier, lets duplicate the existing KPI so that we don't need to worry much about the formatting of the object.
+
+91.	Click on the Numeric Point Chart Operating Income for 2022
+92.	Click the More Action icon
+93.	Hover over Copy and select Duplicate
+
+![image](https://user-images.githubusercontent.com/112718519/198134777-a8f24e4d-692c-41dc-9829-2fc75c94a00b.png)
+
+94.	Move the object besides Operating Income for 2022
+95.	Click on the Change Datasource icon
+
+![image](https://user-images.githubusercontent.com/112718519/198134799-d7525162-c38d-44ce-a64d-ffc9035bf676.png)
+
+96.	Click OK
+
+![image](https://user-images.githubusercontent.com/112718519/198134828-1af1f319-1f1e-4dd1-90e6-893cec347e14.png)
+
+97.	Click SAP_XPA_HEADCOUNT
+
+![image](https://user-images.githubusercontent.com/112718519/198134862-3bcde83f-5c5e-44c3-aa19-5faf698303ea.png)
+
+98.	Click OK
+
+![image](https://user-images.githubusercontent.com/112718519/198134886-14c56cdd-8f9c-4ecf-9bbf-7763bfb506a6.png)
+
+99.	Click + At least 1 Account required 
+
+![image](https://user-images.githubusercontent.com/112718519/198134928-0c31a693-f5cd-4aa0-b314-6abe81ecc86a.png)
+
+100.	Click Salary
+
+![image](https://user-images.githubusercontent.com/112718519/198134949-db43d7c2-069b-4219-b214-339835101bfb.png)
+
+🚩 After clicking Salary, we realize that the KPI shows the total salary that was ever paid to employees. This KPI doesn't show Average Salary per Employee, which is what you want to see in the KPI. 
+
+Hence, we will have to create a calculation to reflect this metric.
+
+101.	Deselect Salary
+102.	Click Add Calculation
+
+![image](https://user-images.githubusercontent.com/112718519/198135127-c816ff4a-3b82-4b6c-8986-bc247a312b92.png)
+
+103.	Click Aggregation
+
+![image](https://user-images.githubusercontent.com/112718519/198135154-890a712f-3297-4368-b52d-90da0f282b11.png)
+
+104.	Click the Expand icon for Operation
+105.	Scroll down till you see Average
+106.	Click Average
+
+![image](https://user-images.githubusercontent.com/112718519/198135183-4d4ef538-2522-46ed-9c33-69a4ee0deecc.png)
+
+107.	Click the Expand icon for Account
+108.	Click Salary
+
+![image](https://user-images.githubusercontent.com/112718519/198135227-5a37f0f2-a6f9-4675-9fe5-f7f1f401c697.png)
+
+109.	Click the Expand icon for Aggregation Dimensions
+110.	Click SAP_XPA_EMPLOYEE
+
+![image](https://user-images.githubusercontent.com/112718519/198135262-c4a0003e-4c13-4d9c-9eae-bb5d43d78afe.png)
+
+111.	Rename the Calculation to Average Salary
+112.	Click OK
+
+![image](https://user-images.githubusercontent.com/112718519/198135293-0ef114d1-b54a-43a4-82f1-53fa51c26779.png)
+
+113.	Rename the Title to Average Salary
+
+![image](https://user-images.githubusercontent.com/112718519/198135323-17b8e075-20bf-4e63-9792-a92bbdfe29bd.png)
+
+114.	Click the More Action icon
+115.	Hover over Show / Hide and deselect Primary Value Labels
+
+![image](https://user-images.githubusercontent.com/112718519/198135358-76e85b1f-7ea4-47a3-b3cc-8dac2fa485c3.png)
+
+⚠️**Quality Check!**
+Does your Chart look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/198135375-2586380f-b368-41ff-9f38-b285db98accd.png)
+
+116.	Save your story with CTRL + S
+
 ## Summary
 
 **You have completed the entire Understanding the Basics of SAP Analytics Cloud Stories section!**

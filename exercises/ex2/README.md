@@ -154,11 +154,11 @@ When completing exercises, some data values or sceenshots may not match what you
 
 26. Click on the **Employee Plan** tab
 
-![image](https://user-images.githubusercontent.com/112718519/198103262-f0a8fdfc-48d0-43bd-873b-f3d722f19f96.png)
+<img src="https://user-images.githubusercontent.com/112718519/198103855-283d964c-c212-47d5-9fef-77a7c66db250.png" width="750" />
 
 27. Click **XX - 23 Plan**
 
-![image](https://user-images.githubusercontent.com/112718519/197899722-a073d61a-6fb7-4779-835a-6fd3f319137e.png)
+<img src="https://user-images.githubusercontent.com/112718519/197899722-a073d61a-6fb7-4779-835a-6fd3f319137e.png" width="600" />
 
 28. Click the **story filter** in the top panel. Click **Nippon Bikes**.
 
@@ -192,7 +192,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 34. Now, you want to ensure that changes with the Headcount data are reflected in the overall Financial Plan. Click the **Financial Plan** tab.
 
-![image](https://user-images.githubusercontent.com/112718519/198103315-87684d6e-cbee-4009-bf62-5b481fd4f7c6.png)
+<img src="https://user-images.githubusercontent.com/112718519/198103315-87684d6e-cbee-4009-bf62-5b481fd4f7c6.png" width="750" />
 
 35. Click into the **story filter**. Click **All**.
 

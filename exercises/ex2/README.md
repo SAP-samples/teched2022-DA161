@@ -152,9 +152,9 @@ When completing exercises, some data values or sceenshots may not match what you
 
 🚩 Finally, you want to make some adjustments to Headcount for our Japanese business (Nippon Bikes) in anticpation of further growth in that market beyond 2023.  Navigate to the page in your story that contains Headcount data. 
 
-26. Click the arrow in the top panel to navigate to the **Employee Plan** page.
+26. Click on the **Employee Plan** tab
 
-![image](https://user-images.githubusercontent.com/112718519/197899703-89f599cf-d9ef-4443-a15d-1d195d8484d4.png)
+![image](https://user-images.githubusercontent.com/112718519/198103262-f0a8fdfc-48d0-43bd-873b-f3d722f19f96.png)
 
 27. Click **XX - 23 Plan**
 
@@ -190,9 +190,9 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/197864554-098cc072-4681-4dea-a8ec-fc692d2bdbb5.png)
 
-34. Now, you want to ensure that changes with the Headcount data is reflected in the overall Financial Plan. Click the arrow in the top panel to navigate to the **Financial Plan** tab.
+34. Now, you want to ensure that changes with the Headcount data are reflected in the overall Financial Plan. Click the **Financial Plan** tab.
 
-![image](https://user-images.githubusercontent.com/112718519/197899788-8a4d9df7-dc1a-4c68-84a0-149f1898000e.png)
+![image](https://user-images.githubusercontent.com/112718519/198103315-87684d6e-cbee-4009-bf62-5b481fd4f7c6.png)
 
 35. Click into the **story filter**. Click **All**.
 

@@ -172,27 +172,27 @@ When completing exercises, some data values or sceenshots may not match what you
 
 30. In Sales & Marketing for August 2023, type in **17**
 
-![image](https://user-images.githubusercontent.com/112718519/198353420-bca39763-11f8-4ecc-84e2-e2c3a2d673b5.png)
+<img src="https://user-images.githubusercontent.com/112718519/198358586-c908069b-2d16-470b-b9d5-00e80f2c6cd3.png" width="700" />
 
 31. In Sales & Marketing for September 2023, type **20**
 
-![image](https://user-images.githubusercontent.com/112718519/198353435-d69f3dd4-4e39-4c39-b8e6-3b2a0ea1fbe4.png)
+![image](https://user-images.githubusercontent.com/112718519/198358605-3234ce9f-5462-4d14-9f60-c92863e231de.png)
 
 32. For Sales & Marketing in October 2023, type **23**
 
-![image](https://user-images.githubusercontent.com/112718519/198353459-98e71cf2-6e3e-4e39-ae35-29659b4b3542.png)
+![image](https://user-images.githubusercontent.com/112718519/198358616-de16081b-94ad-4dca-8d34-72361175589d.png)
 
 33. For Sales & Marketing in November 2023, type **25**
 
-![image](https://user-images.githubusercontent.com/112718519/198353477-1d2efb7f-d65d-4055-a1fe-5a56e35731d0.png)
+![image](https://user-images.githubusercontent.com/112718519/198358629-5a280cb3-33de-4cb2-915d-7c3aad32749d.png)
 
 34. For Sales & Marketing in December 2023, type **27**
 
-![image](https://user-images.githubusercontent.com/112718519/198353499-051787c7-9557-4ec7-b5b4-0b78eed57483.png)
+![image](https://user-images.githubusercontent.com/112718519/198358646-37af518f-e875-44c3-a29a-bb148bead6fa.png)
 
 ⚠️ **Quality check!** Does your table look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/198353517-2e42dce0-6084-4ed4-bba9-33097f3ef550.png)
+![image](https://user-images.githubusercontent.com/112718519/198358668-d91aa903-6c7a-4a84-9712-d043055dd209.png)
 
 35. Now, you want to ensure that changes with the Headcount data are reflected in the overall Financial Plan. Click the **Financial Plan** tab.
 

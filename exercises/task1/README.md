@@ -63,7 +63,7 @@
 
 13. Hide items in the left vertical panel by clicking on the top edge of Outline
 
-![image](https://user-images.githubusercontent.com/112718519/198394873-90fa7417-8d58-4e0f-a2de-4362f4331ad6.png)
+![image](https://user-images.githubusercontent.com/112718519/198395059-e9616e24-e283-48c9-8bf1-4b3e91e04d09.png)
 
 
 

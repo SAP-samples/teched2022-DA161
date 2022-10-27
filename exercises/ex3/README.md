@@ -102,7 +102,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 21. We want to rename the Button. Click the **Right Side Panel** icon to open the Styling panel.
 
-![image](https://user-images.githubusercontent.com/112718519/198372724-16823540-803f-419f-b768-340c1be99989.png)
+![image](https://user-images.githubusercontent.com/112718519/198375040-c2baa745-7e43-429f-837b-74c9e3b2babd.png)
 
 22. Under Text, rename the Button to **Close Rates Table**
 
@@ -120,7 +120,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 26. Now, we will begin the scripting. Click on the **Employee Plan** tab.
 
-![image](https://user-images.githubusercontent.com/112718519/198373090-92ccab1c-5031-41be-bc96-a92b91455d72.png)
+![image](https://user-images.githubusercontent.com/112718519/198375091-c5488392-91a1-4d07-905f-2ed040531e2f.png)
 
 27. Click onto the shape. After clicking, notice how the left vertical panel automatically highlights the shape that is currently selected.
 
@@ -140,7 +140,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198373291-5bc09c7d-a9bc-4422-92ed-ce9f3183b880.png)
 
-31. Press **Ctrl + Space** on your keyboard to open a list of available scripting commands. Click open. This command enables the Popup to open when it is clicked.
+31. Press **Ctrl + Space** on your keyboard to open a list of available scripting commands. Click **open**. This command enables the Popup to open when it is clicked.
 
 ![image](https://user-images.githubusercontent.com/112718519/198373330-bdd994a8-27ed-47aa-b60c-c1ebf223228e.png)
 

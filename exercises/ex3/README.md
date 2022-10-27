@@ -153,7 +153,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 34. In Edit Scripts, click **onClick**
 
-![image](https://user-images.githubusercontent.com/112718519/198363973-0253d3d1-51f8-4467-a5cc-71f2c7ace490.png)
+![image](https://user-images.githubusercontent.com/112718519/198364867-6f3794c0-b164-4eee-a2ed-c60187784322.png)
 
 35. Type **Popup_1.**
 
@@ -181,7 +181,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 41. Click on the **shape** to launch the Employee Rates Table
 
-![image](https://user-images.githubusercontent.com/112718519/198364526-d32380cb-1d14-4e1f-a344-79dee2018444.png)
+![image](https://user-images.githubusercontent.com/112718519/198365059-6562b38a-716e-4f3f-9c4a-857529267000.png)
 
 42. Now that the Popup is open, we can now close it. Press on the **Close Rates Table Button**.
 

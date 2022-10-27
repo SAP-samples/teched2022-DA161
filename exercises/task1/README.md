@@ -61,7 +61,11 @@
 
 ![image](https://user-images.githubusercontent.com/112718519/198394140-208291c0-4749-435b-98cc-688ede4c9155.png)
 
-13. Click **outline** to 
+13. Hide items in the left vertical panel by clicking on the top edge of Outline
+
+![image](https://user-images.githubusercontent.com/112718519/198394873-90fa7417-8d58-4e0f-a2de-4362f4331ad6.png)
+
+
 
 ## Summary
 

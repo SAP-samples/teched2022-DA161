@@ -148,7 +148,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ⚠️ **Quality check!** All the unassigned data for Gross Sales are now distributed to the corresponding channels. Does your Table look like this?
 
-<img src="https://user-images.githubusercontent.com/112718519/198348203-d8168782-5dc8-47e6-a713-e4f72c3cf2ed.png" width="950" />
+<img src="https://user-images.githubusercontent.com/112718519/198348203-d8168782-5dc8-47e6-a713-e4f72c3cf2ed.png" width="900" />
 
 🚩 Finally, you want to make some adjustments to Headcount for our Japanese business (Nippon Bikes) in anticpation of further growth in that market beyond 2023.  Navigate to the page in your story that contains Headcount data. 
 

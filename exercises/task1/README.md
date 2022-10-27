@@ -1,17 +1,12 @@
 # Task 1 - Evaluate the Usability of the Left Side Panel
 
-**Objective:** TODO
+Explanation of Task: The purpose of this task is to utilize the left vertical panel to create widgets in your story. 
 
-**Estimated Time:** 5 mins
-
-**Exercise Description:** TODO
-
-**Key Features:**
-- TODO
+⚠️ After you are done with the task, remember to fill out the User Zoom Survey. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-🚩 Open the link 
+🚩 The task will be completed via a prototype on Figma. Open the following link: https://www.figma.com/proto/09quQBLmHW02xWGWlaxdfm/Beta-Program_IDT?node-id=407%3A306959&viewport=655%2C232%2C0.08&scaling=min-zoom&starting-point-node-id=407%3A238578&show-proto-sidebar=1
 
 1. Click **Task 1**
 

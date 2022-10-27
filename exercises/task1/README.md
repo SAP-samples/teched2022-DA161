@@ -8,6 +8,7 @@ Explanation of Task: The purpose of this task is to utilize the left vertical pa
 
 🚩 The task will be completed via a prototype on Figma. Open the following link: https://www.figma.com/proto/09quQBLmHW02xWGWlaxdfm/Beta-Program_IDT?node-id=407%3A306959&viewport=655%2C232%2C0.08&scaling=min-zoom&starting-point-node-id=407%3A238578&show-proto-sidebar=1
 
+
 1. Click **Task 1**
 
 ![image](https://user-images.githubusercontent.com/112718519/198392828-47308c2b-0622-4ed5-8319-29446ca14f34.png)

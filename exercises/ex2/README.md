@@ -28,11 +28,11 @@ When completing exercises, some data values or sceenshots may not match what you
 
 2. Click on any cell in the Table
 
-<img src="https://user-images.githubusercontent.com/112718519/198351908-21a0aa4a-4c9e-43a6-b6c3-6713ed531e9e.png" width="700" />
+![image](https://user-images.githubusercontent.com/112718519/198356466-4440061e-6928-4860-a84b-a8dba0d2b3ab.png)
 
 3. Click the **Version Management** icon in the top panel
 
-<img src="https://user-images.githubusercontent.com/112718519/198351947-46c989db-91ae-4ec7-866b-334c65869721.png" width="650" />
+![image](https://user-images.githubusercontent.com/112718519/198356498-2feae846-62ad-48f3-9d49-0913e4f2e354.png)
 
 ℹ️ Welcome to Version Management! This is where you can manage any public/private versions that are associated with the data model. In this example, all versions are public, which means that the values are visible to other users. You can make changes directly on a public version or work with a private version instead.
 
@@ -72,25 +72,25 @@ When completing exercises, some data values or sceenshots may not match what you
 
 11. Highlight the cells from **January to March 2023**. 
 
-![image](https://user-images.githubusercontent.com/112718519/198352217-71580a4f-99bc-4815-ad25-34828ecd1663.png)
+![image](https://user-images.githubusercontent.com/112718519/198356315-b1b1de00-c74c-482a-83b4-d489e061717c.png)
 
 12. Right click the highlighted cells and click **Lock Cell**. 
 
 🚩 By clicking Lock Cell, you are no longer able to apply edits and changes to the cells.
 
-![image](https://user-images.githubusercontent.com/112718519/198352236-19e214ad-590a-4603-ba2c-94476a42b21b.png)
+![image](https://user-images.githubusercontent.com/112718519/198356396-cb1a73b6-14d8-4a27-af0e-4cff8966bd0f.png)
 
 13. Now, you want to increase the raw material charges by 10% for the year 2023. Click into the value for 2023.
 
-![image](https://user-images.githubusercontent.com/112718519/198352565-f361d6b4-4d59-42b8-9c96-fb8775870e33.png)
+![image](https://user-images.githubusercontent.com/112718519/198356573-06cd34e5-75a3-49d5-8796-bad02915e825.png)
 
 14. Type in **+10%** directly into the cell
 
-![image](https://user-images.githubusercontent.com/112718519/198352599-05fd5b79-66d6-4fb6-9612-28b976ad68ce.png)
+![image](https://user-images.githubusercontent.com/112718519/198356594-cc485c7d-caf5-4a0c-b71c-bacd932d0839.png)
 
 ℹ️ Now, all the values are increased by 10% except for January 2023 to March 2023. This is because you have previously locked these cells. The increase in raw material charges are only applied to April 2023 to December 2023.
 
-![image](https://user-images.githubusercontent.com/112718519/198352677-8628bce1-b009-44c7-8d41-37a8425adfe1.png)
+<img src="https://user-images.githubusercontent.com/112718519/198357955-77603ef6-ae22-4c83-baa0-fe59e82efb57.png" width="800" />
 
 ⚠️ **Quality check!** Does your Table look like this?
 
@@ -101,7 +101,7 @@ When completing exercises, some data values or sceenshots may not match what you
 ![image](https://user-images.githubusercontent.com/112718519/198352753-e824d8cf-6c1b-4935-b491-c196680fc180.png)
 
 16. In the Financial Account filter panel, click **Gross Sales**
-17. 
+
 ![image](https://user-images.githubusercontent.com/112718519/198352774-b5c8d471-9ad7-4948-affb-3efb0a50ae45.png)
 
 17. In the Plan Currency filter panel, click **Local Currency**
@@ -152,7 +152,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ⚠️ **Quality check!** All the unassigned data for Gross Sales are now distributed to the corresponding channels. Does your Table look like this?
 
-<img src="https://user-images.githubusercontent.com/112718519/198353260-fe4f48ab-84db-478d-b0de-c2d509b7309c.png" width="900" />
+![image](https://user-images.githubusercontent.com/112718519/198357067-b918c898-aaa3-45af-ade6-a2d6c9b86c7c.png)
 
 🚩 Finally, you want to make some adjustments to Headcount for our Japanese business (Nippon Bikes) in anticpation of further growth in that market beyond 2023.  Navigate to the page in your story that contains Headcount data. 
 

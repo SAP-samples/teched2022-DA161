@@ -28,11 +28,11 @@ When completing exercises, some data values or sceenshots may not match what you
 
 2. Click on any cell in the Table
 
-![image](https://user-images.githubusercontent.com/112718519/198351908-21a0aa4a-4c9e-43a6-b6c3-6713ed531e9e.png)
+<img src="https://user-images.githubusercontent.com/112718519/198351908-21a0aa4a-4c9e-43a6-b6c3-6713ed531e9e.png" width="700" />
 
 3. Click the **Version Management** icon in the top panel
 
-<img src="https://user-images.githubusercontent.com/112718519/198351947-46c989db-91ae-4ec7-866b-334c65869721.png" width="700" />
+<img src="https://user-images.githubusercontent.com/112718519/198351947-46c989db-91ae-4ec7-866b-334c65869721.png" width="650" />
 
 ℹ️ Welcome to Version Management! This is where you can manage any public/private versions that are associated with the data model. In this example, all versions are public, which means that the values are visible to other users. You can make changes directly on a public version or work with a private version instead.
 

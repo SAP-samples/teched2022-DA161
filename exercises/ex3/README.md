@@ -62,11 +62,19 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198361991-cfea35ae-6888-46b8-a9ab-a60708c09a58.png)
 
-11. Click the **Right Side Panel** icon to open the Styling panel
+11. We want to resize the Popup in the Styling panel. Click the **Right Side Panel** icon to open the Styling panel. 
 
 ![image](https://user-images.githubusercontent.com/112718519/198362025-553f51df-9746-44c5-a092-5d8f5ed1a7d5.png)
 
-12. We want to resize the Popup. In the Styling panel, scroll down until you see the width and height. Change the width to 1700.
+12. Once the panel opens, click the top right corner of the panel to switch from the Builder Panel to the Styling Panel
+
+![image](https://user-images.githubusercontent.com/112718519/198371028-4a84d9bc-cade-49c6-9cab-ec89677b3a64.png)
+
+13. In the Left Side Panel, click Popup_1 so that we can access the Styling panel for Popup_1 instead of the Table.
+
+![image](https://user-images.githubusercontent.com/112718519/198371058-a9f98a3d-1067-41af-b00f-b88f318956c2.png)
+
+14. In the Styling panel, scroll down until you see the width and height. Change the width to 1700.
 
 ![image](https://user-images.githubusercontent.com/112718519/198362094-ef605f33-0721-4b9e-8708-26584abf359d.png)
 

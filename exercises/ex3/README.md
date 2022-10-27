@@ -78,122 +78,123 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198371385-e35aa5f8-913f-49d1-b031-09f291283f6b.png)
 
-13. Change the height to 524
+15. Change the height to 524
 
-![image](https://user-images.githubusercontent.com/112718519/198371601-4634c7dd-2def-4237-bcaf-dc90c3ba74a7.png)
+![image](https://user-images.githubusercontent.com/112718519/198372163-b98fde95-c25f-41aa-ae1e-0856c601048b.png)
 
-14. Click the **Right Side Panel** icon to close the Styling panel
+16. Click the **Right Side Panel** icon to close the Styling panel
 
 ![image](https://user-images.githubusercontent.com/112718519/198371687-a6b2fd8b-9bdf-46ce-a5c2-69ed40dd9292.png)
 
-15. Now, we want to make sure that we have the ability to close the Employee Rates Table in the Popup via a Button. We will add a Button by clicking the **Add** icon in the top panel.
+17. Now, we want to make sure that we have the ability to close the Employee Rates Table in the Popup via a Button. We will add a Button by clicking the **Add** icon in the top panel.
 
-![image](https://user-images.githubusercontent.com/112718519/198371469-ce1f85cb-2139-4925-a37a-ef2cf29cf7e4.png)
+![image](https://user-images.githubusercontent.com/112718519/198372349-d38cfb22-085a-4c1e-bc1b-a87adede9a9a.png)
 
-16. Click **Button**
+18. Click **Button**
 
-![image](https://user-images.githubusercontent.com/112718519/198362356-d17d744d-cfd5-4419-91f5-b439646e65c3.png)
+![image](https://user-images.githubusercontent.com/112718519/198372247-479c7c8b-a15f-443f-9d29-8cf7364d944c.png)
 
-17. We want to move the Button to the top right of the Table. Click the edge of the Button and drag. 
+19. We want to move the Button to the top right of the Table. Click the edge of the Button and drag. 
 
-18. Drag the Button to the top right of the Table
+20. Drag the Button to the top right of the Table
 
-![image](https://user-images.githubusercontent.com/112718519/198362482-cbc58e04-a721-44d7-889e-0cdb12e1f906.png)
+![image](https://user-images.githubusercontent.com/112718519/198372490-16749717-1d48-4e71-85a9-35a9fc0d207c.png)
 
-19. We want to rename the Button. Click the **Right Side Panel** icon to open the Styling panel.
+21. We want to rename the Button. Click the **Right Side Panel** icon to open the Styling panel.
 
-![image](https://user-images.githubusercontent.com/112718519/198362554-9bb0db51-745f-4464-928d-db67338d3219.png)
+![image](https://user-images.githubusercontent.com/112718519/198372724-16823540-803f-419f-b768-340c1be99989.png)
 
-20. Under Text, rename the Button to **Close Rates Table**
+22. Under Text, rename the Button to **Close Rates Table**
 
-![image](https://user-images.githubusercontent.com/112718519/198362612-e393c90b-5cb7-47f0-b1c3-0b0e94b3d82d.png)
+![image](https://user-images.githubusercontent.com/112718519/198372847-536e10ab-a61a-403b-960b-221cc7a74652.png)
 
-21. Click the **Right Side Panel** icon to close the Styling panel
+23. Click the **Right Side Panel** icon to close the Styling panel
 
-![image](https://user-images.githubusercontent.com/112718519/198362681-55d55eac-d655-4675-b6ba-49f12d6bb5ec.png)
+![image](https://user-images.githubusercontent.com/112718519/198373024-b10882f9-f8e0-47fb-8bc0-babd9a98449b.png)
 
-22. We want to resize the Button to make it larger. Click on the bottom left corner of the Button.
+24. We want to resize the Button to make it larger. Click on the bottom left corner of the Button.
 
-23. Drag the button to lengthen the width
+25. Drag the button to lengthen the width
 
-![image](https://user-images.githubusercontent.com/112718519/198362881-49244db2-c68b-4c84-957a-29ea142e718f.png)
+![image](https://user-images.githubusercontent.com/112718519/198373073-63fac810-13ac-43c4-b114-b0984a126151.png)
 
-24. Now, we will begin the scripting. Click on the **Employee Plan** tab.
-![image](https://user-images.githubusercontent.com/112718519/198363080-e11d9da4-3804-4bc4-b28f-a28db8f28faf.png)
+26. Now, we will begin the scripting. Click on the **Employee Plan** tab.
 
-25. Click onto the shape. After clicking, notice how the left vertical panel automatically highlights the shape that is currently selected.
+![image](https://user-images.githubusercontent.com/112718519/198373090-92ccab1c-5031-41be-bc96-a92b91455d72.png)
 
-![image](https://user-images.githubusercontent.com/112718519/198363152-a329b1e4-9d61-465e-97ef-46d6dab3c459.png)
+27. Click onto the shape. After clicking, notice how the left vertical panel automatically highlights the shape that is currently selected.
 
-26. In Shape_7, click the **Edit Scripts** icon
+![image](https://user-images.githubusercontent.com/112718519/198373196-f0df8a50-5d87-41d8-a6d9-e496af0df87f.png)
 
-![image](https://user-images.githubusercontent.com/112718519/198363213-b31bafd0-ebe2-4cfa-af65-64c1cddfc2ca.png)
+28. In Shape_7, click the **Edit Scripts** icon
 
-27. Click **onClick**
+![image](https://user-images.githubusercontent.com/112718519/198373227-5aeee0b8-f902-45d7-a291-95d0ef4c684b.png)
 
-![image](https://user-images.githubusercontent.com/112718519/198363265-60848d79-7a37-4038-8bb2-02e0242478b8.png)
+29. Click **onClick**
+
+![image](https://user-images.githubusercontent.com/112718519/198373245-3b43abfb-a739-4916-8911-4192dfc3a354.png)
 
 🚩 Welcome to Scripting! Scripting allows you to write scripts that can perform complex actions for widgets, such as customizing user interactions in widgets. While writing the scripts, you can press Ctrl + Space on your keyboard to show all the available scripting commands. 
 
-28. Type **Popup_1.**
+30. Type **Popup_1.**
 
-![image](https://user-images.githubusercontent.com/112718519/198363328-8269dd31-a86f-4f26-9987-6b6a55afda8b.png)
+![image](https://user-images.githubusercontent.com/112718519/198373291-5bc09c7d-a9bc-4422-92ed-ce9f3183b880.png)
 
-29. Press **Ctrl + Space** on your keyboard to open a list of available scripting commands. Click open. This command enables the Popup to open when it is clicked.
+31. Press **Ctrl + Space** on your keyboard to open a list of available scripting commands. Click open. This command enables the Popup to open when it is clicked.
 
-![image](https://user-images.githubusercontent.com/112718519/198363507-e874e3f6-3202-4ecf-b894-f753657d6cd3.png)
+![image](https://user-images.githubusercontent.com/112718519/198373330-bdd994a8-27ed-47aa-b60c-c1ebf223228e.png)
 
-30. Press the semicolon ; on your keyboard
+32. Press the semicolon ; on your keyboard
 
-![image](https://user-images.githubusercontent.com/112718519/198363549-c2e2752a-5152-431e-95a4-78983b0f3ecb.png)
+![image](https://user-images.githubusercontent.com/112718519/198373368-2361e6dc-17ef-4aa3-9294-848b29887099.png)
 
-31. After writing a script to open the Popup, we now want to write another script to close the Popup. Click **Popup_1** in the Left Side Panel.
+33. After writing a script to open the Popup, we now want to write another script to close the Popup. Click **Popup_1** in the Left Side Panel.
 
-![image](https://user-images.githubusercontent.com/112718519/198363599-0429b90b-39ec-44a2-960b-0e12ab2aea91.png)
+![image](https://user-images.githubusercontent.com/112718519/198373394-aa91a981-d403-43f4-8ec9-3f084301de64.png)
 
-32. Scroll to the right of the Table until we see the Button. Click on the **Close Rates Table Button**.
+34. Scroll to the right of the Table until we see the Button. Click on the **Close Rates Table Button**.
 
-![image](https://user-images.githubusercontent.com/112718519/198363883-b1dded9e-d232-4d3e-83ca-86e98be42e36.png)
+![image](https://user-images.githubusercontent.com/112718519/198373419-a2dcb7b4-13f0-4f38-9066-c17616a8d856.png)
 
-33. Click on the **More Actions** icon
+35. Click on the **More Actions** icon
 
-![image](https://user-images.githubusercontent.com/112718519/198363940-7718be03-3a38-454f-b15a-5f4b8468496e.png)
+![image](https://user-images.githubusercontent.com/112718519/198373468-fe926321-734f-4865-b50d-e9b9180aa4ef.png)
 
-34. In Edit Scripts, click **onClick**
+36. In Edit Scripts, click **onClick**
 
-![image](https://user-images.githubusercontent.com/112718519/198364867-6f3794c0-b164-4eee-a2ed-c60187784322.png)
+![image](https://user-images.githubusercontent.com/112718519/198373490-c28466c9-ec95-4325-8528-f3c406f2d11b.png)
 
-35. Type **Popup_1.**
+37. Type **Popup_1.**
 
-![image](https://user-images.githubusercontent.com/112718519/198364070-75426d79-06e3-41e6-b4e2-3ef821ceaee7.png)
+![image](https://user-images.githubusercontent.com/112718519/198373522-4ceb9dc2-0c56-4fc2-9c35-9e647b3f2dcd.png)
 
-36. Press **Ctrl + Space** on our keyboard to show a list of available commands. Click **close**.
+38. Press **Ctrl + Space** on our keyboard to show a list of available commands. Click **close**.
 
-![image](https://user-images.githubusercontent.com/112718519/198364119-818e1027-5dbf-4fb4-a878-7c48738e224d.png)
+![image](https://user-images.githubusercontent.com/112718519/198373590-41bfe86f-18fd-4984-acb6-0fef8688092b.png)
 
-37. Press the semicolon ; on your keyboard
+39. Press the semicolon ; on your keyboard
 
-![image](https://user-images.githubusercontent.com/112718519/198364148-5094f179-3276-405e-b663-959e9093af3f.png)
+![image](https://user-images.githubusercontent.com/112718519/198373632-d456f5c0-8327-432e-a307-49aa0ddb88a3.png)
 
-38. Now, we will save our dashboard. Under File, click **Save**.
+40. Now, we will save our dashboard. Under File, click **Save**.
 
-![image](https://user-images.githubusercontent.com/112718519/198364167-fa69ae4c-ebcb-4d84-a7ad-ea0c1fe5f6ed.png)
+![image](https://user-images.githubusercontent.com/112718519/198373645-8907a0a9-9202-4028-8d36-144175a276ee.png)
 
-39. Now, we will go into View mode to test out the Popup. Click **View**, which will bring us to a new tab.
+41. Now, we will go into View mode to test out the Popup. Click **View**, which will bring us to a new tab.
 
-![image](https://user-images.githubusercontent.com/112718519/198364327-06d5b6b2-5151-409e-a6f6-99894e014eef.png)
+![image](https://user-images.githubusercontent.com/112718519/198373718-bd5d06f8-c61b-46dd-bff6-a628977dd86d.png)
 
-40. Click the Employee Plan tab
+42. Click the Employee Plan tab
 
-![image](https://user-images.githubusercontent.com/112718519/198364346-03d7f7ed-1028-4206-a872-f2e2e0c9c3e0.png)
+![image](https://user-images.githubusercontent.com/112718519/198373764-160d9cc3-3e7d-4717-8e89-627eae9bcb6f.png)
 
-41. Click on the **shape** to launch the Employee Rates Table
+43. Click on the **shape** to launch the Employee Rates Table
 
-![image](https://user-images.githubusercontent.com/112718519/198365059-6562b38a-716e-4f3f-9c4a-857529267000.png)
+![image](https://user-images.githubusercontent.com/112718519/198373797-afbf84fa-7d8b-4dca-8ecb-7a347fbcb9d8.png)
 
-42. Now that the Popup is open, we can now close it. Press on the **Close Rates Table Button**.
+44. Now that the Popup is open, we can now close it. Press on the **Close Rates Table Button**.
 
-![image](https://user-images.githubusercontent.com/112718519/198364540-2af1c828-21d8-433b-b533-c8138a312791.png)
+![image](https://user-images.githubusercontent.com/112718519/198374002-3e3f00f7-78be-44fa-b2ed-3fe6eca61c15.png)
 
 
 ## Summary

@@ -2,19 +2,25 @@
 
 **Objective:** TODO
 
-**Estimated Time:** 25 mins
+**Estimated Time:** 5 mins
 
 **Exercise Description:** TODO
 
 **Key Features:**
 - TODO
 
-⚠️**Disclaimer**
-When completing exercises, some data values or sceenshots may not match what you see on your sceen. It is because the current exercise is based on a feature that is currently in BETA. 
-
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-🚩 TODO
+🚩 Open the link 
+
+1. Click **Task 1**
+
+![image](https://user-images.githubusercontent.com/112718519/198392828-47308c2b-0622-4ed5-8319-29446ca14f34.png)
+
+2. 
+
+
+
 
 ## Summary
 

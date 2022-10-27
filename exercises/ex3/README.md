@@ -68,27 +68,27 @@ When completing exercises, some data values or sceenshots may not match what you
 
 12. Once the panel opens, click the top right corner of the panel to switch from the Builder Panel to the Styling Panel
 
-![image](https://user-images.githubusercontent.com/112718519/198371028-4a84d9bc-cade-49c6-9cab-ec89677b3a64.png)
+![image](https://user-images.githubusercontent.com/112718519/198371339-148930ed-f28c-4c81-9c27-cb41ef8c032f.png)
 
 13. In the Left Side Panel, click Popup_1 so that we can access the Styling panel for Popup_1 instead of the Table.
 
-![image](https://user-images.githubusercontent.com/112718519/198371058-a9f98a3d-1067-41af-b00f-b88f318956c2.png)
+![image](https://user-images.githubusercontent.com/112718519/198371355-2f6da041-6aaa-4232-9de6-395aacc144ab.png)
 
 14. In the Styling panel, scroll down until you see the width and height. Change the width to 1700.
 
-![image](https://user-images.githubusercontent.com/112718519/198362094-ef605f33-0721-4b9e-8708-26584abf359d.png)
+![image](https://user-images.githubusercontent.com/112718519/198371385-e35aa5f8-913f-49d1-b031-09f291283f6b.png)
 
 13. Change the height to 524
 
-![image](https://user-images.githubusercontent.com/112718519/198362144-f6f56a42-6c29-450d-9382-6a8a160d0c42.png)
+![image](https://user-images.githubusercontent.com/112718519/198371601-4634c7dd-2def-4237-bcaf-dc90c3ba74a7.png)
 
 14. Click the **Right Side Panel** icon to close the Styling panel
 
-![image](https://user-images.githubusercontent.com/112718519/198362228-4b838422-a68c-4cdb-a507-bebf2100a1e7.png)
+![image](https://user-images.githubusercontent.com/112718519/198371687-a6b2fd8b-9bdf-46ce-a5c2-69ed40dd9292.png)
 
 15. Now, we want to make sure that we have the ability to close the Employee Rates Table in the Popup via a Button. We will add a Button by clicking the **Add** icon in the top panel.
 
-![image](https://user-images.githubusercontent.com/112718519/198362294-3a0a7147-29fb-469d-b1ba-3e90b082ecd9.png)
+![image](https://user-images.githubusercontent.com/112718519/198371469-ce1f85cb-2139-4925-a37a-ef2cf29cf7e4.png)
 
 16. Click **Button**
 

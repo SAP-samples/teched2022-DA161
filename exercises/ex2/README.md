@@ -104,7 +104,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198352774-b5c8d471-9ad7-4948-affb-3efb0a50ae45.png)
 
-17. In the Plan Currency filter panel, click **Local Currency**
+17. Scroll to the bottom of the dashboard. In the Plan Currency filter panel, click **Local Currency**
 
 ![image](https://user-images.githubusercontent.com/112718519/198352790-a1e677ac-d912-4734-88f4-7740ad00d99e.png)
 

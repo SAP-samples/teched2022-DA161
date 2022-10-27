@@ -106,19 +106,19 @@ When completing exercises, some data values or sceenshots may not match what you
 
 17. Click the **arrow** to expand All Channels, which will show unassigned data for Gross Sales
 
-![image](https://user-images.githubusercontent.com/112718519/197900365-9101732a-759a-48a7-a7a0-ef344c40400b.png)
+<img src="https://user-images.githubusercontent.com/112718519/198346229-60ad3c4a-1dfd-4db1-843e-0d85d58890b3.png" width="650" />
 
 🚩 The unassigned data is assumed to be the total Gross Sales, all of which has occurred via our retail channel up until this point. However, next year we are going to run a pilot project in China to also sell direct via a newly developed Web Store.  For this reason, we want to distribute the unassigned data for Gross Sales into different channels, which includes the Web Store and Retailer network. Before you do that, you want to display all channel members so that they are visible in the Table.
 
 18. Right-click on the **SAP_XPA_CHANNEL header** in the Table. In Show/Hide, click Unbooked.
 
-![image](https://user-images.githubusercontent.com/112718519/197900396-c96d7f1b-ac62-4638-bd78-d83f92cab93c.png)
+<img src="https://user-images.githubusercontent.com/112718519/198346474-192fed79-a5f2-4883-b052-6386a5f5d7e5.png" width="650" />
 
 🚩 Currently, there are no values in Web Store and Retail Stores, so you want to distribute the unassigned data for Gross Sales into these two channels. You assume Web Store consumes 10% of Gross Sales and Retail Stores consume 90% of Gross Sales.
 
 19. Let's right click into the unassigned value for 2023. Click **Distribute Value**.
 
-![image](https://user-images.githubusercontent.com/112718519/197900416-2a1e15db-d8c9-4332-a32b-f817c75efd85.png)
+<img src="https://user-images.githubusercontent.com/112718519/198346685-4840bf78-4646-4802-9da5-de19d648e857.png" width="650" />
 
 ℹ️ Welcome to the Planning Panel! This is where you can specify the distribution of values to one or more cells. Or, you can also redistribute the values of a group of cells.
 
@@ -148,7 +148,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ⚠️ **Quality check!** All the unassigned data for Gross Sales are now distributed to the corresponding channels. Does your Table look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/197859709-b1701458-c17f-41fe-ac92-26e8c463dae0.png)
+<img src="https://user-images.githubusercontent.com/112718519/198348203-d8168782-5dc8-47e6-a713-e4f72c3cf2ed.png" width="950" />
 
 🚩 Finally, you want to make some adjustments to Headcount for our Japanese business (Nippon Bikes) in anticpation of further growth in that market beyond 2023.  Navigate to the page in your story that contains Headcount data. 
 

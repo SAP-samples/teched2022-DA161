@@ -66,5 +66,5 @@ Now you are ready to begin creating visualizations for your first story!
 **You are now able to:**
 -
 
-Continue to - [Exercise 2 - Integrating Planning into a Business Intelligence Story](../ex2/README.md)
+Continue to - [Exercise 1 – Understanding the Basics of SAP Analytics Cloud Stories](../ex1/README.md)
 

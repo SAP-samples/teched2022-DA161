@@ -42,6 +42,7 @@
 ![image](https://user-images.githubusercontent.com/112718519/198712068-3e82f40d-32c0-4115-b29d-cef0dc5c5bac.png)
 
 9. Click **Open in Device View Mode**
+
 ![image](https://user-images.githubusercontent.com/112718519/198712251-b24b64f4-d269-4308-ab5a-824dd855a01f.png)
 
 10. Click anywhere on the screen to go to the next option

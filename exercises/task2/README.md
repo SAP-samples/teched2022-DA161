@@ -1,8 +1,8 @@
 # Task 2 - Evaluate the Usability of the Left/Ride Side Panel Triggers
 
-**Objective:** TODO
+**Objective:** In Task 2, there will be 3 options with different variances of Panel triggers in the toolbar. As you work through the task, consider your first impression of each option. 
 
-**Estimated Time:** 25 mins
+**Estimated Time:** 5 mins
 
 **Exercise Description:** TODO
 

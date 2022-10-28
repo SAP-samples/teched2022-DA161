@@ -2,6 +2,8 @@
 
 **Explanation of Task**: The purpose of this task is to utilize the left vertical panel to create widgets in your story. As you work through the task, consider your first impression of the usability of the Left Side Panel. 
 
+**Estimated Time:** 5 mins
+
 ⚠️ After you are done with the task, remember to fill out the User Zoom Survey. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------

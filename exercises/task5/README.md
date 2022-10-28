@@ -1,6 +1,6 @@
 # Task 5 - Evaluate the Usability of View Options for Advanced Users
 
-**Explanation of Task:** 
+**Explanation of Task:** You would like to use the Open Device View Mode in a New Tab/Window. As you work through this task, you will be give 3 options to Open Device View Mode. 
 
 **Estimated Time:** 5 mins
 
@@ -61,7 +61,7 @@
 
 ![image](https://user-images.githubusercontent.com/112718519/198712477-fc18374f-f57d-4c0f-92f8-8f11f2a061c0.png)
 
-14. Click anywhere on the screen to go to the next task
+14. Click anywhere on the screen to finish Task 5
 
 ![image](https://user-images.githubusercontent.com/112718519/198712526-828d1498-6480-4714-b72e-6334fe5d57f6.png)
 

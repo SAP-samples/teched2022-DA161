@@ -132,7 +132,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 22. Under Recommendations, click **Distribute to SAP_XPA_CHANNEL members of the same level**
 
-![image](https://user-images.githubusercontent.com/112718519/198674584-95319dad-8215-423b-a51c-81c1aadaf697.png)
+![image](https://user-images.githubusercontent.com/112718519/198726696-f102a1ad-bd32-4f83-8542-8578e1dd10fd.png)
 
 23. Under Cell, select **Overwrite**
 

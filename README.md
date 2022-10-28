@@ -21,7 +21,7 @@ Users: [User List](https://docs.google.com/spreadsheets/d/1IxlHauMTgc0DmFSWbx-hy
 As soon as you select a user that you would like to use for the session, please mark an **X** next to the user to ensure that the account is not used by anyone else during the session.
 
 ## Exercises
-There are two exercises that you will run through within this session. These exercise build on top of one another to provide a holistic learning experience. For experienced users, it is still recommended to complete the exercises as it will build the foundation for you to provide feedback on the Optimized Story Experience.
+There are three exercises that you will run through within this session. These exercise build on top of one another to provide a holistic learning experience. For experienced users, it is still recommended to complete the exercises as it will build the foundation for you to provide feedback on the Optimized Story Experience.
 
 ### Hands-on Exercies
 

@@ -1,6 +1,6 @@
 # Task 4 - Evaluate the Usability of Adding Scripts and Stack/Unstacked Tabs
 
-**Explanation of Task:** 
+**Explanation of Task:** In Task 4, you will duplicate a page and add scripts for two widgets. In order to do so, you will unstack tabs. As you work through the task to unstack tabs, take note of your first impression. 
 
 **Estimated Time:** 5 mins
 
@@ -61,9 +61,6 @@
 
 ## Summary
 
-**You have completed the entire Integrating Planning into a Business Intelligence Story section!**
-
-**You are now able to:**
-- TODO
+**You have completed Task 4!**
 
 Continue to - [Task 5 - Evaluate the Usability of View Options for Advanced Users](../task5/README.md)

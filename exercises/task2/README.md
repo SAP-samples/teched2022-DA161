@@ -12,55 +12,55 @@
 
 1. Click **Start Task 2**
 
-![image](https://user-images.githubusercontent.com/112718519/198698671-7fa78ee2-eb24-407c-9d25-3d1f9c1bb0cb.png)
+![image](https://user-images.githubusercontent.com/112718519/198718120-33346aa9-428b-4f44-b311-060be3f1d680.png)
 
 2. These will be the 3 options that you will work through in this task. Take note of each option and remember your first impression. Click anywhere on the screen to advance to the next step.
 
-![image](https://user-images.githubusercontent.com/112718519/198698693-b23df246-e37e-47a8-a4c7-bee7f93c4473.png)
+![image](https://user-images.githubusercontent.com/112718519/198718180-aad74c93-ffe9-48c7-ae07-95f8d7de4e6b.png)
 
 3. Click **Start**
 
-![image](https://user-images.githubusercontent.com/112718519/198699010-23b22762-dd32-4442-a6db-894554b05047.png)
+![image](https://user-images.githubusercontent.com/112718519/198718210-cc0422b3-e892-4565-9170-2cbe005bf25e.png)
 
 4. Click **Designer** to open the Builder Panel
 
-![image](https://user-images.githubusercontent.com/112718519/198700054-0db75fd6-9dde-41c9-b054-6ea66428851d.png)
+![image](https://user-images.githubusercontent.com/112718519/198718256-0449ff99-814f-4b15-83da-da2ce7012c12.png)
 
 5. The Builder Panel is now open. Click anywhere on the screen to go to the next step.
 
-![image](https://user-images.githubusercontent.com/112718519/198699114-dbdba68c-07b8-4b6d-b583-e7c58e12c2c4.png)
+![image](https://user-images.githubusercontent.com/112718519/198718281-399deabd-fa0e-487a-88eb-480f1b209b5a.png)
 
 6. Now, you are shown the Analytics Application. Click anywhere on the screen to start the next option.
 
-![image](https://user-images.githubusercontent.com/112718519/198699182-0af5581e-83ba-4bc8-8aef-28c6158e6ae1.png)
+![image](https://user-images.githubusercontent.com/112718519/198718332-fa7c1634-e7c9-4db7-8bb2-e2fd408108a6.png)
 
 7. Click **Start**
 
-![image](https://user-images.githubusercontent.com/112718519/198699343-1ff119dc-4f21-4925-8a1d-7e53a1f46f6d.png)
+![image](https://user-images.githubusercontent.com/112718519/198718360-976b44a8-86ef-41f5-bd6f-a76c936b769d.png)
 
 8. Now, you are shown Story 2.0 Beta. Click the **Right Side Panel** icon to open the Builder Panel
 
-![image](https://user-images.githubusercontent.com/112718519/198699852-c17cb423-3e6a-40ad-8f68-1ec2111741d5.png)
+![image](https://user-images.githubusercontent.com/112718519/198718400-7d5ed02e-4f75-4d83-97b9-3e8bb005b8b6.png)
 
 9. The Builder Panel is now open and Option 2 is finished. Click anywhere on the screen to start the next option.
 
-![image](https://user-images.githubusercontent.com/112718519/198699457-40421792-94bd-4371-8391-c7067a6c280d.png)
+![image](https://user-images.githubusercontent.com/112718519/198718452-b6bbfc48-84e2-4156-8cae-6846278c9249.png)
 
 10. Click **Start**
 
-![image](https://user-images.githubusercontent.com/112718519/198699519-a11c845f-d8a5-4f10-8b46-e7495074a83c.png)
+![image](https://user-images.githubusercontent.com/112718519/198718487-3cf8a79f-0638-43bf-ad70-1a963a23a7ab.png)
 
 11. Click on the **left dockable panel control** to open the left vertical panel
 
-![image](https://user-images.githubusercontent.com/112718519/198699534-367d330a-d62d-4e99-9486-44064b2e11c8.png)
+![image](https://user-images.githubusercontent.com/112718519/198718534-7ca338f8-b40f-4b4c-8d55-7cc1499d7557.png)
 
 12. Click on the **right dockable panel control** to open the Builder Panel
 
-![image](https://user-images.githubusercontent.com/112718519/198699591-43c95b59-2114-4667-9793-e6aa99e3da37.png)
+![image](https://user-images.githubusercontent.com/112718519/198718551-9bf4d635-a35e-4fc2-84ad-ca3169486c11.png)
 
 13. You are now finished with Task 2. Click anywhere on the screen to start Task 3.
 
-![image](https://user-images.githubusercontent.com/112718519/198700089-8ee21e79-529f-43f5-b9db-dd320b1d6a6e.png)
+![image](https://user-images.githubusercontent.com/112718519/198718651-13235867-614b-4fff-8758-96eaa297b56b.png)
 
 
 

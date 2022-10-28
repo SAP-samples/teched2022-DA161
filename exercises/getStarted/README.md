@@ -1,15 +1,14 @@
 # Getting Started
 
-**Objective:** You should develop a basic understanding on how to create visualizations within SAP Analytics Cloud. 
+**Objective:** Before we get started on the exercises, we will show you how to get started in SAP Analytics Cloud and ensure that you are ready for the exercises.
 
 **Estimated Time:** 5 mins 
 
-**Exercise Description:** this applies to all three sections before you start 
+**Exercise Description:** Before we get started on the exercises, we will introduce the homepage of SAP Analytics Cloud and show where you can access your files and dashboards for the exercises. Before you begin each exercise, make sure that you refer to this section to ensure a seamless start.
 
 **Key Features:**
-- Create a set of visualizations (i.e. Chart, Geo, and Table) to illustrate key relationships within your data
-- Understand the Builder Panel vs. Styling Panel 
-- Learn how to create some calculations
+- Locate your files 
+- Save a new copy of a dashboard
 
 ⚠️**Disclaimer**
 When completing exercises, some data values or sceenshots may not match what you see on your sceen. It is because the current exercise is based on a feature that is currently in BETA. 
@@ -20,7 +19,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198722315-f2b54cf5-997d-4dbe-b187-047cfdd3a143.png)
 
-1. First, you want to access existing stories that we have preconfigured for TechEd. In the leftside panel, click the **Files** icon.
+1. First, you want to access existing stories that we have created for TechEd. In the leftside panel, click the **Files** icon.
 
 ![image](https://user-images.githubusercontent.com/112718519/198722481-799120a8-f663-4d7d-8707-f9fcc657b457.png)
 
@@ -54,17 +53,14 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198722923-edc7b4e6-4218-498c-a5cd-d7eda2da0b39.png)
 
-Now you are ready to begin creating visualizations for your first story!
+You are ready to begin creating visualizations for your first story!
 
 ![image](https://user-images.githubusercontent.com/112718519/198722966-4d5f2946-b6fd-472b-9f60-dcb0a42358f0.png)
 
 
 ## Summary
 
-**You have completed the Getting Started section!**
-
-**You are now able to:**
--
+**You have completed the Getting Started section! Now you are ready to move on to the exercises.**
 
 Continue to - [Exercise 1 – Understanding the Basics of SAP Analytics Cloud Stories](../ex1/README.md)
 

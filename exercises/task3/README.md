@@ -12,38 +12,39 @@
 
 1. Click **Start Task 3**
 
-![image](https://user-images.githubusercontent.com/112718519/198703405-615343ac-0dd0-43b7-ba52-c6cfe1ad4278.png)
+![image](https://user-images.githubusercontent.com/112718519/198718834-f25fc103-25e9-4f90-8cd6-cf6bdacb40db.png)
 
 2. Click **Start**
 
-![image](https://user-images.githubusercontent.com/112718519/198704655-2337649a-85b8-436d-a7e3-85e1c382b7a1.png)
+![image](https://user-images.githubusercontent.com/112718519/198718859-265c7af3-a25a-4955-982f-f6de7a69cec5.png)
 
 3. Click on the **More** icon
 
-![image](https://user-images.githubusercontent.com/112718519/198703490-32832651-8240-4593-9452-0a31a4544fbb.png)
+![image](https://user-images.githubusercontent.com/112718519/198719254-56bda72b-48cb-4418-b4b7-265d47e83f38.png)
 
 4. Click **Advanced Mode** 
 
-![image](https://user-images.githubusercontent.com/112718519/198703584-d2f96021-d386-4d71-a244-0fad26be6635.png)
+![image](https://user-images.githubusercontent.com/112718519/198719228-716b4b24-6954-440d-a419-3da879540457.png)
 
 5. Now in Option 2, click **Standard**
-![image](https://user-images.githubusercontent.com/112718519/198703703-f860b09f-7e55-404e-977b-2334c8d8a6a4.png)
+
+![image](https://user-images.githubusercontent.com/112718519/198718948-ee7702be-37e4-40fb-b4ac-dc1ca7e9d6cc.png)
 
 6. Click **Advanced**
 
-![image](https://user-images.githubusercontent.com/112718519/198703850-6d1ea7e3-faba-4404-942c-56147ce2e1c0.png)
+![image](https://user-images.githubusercontent.com/112718519/198718990-752333d2-d53d-4225-85b8-b3f679b656dc.png)
 
 7. Click anywhere on the screen to go to the next step
 
-![image](https://user-images.githubusercontent.com/112718519/198703912-e13b001e-60e4-4737-a2e4-cb3897eb64f8.png)
+![image](https://user-images.githubusercontent.com/112718519/198719028-c80ec3d9-1856-45cc-9b23-112d87691445.png)
 
 8. Click **Start**
 
-![image](https://user-images.githubusercontent.com/112718519/198703958-70d2e56d-9ccd-454d-a091-9b3002b20725.png)
+![image](https://user-images.githubusercontent.com/112718519/198719049-b3c40617-c94d-447c-a556-039348081b38.png)
 
 9. You are now finished with Task 3. Click anywhere on the screen to go to Task 4.
 
-![image](https://user-images.githubusercontent.com/112718519/198704027-59239471-be95-4dec-a8e7-fce9dae509c1.png)
+![image](https://user-images.githubusercontent.com/112718519/198719066-1863828c-b123-49b9-95c3-b9a9541330e2.png)
 
 
 

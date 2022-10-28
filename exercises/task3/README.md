@@ -16,7 +16,7 @@
 
 2. Click **Start**
 
-![image](https://user-images.githubusercontent.com/112718519/198703442-6cffb21d-a979-41a1-b0f7-c623aa042a10.png)
+![image](https://user-images.githubusercontent.com/112718519/198704655-2337649a-85b8-436d-a7e3-85e1c382b7a1.png)
 
 3. Click on the **More** icon
 

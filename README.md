@@ -25,6 +25,7 @@ There are two exercises that you will run through within this session. These exe
 
 ### Hands-on Exercies
 
+- [Getting Started](exercises/getStarted/)
 - [Exercise 1 – Understanding the Basics of SAP Analytics Cloud Stories](exercises/ex1/)
 - [Exercise 2 - Integrating Planning into a Business Intelligence Story](exercises/ex2/)
 - [Exercise 3 - Integrating Scripting](exercises/ex3/)

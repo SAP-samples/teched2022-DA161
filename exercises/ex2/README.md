@@ -176,43 +176,39 @@ When completing exercises, some data values or sceenshots may not match what you
 
 31. In Sales & Marketing for August 2023, type in **17**
 
-<img src="https://user-images.githubusercontent.com/112718519/198358586-c908069b-2d16-470b-b9d5-00e80f2c6cd3.png" width="700" />
+<img src="https://user-images.githubusercontent.com/112718519/198675354-a282e983-2165-41a0-afe3-9c30dce80859.png" width= "750" />
 
 32. In Sales & Marketing for September 2023, type **20**
 
-![image](https://user-images.githubusercontent.com/112718519/198358605-3234ce9f-5462-4d14-9f60-c92863e231de.png)
+<img src="https://user-images.githubusercontent.com/112718519/198675641-8d2c74ed-442e-4c4a-b36c-7103d983a6a3.png" width= "750" />
 
 33. For Sales & Marketing in October 2023, type **23**
 
-![image](https://user-images.githubusercontent.com/112718519/198358616-de16081b-94ad-4dca-8d34-72361175589d.png)
+<img src="https://user-images.githubusercontent.com/112718519/198675751-68145de0-2f11-45b1-bf3a-89a8ff627e23.png" width= "750" />
 
 34. For Sales & Marketing in November 2023, type **25**
 
-![image](https://user-images.githubusercontent.com/112718519/198358629-5a280cb3-33de-4cb2-915d-7c3aad32749d.png)
+<img src="https://user-images.githubusercontent.com/112718519/198675801-38a6ac3f-ad5a-4ef8-a037-028aa9885ace.png" width= "750" />
 
 35. For Sales & Marketing in December 2023, type **27**
 
-![image](https://user-images.githubusercontent.com/112718519/198358646-37af518f-e875-44c3-a29a-bb148bead6fa.png)
-
-⚠️ **Quality check!** Does your table look like this?
-
-![image](https://user-images.githubusercontent.com/112718519/198358668-d91aa903-6c7a-4a84-9712-d043055dd209.png)
+<img src="https://user-images.githubusercontent.com/112718519/198675962-54698eb9-b8c6-49af-86e1-e98d49410df6.png" width= "750" />
 
 36. Now, you want to ensure that changes with the Headcount data are reflected in the overall Financial Plan. Click the **Financial Plan** tab.
 
-![image](https://user-images.githubusercontent.com/112718519/198353539-295b4a18-6a73-450c-a0b2-fb443178d53b.png)
+![image](https://user-images.githubusercontent.com/112718519/198676162-6329605b-60b9-4b21-9fb8-b0e2bd0fe097.png)
 
 37. Click into the **story filter**. Click **All**.
 
-![image](https://user-images.githubusercontent.com/112718519/198353559-30e76d76-b514-4e89-a381-b7d36d4d42da.png)
+![image](https://user-images.githubusercontent.com/112718519/198676193-60eb5811-7d5d-4f8f-bbbe-b848b51ba52f.png)
 
-38. In the Financial Account filter panel, click **Operating Income**
+38. In the Plan Currency filter panel, click **US Dollars** 
 
-![image](https://user-images.githubusercontent.com/112718519/198353577-d1cc8089-be84-446c-ab0b-8b7250eeb6fb.png)
+![image](https://user-images.githubusercontent.com/112718519/198676247-bb6c7631-b1b7-4f82-98a1-07586e57f95d.png)
 
-39. In the Plan Currency filter panel, click **US Dollars** 
+39. Scroll to the bottom of the dashboard. In the Financial Account filter panel, click **Operating Income**
 
-![image](https://user-images.githubusercontent.com/112718519/198353593-8425e6a4-7125-488f-beb1-8d0cc90b845b.png)
+![image](https://user-images.githubusercontent.com/112718519/198676350-c3881036-9a64-4bc9-9bbd-efffdb4b4d92.png)
 
 40. Click the **Run Data Action** button
 
@@ -222,25 +218,25 @@ When completing exercises, some data values or sceenshots may not match what you
 
 41. Click the **version icon** to open a list of target versions
 
-![image](https://user-images.githubusercontent.com/112718519/198353661-7fb47083-33a1-49f6-a2f0-9713068950f6.png)
+![image](https://user-images.githubusercontent.com/112718519/198676435-0e4ff3ad-7adb-4eea-904f-e0db3da9023e.png)
 
 42. Click the private version that you created. In this case, it would be XX - 23 Plan.
 
-![image](https://user-images.githubusercontent.com/112718519/198353675-711a5599-d461-48b9-88b5-72fc479c636d.png)
+![image](https://user-images.githubusercontent.com/112718519/198676453-bb6dfcfd-71cb-42f3-9059-5fb7fd6cfb74.png)
 
 43. Click **OK**
 
-![image](https://user-images.githubusercontent.com/112718519/198353695-58cc9fce-1d44-4e2e-b5a2-4c7868eaa429.png)
+![image](https://user-images.githubusercontent.com/112718519/198676478-2c083883-5628-4b0e-aea9-0b2c03476641.png)
 
 44. Click **Run**.  The Data Action will be running the calculation in the background and updating your data.
 
-![image](https://user-images.githubusercontent.com/112718519/198353706-8d64bfcc-b8bb-4b2f-9d81-df514de18c20.png)
+![image](https://user-images.githubusercontent.com/112718519/198676490-2e5d52eb-4e5f-412b-ad5e-e6f385d0bcd4.png)
 
 ℹ️ After running the Data Action Trigger, the widgets are updated to reflect the new calculation. The two KPIS, Operating Income XX - 23 Plan and Total Labour Cost, both have updated values. The Table also has updated values highlighted in yellow, which includes values for Opearting Income, Operating Expenses and Personnel Costs.
 
 ⚠️ **Quality check!** Does your Table look like this? 
 
-![image](https://user-images.githubusercontent.com/112718519/197865162-9e4a9180-0056-4922-abb3-a2777456d010.png)
+![image](https://user-images.githubusercontent.com/112718519/198676607-7d43d5f4-9ea1-4db9-8e29-fcb4447b970a.png)
 
 
 ## Summary

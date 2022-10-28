@@ -210,9 +210,9 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198676350-c3881036-9a64-4bc9-9bbd-efffdb4b4d92.png)
 
-40. Click the **Run Data Action** button
+40. Click **Run Data Action**, which is the blue button button
 
-<img src="https://user-images.githubusercontent.com/112718519/198359534-bc2edd40-5ae5-427f-8625-bef5e324dbe8.png" width="750" />
+![image](https://user-images.githubusercontent.com/112718519/198678260-4ebc3702-a1a8-4a63-b7ed-0d63c4ec3817.png)
 
 ℹ️ The Data Action Trigger runs a batch calculation to recalculate personnel costs related to the increase in Headcount.
 

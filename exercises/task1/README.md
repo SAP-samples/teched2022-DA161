@@ -65,9 +65,6 @@ Explanation of Task: The purpose of this task is to utilize the left vertical pa
 
 ## Summary
 
-**You have completed the entire Integrating Planning into a Business Intelligence Story section!**
-
-**You are now able to:**
-- TODO
+**You have completed Task 1!**
 
 Continue to - [Task 2 - Evaluate the Usability of the Left/Ride Side Panel Triggers](../task2/README.md)

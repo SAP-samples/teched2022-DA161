@@ -66,17 +66,37 @@ For this Chart, we are using SAP_XPA_FINANCE, which is a New Model type. The Cha
 
 ![image](https://user-images.githubusercontent.com/112718519/197619076-27a85402-48e5-4dc1-bc60-c2b06fca7387.png)
 
-8. Click **+ At least 1 Account required**
+🚩 We can see that the current data model that is being used in the Chart is SAP_XPA_HEADCOUNT. In order to incorporate financial data into the Chart, you will need to change the Data Model for this Chart.
 
-![image](https://user-images.githubusercontent.com/112718519/197619103-c342ed13-49cc-43bb-90f6-02557aa1b7d3.png)
+8. Click on the **Data Model** icon
 
-9. Click on the arrow beside Operating Income to expand the Account
-10. Click on **Gross Profit**
-11. Click anywhere outside the Account selection drop down menu to collapse it 
+![image](https://user-images.githubusercontent.com/112718519/199082435-196fb5e5-e9a1-401a-b0d4-b61e78d9be4b.png)
+
+9. Click **OK**
+
+![image](https://user-images.githubusercontent.com/112718519/199082639-86f8f983-4107-42cf-a3ad-34a40bd749e9.png)
+
+10. Click **SAP_XPA_FINANCE**
+
+![image](https://user-images.githubusercontent.com/112718519/199082690-5b325dbd-9107-4323-86ef-a39a0fae62a2.png)
+
+11. Click **OK**
+
+![image](https://user-images.githubusercontent.com/112718519/199082747-349edbdf-3949-43d1-b108-0826d238ae80.png)
+
+🚩 After selecting the Finance Data Model, the Builder Panel automatically updates the name of the Data Model.
+
+13. Click **+ At least 1 Account required**
+
+![image](https://user-images.githubusercontent.com/112718519/199083035-638c0472-f146-4ad8-8ff3-4b39f12501f8.png)
+
+14. Click on the arrow beside Operating Income to expand the Account
+15. Click on **Gross Profit**
+16. Click anywhere outside the Account selection drop down menu to collapse it 
 
 ![image](https://user-images.githubusercontent.com/112718519/197619116-a90dd2fa-85c4-4f47-b949-f39ba9f4f363.png)
 
-12. Click **+ At least 1 Measure required**
+17. Click **+ At least 1 Measure required**
 
 ![image](https://user-images.githubusercontent.com/112718519/197619158-234a75bf-9157-418d-9203-5e62599d8856.png)
 
@@ -247,7 +267,7 @@ Does you Chart look like this?
  
 ![image](https://user-images.githubusercontent.com/112718519/197639648-e992112a-a376-44c4-a085-e4df8cdfaacc.png)
 
-🚩 After selecting the Headcount Data Model, the Builder Panel automatically updates the name of the Data Model. For the Headcount Data Model, it is a Classic Account Model instead of a New Model that we saw for the Finance Data Model. Therefore, the Builder Panel is updated to reflect how Account is the only requirement for the Classic Account Model. 
+🚩 For the Headcount Data Model, it is a Classic Account Model instead of a New Model that we saw for the Finance Data Model. Therefore, the Builder Panel is updated to reflect how Account is the only requirement for the Classic Account Model. 
 
 You are not too familiar with the Headcount Data Model and you want to see a list of Accounts and Dimensions that are available to insert into the Chart. In the top right of the Builder Panel, click Available Objects.
 

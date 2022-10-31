@@ -406,6 +406,8 @@ It provides you a holistic view of all the data related objects that are associa
 
 ![image](https://user-images.githubusercontent.com/112718519/199100172-356e447d-7660-4e5f-a8d8-255e0b4da34c.png)
 
+🚩 Press CTRL + S to save your story. 
+
 🚩 We are now intersted in adding another KPI to summary the Average Salary that we are paying our employees. To make it easier, lets duplicate the existing KPI so that we don't need to worry much about the formatting of the object.
 
 96. Click on the **Numeric Point Chart Operating Income for 2022**
@@ -486,7 +488,7 @@ Hence, we will have to create a calculation to reflect this metric.
 
 ![image](https://user-images.githubusercontent.com/112718519/199101773-d37726c5-89e2-4bed-8682-aea048839bc1.png)
 
-🚩 Save your story with CTRL + S
+🚩 Press CTRL + S to save your story. 
 
 
 

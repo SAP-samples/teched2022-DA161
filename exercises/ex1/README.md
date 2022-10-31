@@ -205,7 +205,83 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 
 ![image](https://user-images.githubusercontent.com/112718519/199087239-bc0323c1-ef44-4ab5-9c97-42ca038227ff.png)
 
-53. 
+⚠️**Quality Check!** Does your Chart look like this? 
+
+![image](https://user-images.githubusercontent.com/112718519/199088140-54dbbf15-be27-4980-ac08-b66953909993.png)
+
+🚩 Press CTRL + S to save your story. 
+
+🚩 We now have a good representation of some key figures when it comes to our financial data. Now, let's incorporate some Headcount data into our dashboard to provide our management team a holistic view of the business. 
+
+53. In the toolbar, click on the **Chart** icon
+
+![image](https://user-images.githubusercontent.com/112718519/199088216-92c1c4dc-6a91-457a-bfb1-d151616702ba.png)
+
+54. Click and hold the border of the chart to move the object and position it to align with the Current Selection Input Control.
+
+![image](https://user-images.githubusercontent.com/112718519/199088296-ac1b3238-1395-43ff-9541-88156b5026eb.png)
+
+55. Click and hold the bottom right resize icon of the Chart
+
+![image](https://user-images.githubusercontent.com/112718519/199088328-3dc57736-5f86-461a-b67c-d2fbb076418d.png)
+
+56. Resize the Chart so that its width is slightly smaller than the Table above
+
+![image](https://user-images.githubusercontent.com/112718519/199088390-f2a4f523-8e3a-4d39-8c6c-d63368346329.png)
+
+⚠️**Quality Check!** Does you Chart look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/199088488-cda40c1a-49f0-4f6f-aa1c-542b66dd1b53.png)
+
+🚩 We can see that the current data model that is being used in the Chart is SAP_XPA_FINANCE. In order to incorporate Headcount data into the Chart, you will need to change the Data Model for this Chart. 
+
+57. Click the **Data Model** icon
+
+![image](https://user-images.githubusercontent.com/112718519/199088539-02519191-aab8-4c05-81d2-7eb4530080ab.png)
+
+58. Click **OK**
+
+![image](https://user-images.githubusercontent.com/112718519/199088565-dc4877cb-a110-432e-9dcf-48fca619c8a3.png)
+
+59. Click on the arrow
+
+![image](https://user-images.githubusercontent.com/112718519/199088592-fbe3c085-17cb-4e76-894c-ffb31b8b3720.png)
+
+60. Click **SAP_XPA_HEADCOUNT**
+
+![image](https://user-images.githubusercontent.com/112718519/199088651-e0119529-873d-41c2-8d4b-07a64e52ff1a.png)
+
+61. Click **OK**
+
+![image](https://user-images.githubusercontent.com/112718519/199088836-cf4bc429-06d5-44c0-b447-4785daf2bcea.png)
+
+🚩 For the Headcount Data Model, it is a Classic Account Model instead of a New Model that we saw for the Finance Data Model. Therefore, the Builder Panel is updated to reflect how Account is the only requirement for the Classic Account Model. 
+
+You are not too familiar with the Headcount Data Model and you want to see a list of Accounts and Dimensions that are available to insert into the Chart. In the top right of the Builder Panel, click Available Objects.
+
+62. Click **Available Objects** in the Builder Panel
+
+![image](https://user-images.githubusercontent.com/112718519/199089493-f73a1984-91aa-4c6e-8bc0-46b8150dc7cb.png)
+
+ℹ️ Welcome to the Available Objects!
+
+It provides you a holistic view of all the data related objects that are associated to the data model. It provides you an ability to quickly drag and drop objects into the Builder Panel or use any of the quick action menus to bind the data.
+
+![image](https://user-images.githubusercontent.com/112718519/197639771-4ade8c48-bff3-42ca-a676-2e6c4135b01a.png)
+
+🚩 Based on the data that is available within this data model, we are interested in building a trend over time that represents our headcount.
+
+63. Click on the **More** action icon for **Headcount**
+64. Click Add to Accounts
+
+![image](https://user-images.githubusercontent.com/112718519/199089622-bd8daa3d-0cfe-4dec-b2dc-bfd466b2fc0c.png)
+
+65. Click on the search bar and type **Hire**
+66. Click on the **More** action icon for **SAP_XPA_HIRE_DATE**
+67. Click on **Add to Dimensions**
+
+![image](https://user-images.githubusercontent.com/112718519/199089702-047c08f8-92a6-45f6-916e-3e64e9722ec4.png)
+
 
 
 
@@ -346,7 +422,7 @@ Does you Chart look like this?
 
 ![image](https://user-images.githubusercontent.com/112718519/197639283-0b35c35f-5c21-48a2-81c6-f67733e4afab.png)
 
-50.	Cick and hold the bottom right resize icon of the Chart
+50.	Click and hold the bottom right resize icon of the Chart
 
 ![image](https://user-images.githubusercontent.com/112718519/197639310-21d74e50-f4d3-4499-970e-1aa7bca67722.png)
 

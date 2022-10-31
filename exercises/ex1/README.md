@@ -136,7 +136,7 @@ Does your dashboard look like this?
 🚩 Now, the Chart only shows actual Gross Profit. We want the Chart to show actual Gross Profit versus planned Gross Profit. We will add planned Gross Profit into the Chart by adding an additional Dimension. 
 
 25. Scroll to the bottom of the Builder Panel
-26. Click **+ Add Dimension/Account**
+26. Under Color, click **+ Add Dimension/Account**
 
 ![image](https://user-images.githubusercontent.com/112718519/197629674-bc76455f-095f-40db-a0b8-65e95fd16402.png)
 
@@ -193,7 +193,7 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 
 ![image](https://user-images.githubusercontent.com/112718519/197630308-29086c92-50e8-4206-9ceb-4231de056880.png)
 
-45.	Click **expand** for Percentage
+45.	Click the **expand** icon for Percentage
 46.	Click **1**
 47.	Click **Done**
 
@@ -203,6 +203,8 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 Does you Chart look like this?
 
 **IMAGE**
+
+🚩 Press CTRL + S to save your story. 
 
 🚩 We now have a good representation of some key figures when it comes to our financial data. Now, let's incorporate some Headcount data into our dashboard to provide our management team a holistic view of the business. 
 
@@ -293,6 +295,8 @@ Let's drill into the visualization to see the data context per quarter.
 Does you Chart look like this?
 
 ![image](https://user-images.githubusercontent.com/112718519/197640353-d4d87796-5bca-4780-8a64-28bd64644a5a.png)
+
+🚩 Press CTRL + S to save your story.
 
 🚩 Now, you are interested in adding a variance to see the difference in Headcount between the current quarter and the previous quarter.
 

@@ -220,7 +220,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ⚠️ **Quality check!** Does your story look like this? 
 
-![image](https://user-images.githubusercontent.com/112718519/198676607-7d43d5f4-9ea1-4db9-8e29-fcb4447b970a.png)
+![image](https://user-images.githubusercontent.com/112718519/199127029-2c5d4f14-c870-44e4-83d3-27e33ee37d95.png)
 
 
 ## Summary

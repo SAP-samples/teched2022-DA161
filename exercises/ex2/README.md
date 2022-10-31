@@ -104,7 +104,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198673990-057eb2f2-1f2d-4899-a946-831dc2a6295d.png)
 
-17. In the Plan Currency filter panel, click **Local Currency**
+17. In the Plan Currency filter panel, click **Local Currency** (Note: that SAP Analytics Cloud allows us to plan or forecast in any number of currencies depending on specific model and report settings. In this case changes will be made based on the local currency of the selected organization).
 
 ![image](https://user-images.githubusercontent.com/112718519/198674057-3c940b12-a1b4-4d91-acba-901c15a44cfc.png)
 

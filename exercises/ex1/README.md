@@ -106,6 +106,10 @@ For this Chart, we are using SAP_XPA_FINANCE, which is a New Model type. The Cha
 
 ![image](https://user-images.githubusercontent.com/112718519/199084112-834e7f1f-84d8-4d26-9080-7501e08238c4.png)
 
+🚩 We can now see data for our Gross Profit as we've successfully met the minimum conditions to view data for our Bar / Column Chart. Let's now add our Product dimension to see the breakdown per Product.
+
+![image](https://user-images.githubusercontent.com/112718519/199090847-2086b1c8-d2ab-404e-af37-2d47fbb05e28.png)
+
 20. Click **+ Add Dimension**
 
 ![image](https://user-images.githubusercontent.com/112718519/199084155-488f00af-059f-43d5-a316-77fccd115369.png)
@@ -115,10 +119,16 @@ For this Chart, we are using SAP_XPA_FINANCE, which is a New Model type. The Cha
 
 ![image](https://user-images.githubusercontent.com/112718519/199084307-0511fa19-fbed-4aac-b785-436c935ab24c.png)
 
+🚩 However, as Product is a hierarchial dimension, we want to drill down into the Product Dimension so that we can see a more detailed view of our Gross Profit.
+
 23. Let's try drilling via the Builder Panel. Click the **Drill** icon in the SAP_XPA_Product Dimension. 
 24. Click on **Level 2**
  
 ![image](https://user-images.githubusercontent.com/112718519/199084418-1e53b310-cb01-47b8-9475-d87c7cd71e27.png)
+
+🚩 We can now see data for our Gross Profit per Product. Based on this breakdown we can see that Youth Bikes bring us the most Gross Profit in comparison to any other product that we offer.
+
+Let's resize and reposition the visualization for better readability.
 
 25. Scroll to the right of the dashboard
 26. Click and hold the border of the chart to move the object
@@ -166,6 +176,8 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 35. Click on a spot outside the Version selection dropdown menu to collapse it
 
 ![image](https://user-images.githubusercontent.com/112718519/199086671-ee8c4845-eedb-41eb-a61d-1b66b6d5d1fc.png)
+
+🚩 We can see the difference between our Plan 22 and Actuals. However, we want a better visual representation of this data. Hence, lets add a variance to show the difference between Actual and 22 Plan.
 
 36. Click the **expand** icon for Chart Add-ons
 37. Scroll to the bottom of the Builder Panel

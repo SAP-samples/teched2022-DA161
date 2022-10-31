@@ -56,7 +56,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 8. You want to filter the story to only show data belonging to XX - 23 Plan. In the Version filter, select **XX - 23 Plan**.
 
-![image](https://user-images.githubusercontent.com/112718519/198352123-0497beba-0e49-4105-b715-a93bb57f473e.png)
+![image](https://user-images.githubusercontent.com/112718519/199126556-77df54c3-b38f-4a1c-a64c-23b050b4cf40.png)
 
 🚩 Now, you can start making changes to your data. To begin, let’s make some adjustments to raw material charges for BestBikes GmbH to account for some ongoing inflation pressures you are expecting specifically with suppliers in that region. 
 

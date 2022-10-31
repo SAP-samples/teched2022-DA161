@@ -267,7 +267,7 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 
 ![image](https://user-images.githubusercontent.com/112718519/199088836-cf4bc429-06d5-44c0-b447-4785daf2bcea.png)
 
-🚩 For the Headcount Data Model, it is a Classic Account Model instead of a New Model that we saw for the Finance Data Model. Therefore, the Builder Panel is updated to reflect how Account is the only requirement for the Classic Account Model. 
+🚩 After selecting the Headcount Data Model, the Builder Panel automatically updates the name of the Data Model. For the Headcount Data Model, it is a Classic Account Model instead of a New Model that we saw for the Finance Data Model. Therefore, the Builder Panel is updated to reflect how Account is the only requirement for the Classic Account Model. 
 
 You are not too familiar with the Headcount Data Model and you want to see a list of Accounts and Dimensions that are available to insert into the Chart. In the top right of the Builder Panel, click Available Objects.
 
@@ -294,6 +294,53 @@ It provides you a holistic view of all the data related objects that are associa
 
 ![image](https://user-images.githubusercontent.com/112718519/199089702-047c08f8-92a6-45f6-916e-3e64e9722ec4.png)
 
+⚠️ **Quality Check!** Does your Chart look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/199096258-d04003f1-5482-42b0-9b50-b2e8a6fccafd.png)
+
+68. Click on the bar that represents (all)
+69. Click on the **Drill Down** icon
+
+![image](https://user-images.githubusercontent.com/112718519/199096284-6dc5e2ba-f375-473b-a579-4ed4d307f50e.png)
+
+70. Within the Builder Panel, click on the **Drill icon** for SAP_XPA_HIRE_DATE
+71. Click Level 3
+ 
+⚠️ **Quality Check!** Does your Chart look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/199096773-41a63215-f733-414e-ba4b-7446d9360af7.png)
+
+72. Scroll to the bottom of the Builder Panel
+73. Click **expand** for the Chart Add-ons
+74. Click **Variance**
+
+![image](https://user-images.githubusercontent.com/112718519/199096959-5512c6bd-661b-4d20-879b-3e2ccaf2addd.png)
+
+75. Click **+ Add Version/Time**
+
+![image](https://user-images.githubusercontent.com/112718519/199096995-812fecbf-b9ff-45a1-9994-bfd1cc9487c6.png)
+
+76. Click **SAP_XPA_HIRE_DATE** 
+
+![image](https://user-images.githubusercontent.com/112718519/199097115-516683d7-78fa-4289-8f6c-c2af9e946c80.png)
+
+77. Click **Integrated**
+78. Click **Done**
+
+![image](https://user-images.githubusercontent.com/112718519/199097345-a7765684-db8e-4525-ad63-3cca7cffe889.png)
+
+79. Click **X** to close the Available Objects List
+
+![image](https://user-images.githubusercontent.com/112718519/199097372-eed75136-9f22-44a4-b3d3-87c2e6988538.png)
+
+⚠️Quality Check! Does you Chart look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/199097243-8231bf88-96c1-47ac-bc2a-6470a4b14326.png)
+
+🚩 We now want to add a Geographical representation of where the hires are per location. It would also be a good idea for us to better understand the various career levels that we have by headcount per location.
+
+80. Click the **Add** icon
+81. Click **Geo Map** in the Others section
 
 
 

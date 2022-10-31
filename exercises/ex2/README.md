@@ -68,169 +68,153 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198672383-0d581a2b-a6c4-4983-9132-4ae8c9d6d7d4.png)
 
-11. Click on the **arrow** to expand 2023 values
-
-![image](https://user-images.githubusercontent.com/112718519/198673232-ed129f1a-aa9d-44ea-ba54-f4c87c5c9f3a.png)
-
 🚩 The planned changes to changes to raw material will not take effect until our new supply contract becomes active, which will occur after Q1/2023 (i.e. increases will not apply to the first three months of the year). 
 
-12. Highlight the cells from **January to March 2023**. 
+11. Highlight the cells from **January to March 2023**. 
 
-![image](https://user-images.githubusercontent.com/112718519/198673524-c2d519cf-ab4a-42f7-bdb2-40267a3a3370.png)
+![image](https://user-images.githubusercontent.com/112718519/199125554-a3f11588-d72d-4ca3-aca7-a555f4af97c9.png)
 
-13. Right click the highlighted cells and click **Lock Cell**. 
+12. Right click the highlighted cells and click **Lock Cell**. 
 
 🚩 By clicking Lock Cell, you are no longer able to apply edits and changes to the cells.
 
-![image](https://user-images.githubusercontent.com/112718519/198673613-7a926024-8a5f-4b9e-af66-e622e1446a69.png)
+![image](https://user-images.githubusercontent.com/112718519/199125571-29cb4be7-6307-4f1e-806d-284385dce690.png)
 
-14. Now, you want to increase the raw material charges by 10% for the year 2023. Click into the value for 2023.
+13. Now, you want to increase the raw material charges by 10% for the year 2023. Click into the value for 2023.
 
-![image](https://user-images.githubusercontent.com/112718519/198673705-8bba7d3e-3b86-4898-9f76-841ef504e623.png)
+![image](https://user-images.githubusercontent.com/112718519/199125598-f58bec3d-a742-46d6-9bf5-921fc1f3be88.png)
 
-15. Type in **+10%** directly into the cell
+14. Type in **+10%** directly into the cell
 
-![image](https://user-images.githubusercontent.com/112718519/198673724-fa5aaac4-19b8-447f-a89f-fca46a6be4d7.png)
+![image](https://user-images.githubusercontent.com/112718519/199125625-d5369078-d27a-4876-af76-ca293c7b37d2.png)
 
 ℹ️ Now, all the values are increased by 10% except for January 2023 to March 2023. This is because you have previously locked these cells. The increase in raw material charges are only applied to April 2023 to December 2023.
 
 ⚠️ **Quality check!** Does your Table look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/198673777-60efac1f-5c08-42a6-a074-53fd3ac93b89.png)
+![image](https://user-images.githubusercontent.com/112718519/199125667-17bae9c1-02f5-4db7-81bd-c0c4bf831aad.png)
 
 🚩 Let's change the story filter so that you are filtering the data to show bikes in the Chinese market (China Bikes Ltd). 
 
-16. Click the story filter in the top panel. Click **China Bikes Ltd**.
+15. Click the story filter in the top panel. Click **China Bikes Ltd**.
 
-![image](https://user-images.githubusercontent.com/112718519/198673990-057eb2f2-1f2d-4899-a946-831dc2a6295d.png)
+![image](https://user-images.githubusercontent.com/112718519/199125688-708e3410-aaaa-4c0b-92a0-abf4def7c17f.png)
 
-17. In the Plan Currency filter panel, click **Local Currency** (Note: SAP Analytics Cloud allows the user to plan, forecast, and/or report in any number of currencies depending on specific model and report settings)
+16. In the Plan Currency filter panel, click **Local Currency** (Note: SAP Analytics Cloud allows the user to plan, forecast, and/or report in any number of currencies depending on specific model and report settings)
 
-![image](https://user-images.githubusercontent.com/112718519/198674057-3c940b12-a1b4-4d91-acba-901c15a44cfc.png)
+![image](https://user-images.githubusercontent.com/112718519/199125704-636f57e4-4ae6-42dc-bb73-3bc4136e92f0.png)
 
-18. Scroll to the bottom of the dashboard. In the Financial Account filter panel, click **Gross Sales**
+17. Scroll to the bottom of the dashboard. In the Financial Account filter panel, click **Gross Sales**
 
-![image](https://user-images.githubusercontent.com/112718519/198674178-33c45352-241c-49c8-942e-c48ceb53de1f.png)
+![image](https://user-images.githubusercontent.com/112718519/199125716-3ba56537-d2dd-4591-ab54-28c04312a970.png)
 
-19. Click the **arrow** to expand All Channels, which will show unassigned data for Gross Sales
+18. Click the **arrow** to expand All Channels, which will show unassigned data for Gross Sales
 
-![image](https://user-images.githubusercontent.com/112718519/198674318-cf059071-f066-4f62-9ba2-7356f4937c3e.png)
+![image](https://user-images.githubusercontent.com/112718519/199125734-999c285f-487f-4533-8038-421e2a91b1b5.png)
 
 🚩 The unassigned data is assumed to be the total Gross Sales, all of which has occurred via our retail channel up until this point. However, next year we are going to run a pilot project in China to also sell directly via a newly developed Web Store. For this reason, we want to distribute the unassigned data for Gross Sales into different channels, which includes the Web Store and Retailer network. Before you do that, you want to display all channel members so that they are visible in the Table.
 
-20. Right-click on the **SAP_XPA_CHANNEL header** in the Table. In Show/Hide, click Unbooked.
+19. Right-click on the **SAP_XPA_CHANNEL header** in the Table. In Show/Hide, click Unbooked.
 
-![image](https://user-images.githubusercontent.com/112718519/198674405-00cd1de7-67bc-4573-b422-10e8adeea724.png)
+![image](https://user-images.githubusercontent.com/112718519/199125748-0d7b116d-6a31-4d31-b12a-d33e5892fafb.png)
 
 🚩 Currently, there are no values in Web Store and Retail Stores, so you want to distribute the unassigned data for Gross Sales into these two channels. You assume Web Store consumes 10% of Gross Sales and Retail Stores consume 90% of Gross Sales.
 
-21. Let's right click into the unassigned value for 2023. Click **Distribute Value**.
+20. Let's right click into the unassigned value for 2023. Click **Distribute Value**.
 
-![image](https://user-images.githubusercontent.com/112718519/198674535-ec777d83-285e-4236-9125-1b46cf997621.png)
+![image](https://user-images.githubusercontent.com/112718519/199125768-6a5303a7-8c2a-4390-831f-7aed406f3dac.png)
 
 ℹ️ Welcome to the Planning Panel! This is where you can specify the distribution of values to one or more cells. Or, you can also redistribute the values of a group of cells.
 
-22. Under Recommendations, click **Distribute to SAP_XPA_CHANNEL members of the same level**
+21. Under Recommendations, click **Distribute to SAP_XPA_CHANNEL members of the same level**
 
-![image](https://user-images.githubusercontent.com/112718519/198726696-f102a1ad-bd32-4f83-8542-8578e1dd10fd.png)
+![image](https://user-images.githubusercontent.com/112718519/199125787-9640cc4e-010f-451e-8a9e-f677dd76523d.png)
 
-23. Under Cell, select **Overwrite**
+22. Under Cell, select **Overwrite**
 
-![image](https://user-images.githubusercontent.com/112718519/198674631-420faef7-da02-4757-ae1e-3212597de257.png)
+![image](https://user-images.githubusercontent.com/112718519/199125797-55418bee-d000-467d-a4c1-78c3999db557.png)
 
-24. Under Input Values, select **Input Weights**
+23. Under Input Values, select **Input Weights**
 
-![image](https://user-images.githubusercontent.com/112718519/198674659-d6d802ed-2e4c-4ba7-a310-e26ce551ee7d.png)
+![image](https://user-images.githubusercontent.com/112718519/199125808-b25f7559-e903-42d0-b0b2-fd6e0953f1df.png)
 
-25. Now, you can specify the weights that you want to assign to Web Store and Retails Stores. Enter **10** for Web Store.
+24. Now, you can specify the weights that you want to assign to Web Store and Retails Stores. Enter **10** for Web Store.
 
-![image](https://user-images.githubusercontent.com/112718519/198674952-b613b9a3-087d-47a7-a189-1e873b6c6417.png)
+![image](https://user-images.githubusercontent.com/112718519/199125827-099cf07f-146d-452c-8109-371d92286b9d.png)
 
-26. Enter **90** for Retail Stores
+25. Enter **90** for Retail Stores
 
-![image](https://user-images.githubusercontent.com/112718519/198674716-671841a2-be5f-4059-b584-8984412dd7b7.png)
+![image](https://user-images.githubusercontent.com/112718519/199125839-65811b99-acaa-435a-a3be-0d04e03aef6b.png)
 
-27. Click **Apply**
+26. Click **Apply**
 
-![image](https://user-images.githubusercontent.com/112718519/198674744-7f36f2cb-ebb4-40e8-9f60-25fa2c1d5c9f.png)
+![image](https://user-images.githubusercontent.com/112718519/199125862-b818b4fc-55ed-49ae-b2df-16359eb155e3.png)
 
 ⚠️ **Quality check!** All the unassigned data for Gross Sales are now distributed to the corresponding channels. Does your Table look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/198674798-e804f457-8c96-4f6a-a989-5e7d150f723a.png)
+![image](https://user-images.githubusercontent.com/112718519/199125887-bf5bb856-7879-4ee7-b427-8dfa4cf35e89.png)
 
 🚩 Finally, you want to make some adjustments to Headcount for our Japanese business (Nippon Bikes) in anticpation of further growth in that market beyond 2023.  Navigate to the page in your story that contains Headcount data. 
 
-28. Click on the **Employee Plan** tab
+27. Click on the **Employee Plan** tab
 
-![image](https://user-images.githubusercontent.com/112718519/198675006-75e1a4b7-c3a8-4aa8-8b3f-26ca45312621.png)
+![image](https://user-images.githubusercontent.com/112718519/199125903-091929e2-e25e-48fa-a085-585ba6925ef1.png)
 
-29. Click **XX - 23 Plan**
+28. Click **XX - 23 Plan**
 
-![image](https://user-images.githubusercontent.com/112718519/198675047-df2658ec-ddb7-406c-b19b-deb350087c0b.png)
+![image](https://user-images.githubusercontent.com/112718519/199125911-bc160994-f85c-44e3-a25d-96fad7cfe5c2.png)
 
-30. Click the **story filter** in the top panel. Click **Nippon Bikes**.
+29. Click the **story filter** in the top panel. Click **Nippon Bikes**.
 
-![image](https://user-images.githubusercontent.com/112718519/198675078-5b87034b-2fae-4d6f-b4b6-8f3618192c35.png)
+![image](https://user-images.githubusercontent.com/112718519/199125938-7f8ce2dc-3254-46a4-9d81-4acebfeef9e9.png)
 
 🚩 For August through December 2023, we are looking to ramp up Headcount in Sales & Marketing. As a result of the additional Headcount, you are also anticipating that sales increased sales in future years. 
 
-31. In Sales & Marketing for August 2023, type in **17**
+30. In Sales & Marketing for August 2023, type in **17**
+31. In Sales & Marketing for September 2023, type **20**
+32. For Sales & Marketing in October 2023, type **23**
+33. For Sales & Marketing in November 2023, type **25**
+34. For Sales & Marketing in December 2023, type **27**
 
-<img src="https://user-images.githubusercontent.com/112718519/198675354-a282e983-2165-41a0-afe3-9c30dce80859.png" width= "750" />
+![image](https://user-images.githubusercontent.com/112718519/199125988-d4324ea3-e405-4e56-b9cb-b54627b91627.png)
 
-32. In Sales & Marketing for September 2023, type **20**
+35. Now, you want to ensure that changes with the Headcount data are reflected in the overall Financial Plan. Click the **Financial Plan** tab.
 
-<img src="https://user-images.githubusercontent.com/112718519/198675641-8d2c74ed-442e-4c4a-b36c-7103d983a6a3.png" width= "750" />
+![image](https://user-images.githubusercontent.com/112718519/199126017-5948c8f3-2403-4450-bc98-f76f99773113.png)
 
-33. For Sales & Marketing in October 2023, type **23**
+36. Click into the **story filter**. Click **All**.
 
-<img src="https://user-images.githubusercontent.com/112718519/198675751-68145de0-2f11-45b1-bf3a-89a8ff627e23.png" width= "750" />
+![image](https://user-images.githubusercontent.com/112718519/199126030-48ce7415-449e-48b5-b7ac-63030c45e5b9.png)
 
-34. For Sales & Marketing in November 2023, type **25**
+37. In the Plan Currency filter panel, click **US Dollars** 
 
-<img src="https://user-images.githubusercontent.com/112718519/198675801-38a6ac3f-ad5a-4ef8-a037-028aa9885ace.png" width= "750" />
+![image](https://user-images.githubusercontent.com/112718519/199126046-52affde5-8adc-4bb7-9999-c00e8771790d.png)
 
-35. For Sales & Marketing in December 2023, type **27**
+38. Scroll to the bottom of the dashboard. In the Financial Account filter panel, click **Operating Income**
 
-<img src="https://user-images.githubusercontent.com/112718519/198675962-54698eb9-b8c6-49af-86e1-e98d49410df6.png" width= "750" />
+![image](https://user-images.githubusercontent.com/112718519/199126056-e8aa5d01-18d1-4e45-8ebc-bd46ccc94a0c.png)
 
-36. Now, you want to ensure that changes with the Headcount data are reflected in the overall Financial Plan. Click the **Financial Plan** tab.
+39. Click **Run Data Action**, which is the blue button
 
-![image](https://user-images.githubusercontent.com/112718519/198676162-6329605b-60b9-4b21-9fb8-b0e2bd0fe097.png)
-
-37. Click into the **story filter**. Click **All**.
-
-![image](https://user-images.githubusercontent.com/112718519/198676193-60eb5811-7d5d-4f8f-bbbe-b848b51ba52f.png)
-
-38. In the Plan Currency filter panel, click **US Dollars** 
-
-![image](https://user-images.githubusercontent.com/112718519/198676247-bb6c7631-b1b7-4f82-98a1-07586e57f95d.png)
-
-39. Scroll to the bottom of the dashboard. In the Financial Account filter panel, click **Operating Income**
-
-![image](https://user-images.githubusercontent.com/112718519/198676350-c3881036-9a64-4bc9-9bbd-efffdb4b4d92.png)
-
-40. Click **Run Data Action**, which is the blue button button
-
-![image](https://user-images.githubusercontent.com/112718519/198678260-4ebc3702-a1a8-4a63-b7ed-0d63c4ec3817.png)
+![image](https://user-images.githubusercontent.com/112718519/199126074-336a56f4-7cae-4ed2-b1d6-5addce8950ce.png)
 
 ℹ️ The Data Action Trigger runs a batch calculation to recalculate personnel costs related to the increase in Headcount.
 
-41. Click the **version icon** to open a list of target versions
+40. Click the **version icon** to open a list of target versions
 
-![image](https://user-images.githubusercontent.com/112718519/198676435-0e4ff3ad-7adb-4eea-904f-e0db3da9023e.png)
+![image](https://user-images.githubusercontent.com/112718519/199126087-54d177fa-cf4f-45fc-a964-d356eaf8b592.png)
 
-42. Click the private version that you created. In this case, it would be XX - 23 Plan.
+41. Click the private version that you created. In this case, it would be XX - 23 Plan.
 
-![image](https://user-images.githubusercontent.com/112718519/198676453-bb6dfcfd-71cb-42f3-9059-5fb7fd6cfb74.png)
+![image](https://user-images.githubusercontent.com/112718519/199126100-702ef249-ee58-4019-b31a-80a53f8cadc3.png)
 
-43. Click **OK**
+42. Click **OK**
 
-![image](https://user-images.githubusercontent.com/112718519/198676478-2c083883-5628-4b0e-aea9-0b2c03476641.png)
+![image](https://user-images.githubusercontent.com/112718519/199126111-25e70e90-ae6e-4b07-9b6a-25c5919370d9.png)
 
-44. Click **Run**.  The Data Action will be running the calculation in the background and updating your data.
+43. Click **Run**.  The Data Action will be running the calculation in the background and updating your data.
 
-![image](https://user-images.githubusercontent.com/112718519/198676490-2e5d52eb-4e5f-412b-ad5e-e6f385d0bcd4.png)
+![image](https://user-images.githubusercontent.com/112718519/199126124-d8f43832-d041-46dc-8148-6329dd357fec.png)
 
 ℹ️ After running the Data Action Trigger, the widgets are updated to reflect the new calculation. The two KPIS, Operating Income XX - 23 Plan and Total Labour Cost, both have updated values. The Table also has updated values highlighted in yellow, which includes values for Opearting Income, Operating Expenses and Personnel Costs.
 

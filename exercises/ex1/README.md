@@ -342,6 +342,153 @@ It provides you a holistic view of all the data related objects that are associa
 80. Click the **Add** icon
 81. Click **Geo Map** in the Others section
 
+![image](https://user-images.githubusercontent.com/112718519/199097768-f0e6d75d-0ab6-4fb3-ad53-89e672c0202b.png)
+
+82. Click and hold the border of the Geo Widget to move the object
+
+![image](https://user-images.githubusercontent.com/112718519/199097798-ca88e52c-112b-4d83-8b7a-ab1c05b00782.png)
+
+83. Move the Geo Widget to align it with the top of the Chart
+
+![image](https://user-images.githubusercontent.com/112718519/199097983-798e5bc3-ada5-4f01-8562-f817032e2276.png)
+
+84. Resize the Geo to align it with the Chart above and the edge of the shape header
+
+![image](https://user-images.githubusercontent.com/112718519/199098010-f3ff1bce-4a11-4b67-9f05-c2c45ff8efe7.png)
+
+🚩 We want to change the Base Layer Style to better match the theme of the rest of the dashboard.
+
+85. Click Light Gray to open the dropdown menu to see other Base Layer Styles
+86. Click Transparent Dark Gray
+
+![image](https://user-images.githubusercontent.com/112718519/199098096-a330d3ff-f21b-400b-bd20-be2b6fcab90f.png)
+
+87. Click **+ Add Layer**
+
+![image](https://user-images.githubusercontent.com/112718519/199098867-3b0d07eb-8147-4d87-aca1-d482b0372f5f.png)
+
+88. Click **+ Location Dimension required** 
+
+![image](https://user-images.githubusercontent.com/112718519/199098894-9471c6fe-2c5b-4c81-958e-89ead8013ae3.png)
+
+ℹ️ Location Clustering in Geo Visualization! Adding a Location Dimension will determine whether or not Location Clustering in the Builder Panel will continue to be turned on or automatically turned off. It will be turned off if you have less than 5000 data points.
+
+![image](https://user-images.githubusercontent.com/112718519/199100086-05063724-aa3d-45e6-ad0e-fbcc8e0e708c.png)
+
+89. Click **Hire_Location**
+
+![image](https://user-images.githubusercontent.com/112718519/199098919-ced9425f-4a57-49b8-9710-bc58e97fe5f5.png)
+
+🚩 We can now see data points for all our hire locations. Let's add Headcount and Career Level as the size and color respectively to further drill down into our data.
+
+90. Under Bubble Size click **+ Add Account**
+
+![image](https://user-images.githubusercontent.com/112718519/199098943-630c2bdb-29c1-4568-9546-a63c74cc25c2.png)
+
+91. Click **Headcount**
+
+![image](https://user-images.githubusercontent.com/112718519/199098965-59985f43-3578-412b-b7c4-af34d7b6cc52.png)
+
+92. Under Bubble Color click **+ Add Dimension/Account**
+
+![image](https://user-images.githubusercontent.com/112718519/199099006-ad23dc22-2f28-4b9c-b19d-2c85b81bebb5.png)
+
+93. Click **SAP_XPA_CAREER_LEVEL**
+
+![image](https://user-images.githubusercontent.com/112718519/199099021-7f1e2630-df69-4ea1-97c8-95b6250fa5e7.png)
+
+94. Rename the Layer Name to **Headcount by Career Level**
+95. Click **Done**
+
+![image](https://user-images.githubusercontent.com/112718519/199099049-21ed45fd-b740-4384-b10c-e99ae4b49697.png)
+
+⚠️ **Quality Check!** Does your Geo Visualization look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/199100172-356e447d-7660-4e5f-a8d8-255e0b4da34c.png)
+
+🚩 We are now intersted in adding another KPI to summary the Average Salary that we are paying our employees. To make it easier, lets duplicate the existing KPI so that we don't need to worry much about the formatting of the object.
+
+96. Click on the **Numeric Point Chart Operating Income for 2022**
+97. Click the **More** Action icon
+98. Hover over **Copy** and select **Duplicate**
+
+![image](https://user-images.githubusercontent.com/112718519/199100309-a8cd0d33-597f-4567-960a-5c4118eb89d3.png)
+
+99. Move the object besides Operating Income for 2022
+100. Click on the **Data Model** icon
+
+![image](https://user-images.githubusercontent.com/112718519/199100640-da1e0ea5-3763-479c-a80c-1fd9e28124e4.png)
+
+101. Click **OK**
+
+![image](https://user-images.githubusercontent.com/112718519/199100769-b726a392-e805-4470-94b9-ecd4de4a537a.png)
+
+102. Click **SAP_XPA_HEADCOUNT**
+
+![image](https://user-images.githubusercontent.com/112718519/199100795-ad69a5a8-bb34-4219-939a-a52162da1603.png)
+
+103. Click **OK**
+
+![image](https://user-images.githubusercontent.com/112718519/199100815-87518b95-001e-4e56-8e7a-00025429fc57.png)
+
+104. Click **+ At least 1 Account required** 
+
+![image](https://user-images.githubusercontent.com/112718519/199100846-9b238a35-afe7-46c8-830a-6f5bc37331c5.png)
+
+105. Click **Salary** 
+
+![image](https://user-images.githubusercontent.com/112718519/199100984-d654d31c-8af6-4c7e-ac07-a9e07314ad51.png)
+
+🚩 After clicking Salary, we realize that the KPI shows the total salary that was ever paid to employees. This KPI doesn't show Average Salary per Employee, which is what you want to see in the KPI.
+
+Hence, we will have to create a calculation to reflect this metric.
+
+106. Deselect **Salary** 
+107. Click **Add Calculation** 
+
+![image](https://user-images.githubusercontent.com/112718519/199101194-c9348080-a310-47ad-a5b6-4a71f43ddde1.png)
+
+108. Click **Aggregation**
+
+![image](https://user-images.githubusercontent.com/112718519/199101212-da3bd7e1-a3e6-4139-9611-3a3f9f431bd8.png)
+
+109. Click the **Expand** icon for Operation
+110. Scroll down till you see **Average**
+111. Click **Average**
+
+![image](https://user-images.githubusercontent.com/112718519/199101322-5089ff4b-b204-4783-bfb5-dfcef46f5c26.png)
+
+112. Click the **Expand(( icon for Account
+113. Click **Salary** 
+
+![image](https://user-images.githubusercontent.com/112718519/199101402-73cdc80f-f344-42e5-b93c-3991fee823fb.png)
+
+114. Click the Expand icon for Aggregation Dimensions
+115. Click SAP_XPA_EMPLOYEE
+
+![image](https://user-images.githubusercontent.com/112718519/199101446-34287f54-d020-43df-8147-062a599b06dd.png)
+
+116. Rename the calculation to **Average Salary**
+117. Click **OK**
+
+![image](https://user-images.githubusercontent.com/112718519/199101477-79aa88f6-761d-4c83-b904-c69f85a9c519.png)
+
+118. Rename the Title to **Average Salary**
+
+![image](https://user-images.githubusercontent.com/112718519/199101614-c670d8e0-5e94-4d57-87fa-4ca4ff2c07fa.png)
+
+119. Click the **More** Action icon
+120. Hover over Show / Hide and deselect **Primary Value Labels**
+
+![image](https://user-images.githubusercontent.com/112718519/199101715-05656fae-dc8d-4415-b84a-491c3762ae9f.png)
+
+⚠️Quality Check! Does your Chart look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/199101773-d37726c5-89e2-4bed-8682-aea048839bc1.png)
+
+🚩 Save your story with CTRL + S
+
+
 
 
 

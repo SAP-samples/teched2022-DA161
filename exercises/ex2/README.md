@@ -4,7 +4,7 @@
 
 **Estimated Time:** 20 mins
 
-**Exercise Description:** You are managing a dashboard that contains planned financial data for TCS Technologies. You have already completed a preliminary plan for 2023, however based on some new information some final adjustments are required before sending it out to the various regions for any last minute adjustments they may have. 
+**Exercise Description:** You are managing a dashboard that contains planned financial data for TCS Technologies. You have already completed a preliminary plan for 2023, however based on new information, some final adjustments are required before submitting it to upper management. 
 
 **Key Features:**
 * Make updates to planned data

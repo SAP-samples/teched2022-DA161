@@ -86,19 +86,77 @@ For this Chart, we are using SAP_XPA_FINANCE, which is a New Model type. The Cha
 
 🚩 After selecting the Finance Data Model, the Builder Panel automatically updates the name of the Data Model.
 
-13. Click **+ At least 1 Account required**
+12. Click **+ At least 1 Account required**
 
 ![image](https://user-images.githubusercontent.com/112718519/199083035-638c0472-f146-4ad8-8ff3-4b39f12501f8.png)
 
+13. Click on the arrow beside Finance to expand the Account
 14. Click on the arrow beside Operating Income to expand the Account
 15. Click on **Gross Profit**
 16. Click anywhere outside the Account selection drop down menu to collapse it 
 
-![image](https://user-images.githubusercontent.com/112718519/197619116-a90dd2fa-85c4-4f47-b949-f39ba9f4f363.png)
+![image](https://user-images.githubusercontent.com/112718519/199083860-4b4fe42e-e30c-4d16-ba7a-89e54192ae0a.png)
 
 17. Click **+ At least 1 Measure required**
 
-![image](https://user-images.githubusercontent.com/112718519/197619158-234a75bf-9157-418d-9203-5e62599d8856.png)
+![image](https://user-images.githubusercontent.com/112718519/199084027-73fb187b-2b7a-4c81-8bc3-b02479031688.png)
+
+18. Click **Reporting Currency**
+19. Click on a spot outside the Measures selection dropdown menu to collapse it
+
+![image](https://user-images.githubusercontent.com/112718519/199084112-834e7f1f-84d8-4d26-9080-7501e08238c4.png)
+
+20. Click **+ Add Dimension**
+
+![image](https://user-images.githubusercontent.com/112718519/199084155-488f00af-059f-43d5-a316-77fccd115369.png)
+
+21. Click **SAP_XPA_PRODUCT**
+22. Click anywhere outside the Dimension selection drop down menu to collapse it
+
+![image](https://user-images.githubusercontent.com/112718519/199084307-0511fa19-fbed-4aac-b785-436c935ab24c.png)
+
+23. Let's try drilling via the Builder Panel. Click the **Drill** icon in the SAP_XPA_Product Dimension. 
+24. Click on **Level 2**
+ 
+![image](https://user-images.githubusercontent.com/112718519/199084418-1e53b310-cb01-47b8-9475-d87c7cd71e27.png)
+
+25. Scroll to the right of the dashboard
+26. Click and hold the border of the chart to move the object
+
+![image](https://user-images.githubusercontent.com/112718519/199084713-506adc3a-4458-4e3f-9487-493d55983bb6.png)
+
+27. Move the Chart to align it with the top of the Table
+
+![image](https://user-images.githubusercontent.com/112718519/199084747-7a15f9e2-a1af-4f7d-9653-d73312682b4f.png)
+
+28. Click and hold the bottom right resize icon for the Chart
+
+![image](https://user-images.githubusercontent.com/112718519/199084767-061f2ba3-a5fa-447b-92f5-eceadf738e94.png)
+
+29. Resize the Chart to align it with the table and the edge of the shape header
+
+![image](https://user-images.githubusercontent.com/112718519/199084801-f22a6f5c-7d09-47d8-812e-6c1e0d83ae98.png)
+
+30. Scroll to the bottom of the Builder Panel
+31. Click + Add Dimension/Account
+
+![image](https://user-images.githubusercontent.com/112718519/199084871-dfcc50ca-d295-4eaf-b9ed-95155ea4e262.png)
+
+32. Click **Version** 
+
+![image](https://user-images.githubusercontent.com/112718519/199084907-7d0f20e1-ceb6-4e11-8a77-9ed447057f57.png)
+
+⚠️**Quality Check!** Does your Table look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/199084983-c2ec7456-1ee8-44ec-878b-3d25fd05d4a2.png)
+
+
+
+![image](https://user-images.githubusercontent.com/112718519/199085107-7f786f12-a921-4752-806d-5ec9805b46b7.png)
+
+
+
+
 
 13. Click **Currency Selection**
 14. Click anywhere outside the Measure selection drop down menu to collapse it 

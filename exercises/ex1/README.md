@@ -484,7 +484,7 @@ Hence, we will have to create a calculation to reflect this metric.
 
 ![image](https://user-images.githubusercontent.com/112718519/199101715-05656fae-dc8d-4415-b84a-491c3762ae9f.png)
 
-⚠️Quality Check! Does your Chart look like this?
+⚠️Quality Check! Does your KPI look like this?
 
 ![image](https://user-images.githubusercontent.com/112718519/199101773-d37726c5-89e2-4bed-8682-aea048839bc1.png)
 

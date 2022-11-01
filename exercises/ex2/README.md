@@ -38,7 +38,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 4. First, let's make a private version of 23 Plan. Click on the **Copy** icon.
 
-![image](https://user-images.githubusercontent.com/112718519/198352025-7425b580-7a86-489f-a2a9-dd9551b4c433.png)
+![image](https://user-images.githubusercontent.com/112718519/199292519-5adf706c-d12d-4dfd-8810-2070e2e3a352.png)
 
 5. Rename the Version Name to **XX - 23 Plan**. XX can be replaced by your ID number.
 
@@ -52,7 +52,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 7. Click **Close**
 
-![image](https://user-images.githubusercontent.com/112718519/198352087-8997df07-c0cf-4b41-a05b-837842eecee9.png)
+![image](https://user-images.githubusercontent.com/112718519/199292557-8409cc7f-bd80-4f28-87df-b459d0c6c688.png)
 
 8. You want to filter the story to only show data belonging to XX - 23 Plan. In the Version filter, select **XX - 23 Plan**.
 
@@ -102,15 +102,15 @@ When completing exercises, some data values or sceenshots may not match what you
 
 16. In the Plan Currency filter panel, click **Local Currency** (Note: SAP Analytics Cloud allows the user to plan, forecast, and/or report in any number of currencies depending on specific model and report settings)
 
-![image](https://user-images.githubusercontent.com/112718519/199125704-636f57e4-4ae6-42dc-bb73-3bc4136e92f0.png)
+![image](https://user-images.githubusercontent.com/112718519/199292628-d76277dd-df1e-485b-a73b-a98500512aca.png)
 
 17. Scroll to the bottom of the dashboard. In the Financial Account filter panel, click **Gross Sales**
 
-![image](https://user-images.githubusercontent.com/112718519/199125716-3ba56537-d2dd-4591-ab54-28c04312a970.png)
+![image](https://user-images.githubusercontent.com/112718519/199292681-b9046bcc-6729-4026-835c-879159410cd8.png)
 
 18. Click the **arrow** to expand All Channels, which will show unassigned data for Gross Sales
 
-![image](https://user-images.githubusercontent.com/112718519/199125734-999c285f-487f-4533-8038-421e2a91b1b5.png)
+![image](https://user-images.githubusercontent.com/112718519/199292710-dcb28d65-b3e4-42e1-9410-4ef9f287a042.png)
 
 🚩 The unassigned data is assumed to be the total Gross Sales, all of which has occurred via our retail channel up until this point. However, next year we are going to run a pilot project in China to also sell directly via a newly developed Web Store. For this reason, we want to distribute the unassigned data for Gross Sales into different channels, which includes the Web Store and Retailer network. Before you do that, you want to display all channel members so that they are visible in the Table.
 

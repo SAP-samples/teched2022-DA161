@@ -204,7 +204,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/199126087-54d177fa-cf4f-45fc-a964-d356eaf8b592.png)
 
-41. Click the private version that you created. In this case, it would be XX - 23 Plan. Note that the label will show the ID and description of the version. 
+41. Click the private version that you created. In this case, it would be XX - 23 Plan. Note that the label of the version will show the ID (which includes your username) and description. 
 
 ![image](https://user-images.githubusercontent.com/112718519/199126100-702ef249-ee58-4019-b31a-80a53f8cadc3.png)
 

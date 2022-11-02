@@ -131,91 +131,83 @@ For this Chart, we want to use SAP_XPA_FINANCE as our data model, which is a New
 Let's resize and reposition the visualization for better readability.
 
 25. Scroll to the right of the dashboard
-26. Click and hold the border of the chart to move the object
+26. Click and hold the border of the Chart to move the Chart to align it with the top of the Table
 
-![image](https://user-images.githubusercontent.com/112718519/199084713-506adc3a-4458-4e3f-9487-493d55983bb6.png)
+![image](https://user-images.githubusercontent.com/112718519/199610647-8bd43648-27e6-4df0-8c26-a02ca87a6cf2.png)
 
-27. Move the Chart to align it with the top of the Table
+27. Click and hold the bottom right resize icon for the Chart. Resize the Chart to align it with the table and the edge of the shape header.
 
-![image](https://user-images.githubusercontent.com/112718519/199084747-7a15f9e2-a1af-4f7d-9653-d73312682b4f.png)
-
-28. Click and hold the bottom right resize icon for the Chart
-
-![image](https://user-images.githubusercontent.com/112718519/199084767-061f2ba3-a5fa-447b-92f5-eceadf738e94.png)
-
-29. Resize the Chart to align it with the table and the edge of the shape header
-
-![image](https://user-images.githubusercontent.com/112718519/199084801-f22a6f5c-7d09-47d8-812e-6c1e0d83ae98.png)
+![image](https://user-images.githubusercontent.com/112718519/199610701-5adc12e5-a6b7-4a00-b8ba-67fa26a7ebf2.png)
 
 ⚠️**Quality Check!** Does your Table look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/199084983-c2ec7456-1ee8-44ec-878b-3d25fd05d4a2.png)
+![image](https://user-images.githubusercontent.com/112718519/199611034-2a0e24e6-acc4-492c-904f-909828d13b64.png)
 
 🚩 Now, the Chart only shows actual Gross Profit. We want the Chart to show actual Gross Profit versus planned Gross Profit. We will add planned Gross Profit into the Chart by adding an additional Dimension. 
 
-30. Scroll to the bottom of the Builder Panel
-31. Click **+ Add Dimension/Account**
+28. Scroll to the bottom of the Builder Panel
+29. Click **+ Add Dimension/Account**
 
-![image](https://user-images.githubusercontent.com/112718519/199084871-dfcc50ca-d295-4eaf-b9ed-95155ea4e262.png)
+![image](https://user-images.githubusercontent.com/112718519/199611131-67425fa6-003d-46a3-bd88-2e2feb35ba21.png)
 
-32. Click **Version** 
+30. Click **Version** 
 
-![image](https://user-images.githubusercontent.com/112718519/199084907-7d0f20e1-ceb6-4e11-8a77-9ed447057f57.png)
+![image](https://user-images.githubusercontent.com/112718519/199611186-bf29c876-3372-478e-ba58-aa5d53d3fbb5.png)
 
 ℹ️ International Business Communication Standards (IBCS)
 
 The color of the Chart is now changed to black for actual Gross Profit. This is because SAP Analytics Cloud is following International Business Communication Standards (IBCS), so we are coloring the bars based on the color of the Version that is added to the Chart. Now that we have actual Gross Profit in our Chart, we want to add planned Gross Profit.
 
-![image](https://user-images.githubusercontent.com/112718519/199085107-7f786f12-a921-4752-806d-5ec9805b46b7.png)
+![image](https://user-images.githubusercontent.com/112718519/199611592-218dd603-191e-4e64-bd67-f84fb7920da2.png)
 
-33. Click **+ Add Version**
+31. Click **+ Add Version**
 
-![image](https://user-images.githubusercontent.com/112718519/199086100-c68c2318-a762-4d2f-a0b0-9555fc0907fa.png)
+![image](https://user-images.githubusercontent.com/112718519/199611769-3603796a-8c95-4f41-a52a-15a7cc9f3bbb.png)
 
-34. Click **22 Plan**
-35. Click on a spot outside the Version selection dropdown menu to collapse it
+32. Click **22 Plan**
+33. Click on a spot outside the Version selection dropdown menu to collapse it
 
-![image](https://user-images.githubusercontent.com/112718519/199086671-ee8c4845-eedb-41eb-a61d-1b66b6d5d1fc.png)
+![image](https://user-images.githubusercontent.com/112718519/199611789-a6021b16-19f8-46c7-a289-3137e4ba6d70.png)
 
 🚩 We can see the difference between our Plan 22 and Actuals. However, we want a better visual representation of this data. Hence, lets add a variance to show the difference between Actual and 22 Plan.
 
-36. Click the **expand** icon for Chart Add-ons
-37. Scroll to the bottom of the Builder Panel
-38. Click **Variance**
+34. Click the **expand** icon for Chart Add-ons
+35. Scroll to the bottom of the Builder Panel
+36. Click **Variance**
 
-![image](https://user-images.githubusercontent.com/112718519/199086727-0ef856cb-60ca-4871-bbb0-ca5d7a400142.png)
+![image](https://user-images.githubusercontent.com/112718519/199611830-72d07bdc-3f46-4640-ad7a-8d007dce9172.png)
 
-39. Click **+ Add Version/Time** 
+37. Click **+ Add Version/Time** 
 
-![image](https://user-images.githubusercontent.com/112718519/199086853-778cb3d0-a5c7-4b61-8a3a-db688396313c.png)
+![image](https://user-images.githubusercontent.com/112718519/199611840-e89e3e4d-132b-40cf-b466-6a297795e7b6.png)
 
-40. Click **Version** 
+38. Click **Version** 
 
-![image](https://user-images.githubusercontent.com/112718519/199086881-dd229e5f-0438-405b-8952-1a22fb779e11.png)
+![image](https://user-images.githubusercontent.com/112718519/199611875-5bacc75b-bbd6-4ca9-9863-8d6f97f91d49.png)
 
-41. For Compare (A), click the expand icon for Version
-42. Click **Actual**
+39. For Compare (A), click the expand icon for Version
+40. Click **Actual**
 
-![image](https://user-images.githubusercontent.com/112718519/199086932-c923b43c-5539-4303-8564-ef98cb552d9a.png)
+![image](https://user-images.githubusercontent.com/112718519/199611913-6f722657-7b05-46b5-8f4c-98be4b3e700c.png)
 
-43. For To (B), click the expand icon for Version
-44. Click **22 Plan**
+41. For To (B), click the expand icon for Version
+42. Click **22 Plan**
 
-![image](https://user-images.githubusercontent.com/112718519/199086982-582c0678-4192-47a1-9a1d-61064161d074.png)
+![image](https://user-images.githubusercontent.com/112718519/199611942-1a3b4aef-23b8-4cfc-ba23-c306cd977115.png)
 
-45. Click **Data Label**
-46. Scroll to the bottom of the Variance Panel
-47. Click **Both**
-48. Click  the **expand** icon for Number
-49. Click **1**
+43. Click **Data Label**
+44. Scroll to the bottom of the Variance Panel
+45. Click **Both**
+46. Click  the **expand** icon for Number
+47. Click **1**
 
-![image](https://user-images.githubusercontent.com/112718519/199087096-836747fa-bff2-4591-a473-2814cf3041e6.png)
+![image](https://user-images.githubusercontent.com/112718519/199611970-290172b3-b513-409f-8bea-193624b99567.png)
 
-50.	Click the **expand** icon for Percentage
-51.	Click **1**
-52.	Click **Done**
+48.	Click the **expand** icon for Percentage
+49.	Click **1**
+50.	Click **Done**
 
-![image](https://user-images.githubusercontent.com/112718519/199087239-bc0323c1-ef44-4ab5-9c97-42ca038227ff.png)
+![image](https://user-images.githubusercontent.com/112718519/199612015-08d7730e-df42-4c2b-b402-1395e3569de7.png)
 
 ⚠️**Quality Check!** Does your Chart look like this? 
 

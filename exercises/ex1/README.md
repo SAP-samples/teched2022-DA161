@@ -211,27 +211,57 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 
 ⚠️**Quality Check!** Does your Chart look like this? 
 
-![image](https://user-images.githubusercontent.com/112718519/199088140-54dbbf15-be27-4980-ac08-b66953909993.png)
+![image](https://user-images.githubusercontent.com/112718519/199612802-bc96fc93-3d8c-4c0f-82ce-bd5ea9c15fe9.png)
 
 🚩 Press CTRL + S to save your story. 
 
+🚩 To ensure that we are comparing 22 Plan with 22 Actual instead of Actual financial data for all years, let's add a filter so that we are setting a date range for 2022 values only.
+
+51. Click **+ Add Filters**
+
+![image](https://user-images.githubusercontent.com/112718519/199613739-f4aa042a-37f7-4841-8192-d405b182ef80.png)
+
+52. Click Date (Range)
+
+![image](https://user-images.githubusercontent.com/112718519/199613815-1e779afb-46ac-4cde-b43b-449690b65bc2.png)
+
+53. Click the toggle to enable the ability to include range up to the current period
+
+![image](https://user-images.githubusercontent.com/112718519/199614034-f482b8f0-7303-4e8a-95d4-1e256375c425.png)
+
+54. Click **OK**
+
+![image](https://user-images.githubusercontent.com/112718519/199614073-9d2b0cd3-1cc0-4fc6-95cc-fcde0928564d.png)
+
+55. For Actual, click the icon under Show As
+
+![image](https://user-images.githubusercontent.com/112718519/199614129-ee29dbe9-d8a3-4c07-9cfc-2c3972c5c197.png)
+
+56. In Layered Bars, ensure that Front is clicked.
+
+![image](https://user-images.githubusercontent.com/112718519/199614167-8050f4d9-5060-488a-acdf-812d182e1d0b.png)
+
+⚠️**Quality Check!** Does your Chart look like this?
+
+![image](https://user-images.githubusercontent.com/112718519/199614205-174b6132-a506-4b77-a4ff-8260d5710428.png)
+
 🚩 We now have a good representation of some key figures when it comes to our financial data. Now, let's incorporate some Headcount data into our dashboard to provide our management team a holistic view of the business. 
 
-53. In the toolbar, click on the **Chart** icon
+57. In the toolbar, click on the **Chart** icon
 
-![image](https://user-images.githubusercontent.com/112718519/199088216-92c1c4dc-6a91-457a-bfb1-d151616702ba.png)
+![image](https://user-images.githubusercontent.com/112718519/199614384-e0f4ff42-2531-44f8-836c-fc8db412f5fa.png)
 
-54. Click and hold the border of the chart to move the object and position it to align with the Reporting Currency Input Control.
+58. Click and hold the border of the chart to move the object and position it to align with the Reporting Currency Input Control.
 
-![image](https://user-images.githubusercontent.com/112718519/199088296-ac1b3238-1395-43ff-9541-88156b5026eb.png)
+![image](https://user-images.githubusercontent.com/112718519/199614421-8ed5e049-b6b2-4712-b36c-328ff146fb36.png)
 
-55. Click and hold the bottom right resize icon of the Chart
+59. Click and hold the bottom right resize icon of the Chart
 
-![image](https://user-images.githubusercontent.com/112718519/199088328-3dc57736-5f86-461a-b67c-d2fbb076418d.png)
+![image](https://user-images.githubusercontent.com/112718519/199614440-814aa9fe-f013-47af-a2bc-3feae53c91e8.png)
 
-56. Resize the Chart so that its width is slightly smaller than the Table above
+60. Resize the Chart so that its width is slightly smaller than the Table above
 
-![image](https://user-images.githubusercontent.com/112718519/199088390-f2a4f523-8e3a-4d39-8c6c-d63368346329.png)
+![image](https://user-images.githubusercontent.com/112718519/199614452-ea197062-ed9f-4adc-a8e1-925dfe37989f.png)
 
 ⚠️**Quality Check!** Does your Chart look like this?
 

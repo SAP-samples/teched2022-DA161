@@ -134,13 +134,13 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198373245-3b43abfb-a739-4916-8911-4192dfc3a354.png)
 
-🚩 Welcome to Scripting! Scripting allows you to write scripts that can perform complex actions for widgets, such as customizing user interactions in widgets. While writing the scripts, you can press Ctrl + Space on your keyboard to show all the available scripting commands. 
+🚩 Welcome to Scripting! Scripting allows you to write scripts that can perform complex actions for widgets, such as customizing user interactions in widgets. While writing the scripts, you can press CTRL + SPACE on your keyboard to show all the available scripting commands. 
 
 30. Type **Popup_1.**
 
 ![image](https://user-images.githubusercontent.com/112718519/198373291-5bc09c7d-a9bc-4422-92ed-ce9f3183b880.png)
 
-31. Press **Ctrl + Space** on your keyboard to open a list of available scripting commands. Click **open**. This command enables the Popup to open when it is clicked.
+31. Press **CTRL + SPACE** on your keyboard to open a list of available scripting commands. Click **open**. This command enables the Popup to open when it is clicked.
 
 ![image](https://user-images.githubusercontent.com/112718519/198373330-bdd994a8-27ed-47aa-b60c-c1ebf223228e.png)
 
@@ -168,7 +168,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198373522-4ceb9dc2-0c56-4fc2-9c35-9e647b3f2dcd.png)
 
-38. Press **Ctrl + Space** on our keyboard to show a list of available commands. Click **close**.
+38. Press **CTRL + SPACE** on our keyboard to show a list of available commands. Click **close**.
 
 ![image](https://user-images.githubusercontent.com/112718519/198373590-41bfe86f-18fd-4984-acb6-0fef8688092b.png)
 

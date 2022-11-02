@@ -108,7 +108,7 @@ For this Chart, we want to use SAP_XPA_FINANCE as our data model, which is a New
 
 🚩 We can now see data for our Gross Profit as we've successfully met the minimum conditions to view data for our Bar / Column Chart. Let's now add our Product dimension to see the breakdown per Product.
 
-![image](https://user-images.githubusercontent.com/112718519/199090847-2086b1c8-d2ab-404e-af37-2d47fbb05e28.png)
+![image](https://user-images.githubusercontent.com/112718519/199619015-fe52f2f1-c50f-43c6-b5da-605a8291f900.png)
 
 20. Click **+ Add Dimension**
 
@@ -126,7 +126,7 @@ For this Chart, we want to use SAP_XPA_FINANCE as our data model, which is a New
  
 ![image](https://user-images.githubusercontent.com/112718519/199084418-1e53b310-cb01-47b8-9475-d87c7cd71e27.png)
 
-🚩 We can now see data for our Gross Profit per Product. Based on this breakdown we can see that Youth Bikes bring us the most Gross Profit in comparison to any other product that we offer.
+🚩 We can now see data for our Gross Profit per Product. Based on this breakdown, we can see that Youth Bikes bring us the most Gross Profit in comparison to any other product that we offer.
 
 Let's resize and reposition the visualization for better readability.
 

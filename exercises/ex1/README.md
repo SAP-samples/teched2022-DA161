@@ -299,7 +299,7 @@ You are not too familiar with the Headcount Data Model and you want to see a lis
 
 ℹ️ Welcome to the Available Objects!
 
-It provides you a holistic view of all the data related objects that are associated to the data model. It provides you an ability to quickly drag and drop objects into the Builder Panel or use any of the quick action menus to bind the data.
+It provides you a holistic view of all the data-related objects that are associated to the data model. It provides you with an ability to quickly drag and drop objects into the Builder Panel or use any of the quick action menus to bind the data.
 
 ![image](https://user-images.githubusercontent.com/112718519/199614821-90c0c534-1dcb-4ef4-91f6-a737fa4214d5.png)
 
@@ -326,7 +326,7 @@ It provides you a holistic view of all the data related objects that are associa
 ![image](https://user-images.githubusercontent.com/112718519/199615079-53213222-d2fc-466c-ac77-4c306cc558b2.png)
 
 74. Within the Builder Panel, click on the **Drill icon** for SAP_XPA_HIRE_DATE
-75. Click Level 3
+75. Click **Level 3**
 
 ![image](https://user-images.githubusercontent.com/112718519/199615137-24d31957-a09b-497a-a229-297580ce89a8.png)
  
@@ -383,7 +383,7 @@ It provides you a holistic view of all the data related objects that are associa
 🚩 We want to change the Base Layer Style to better match the theme of the rest of the dashboard.
 
 89. Click Light Gray to open the dropdown menu to see other Base Layer Styles
-90. Click Transparent Dark Gray
+90. Click **Transparent Dark Gray**
 
 ![image](https://user-images.githubusercontent.com/112718519/199616077-80944b2b-ab56-43b2-afbb-d84d38c5ad8c.png)
 
@@ -399,13 +399,13 @@ It provides you a holistic view of all the data related objects that are associa
 
 ![image](https://user-images.githubusercontent.com/112718519/199616156-f6966a84-f910-4540-ad26-65b65df54e27.png)
 
-ℹ️ Location Clustering in Geo Visualization! Adding a Location Dimension will determine whether or not Location Clustering in the Builder Panel will continue to be turned on or automatically turned off. It will be turned off if you have less than 5000 data points. In this example, Location Clustering is automatically turned off. 
+ℹ️ Location Clustering in Geo Visualization! Adding a Location Dimension will determine whether or not Location Clustering in the Builder Panel will continue to be turned on or automatically turned off. It will be turned off if you have less than 5000 data points. In this example, Location Clustering is automatically turned off in the Builder Panel. 
 
 ![image](https://user-images.githubusercontent.com/112718519/199616164-63424461-3b29-435d-a609-215330b2ea1d.png)
 
-🚩 We can now see data points for all our hire locations int the Geo Map. Let's add Headcount and Career Level as the size and color respectively to further drill down into our data.
+🚩 We can now see data points for all our hire locations in the Geo Map. Let's add Headcount and Career Level as the size and color respectively to further drill down into our data.
 
-94. Under Bubble Size click **+ Add Account**
+94. Under Bubble Size, click **+ Add Account**
 
 ![image](https://user-images.githubusercontent.com/112718519/199616178-cea0143c-d512-46bb-805d-61374bf6d152.png)
 
@@ -413,7 +413,7 @@ It provides you a holistic view of all the data related objects that are associa
 
 ![image](https://user-images.githubusercontent.com/112718519/199616193-20e7ea28-94a3-41f0-a6d7-67dc15aa2f58.png)
 
-96. Under Bubble Color click **+ Add Dimension/Account**
+96. Under Bubble Color, click **+ Add Dimension/Account**
 
 ![image](https://user-images.githubusercontent.com/112718519/199616210-c7c3b02e-170c-464c-843f-e578db0dcfe1.png)
 
@@ -434,7 +434,7 @@ It provides you a holistic view of all the data related objects that are associa
 
 🚩 We are now interested in adding another KPI to summarize the Average Salary that we are paying our employees. To make it easier, let's duplicate the existing KPI so that we don't need to worry much about the formatting of the object.
 
-100. Click on the **Numeric Point Chart Operating Income for 2022**
+100. Click on the Numeric Point Chart for Operating Income for 2022
 101. Click the **More** Action icon
 102. Hover over **Copy** and select **Duplicate**
 
@@ -489,8 +489,8 @@ Hence, we will have to create a calculation to reflect this metric.
 
 ![image](https://user-images.githubusercontent.com/112718519/199616532-e044cc22-dfa0-4f4b-8495-a156c78132b2.png)
 
-118. Click the Expand icon for Aggregation Dimensions
-119. Click SAP_XPA_EMPLOYEE
+118. Click the **Expand** icon for Aggregation Dimensions
+119. Click **SAP_XPA_EMPLOYEE**
 
 ![image](https://user-images.githubusercontent.com/112718519/199616545-46e3da5b-e227-48ff-be5e-be6570b57629.png)
 

@@ -20,7 +20,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ℹ️ Welcome to Planning!
 
-🚩 You are going to make changes to planned financial data. First, you will be making a copy of the last planned version for 2023.
+🚩 We are going to make changes to planned financial data. First, let's make a copy of the last planned version for 2023.
 
 1. Click on the Financial Plan tab in the top panel 
 
@@ -48,17 +48,17 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198352058-c4774e05-ac7c-48ef-9b99-5f3bf4e1688f.png)
 
-ℹ️ The private version that you just created now appears in the Version Management panel.
+ℹ️ The private version that we just created now appears in the Version Management panel.
 
 7. Click **Close**
 
 ![image](https://user-images.githubusercontent.com/112718519/199292557-8409cc7f-bd80-4f28-87df-b459d0c6c688.png)
 
-8. You want to filter the story to only show data belonging to XX - 23 Plan. In the Version filter, select **XX - 23 Plan**.
+8. We want to filter the story to only show data belonging to XX - 23 Plan. In the Version filter, select **XX - 23 Plan**.
 
 ![image](https://user-images.githubusercontent.com/112718519/199126556-77df54c3-b38f-4a1c-a64c-23b050b4cf40.png)
 
-🚩 Now, you can start making changes to your data. To begin, let’s make some adjustments to raw material charges for BestBikes GmbH to account for some ongoing inflation pressures you are expecting specifically with suppliers in that region. 
+🚩 Now, we can start making changes to your data. To begin, let’s make some adjustments to raw material charges for BestBikes GmbH to account for some ongoing inflation pressures we are expecting specifically with suppliers in that region. 
 
 9. First, click the **story filter** at the top panel. Click **BestBikes GmbH**.
 
@@ -76,11 +76,11 @@ When completing exercises, some data values or sceenshots may not match what you
 
 12. Right click the highlighted cells and click **Lock Cell**. 
 
-🚩 By clicking Lock Cell, you are no longer able to apply edits and changes to the cells.
+🚩 By clicking Lock Cell, we are no longer able to apply edits and changes to the cells.
 
 ![image](https://user-images.githubusercontent.com/112718519/199125571-29cb4be7-6307-4f1e-806d-284385dce690.png)
 
-13. Now, you want to increase the raw material charges by 10% for the year 2023. Click into the value for 2023.
+13. Now, we want to increase the raw material charges by 10% for the year 2023. Click into the value for 2023.
 
 ![image](https://user-images.githubusercontent.com/112718519/199125598-f58bec3d-a742-46d6-9bf5-921fc1f3be88.png)
 
@@ -88,13 +88,13 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/199125625-d5369078-d27a-4876-af76-ca293c7b37d2.png)
 
-ℹ️ Now, all the values are increased by 10% except for January 2023 to March 2023. This is because you have previously locked these cells. The increase in raw material charges are only applied to April 2023 to December 2023.
+ℹ️ Now, all the values are increased by 10% except for January 2023 to March 2023. This is because we have previously locked these cells. The increase in raw material charges are only applied to April 2023 to December 2023.
 
 ⚠️ **Quality check!** Does your Table look like this?
 
 ![image](https://user-images.githubusercontent.com/112718519/199125667-17bae9c1-02f5-4db7-81bd-c0c4bf831aad.png)
 
-🚩 Let's change the story filter so that you are filtering the data to show bikes in the Chinese market (China Bikes Ltd). 
+🚩 Let's change the story filter so that we are filtering the data to show bikes in the Chinese market (China Bikes Ltd). 
 
 15. Click the story filter in the top panel. Click **China Bikes Ltd**.
 
@@ -112,13 +112,13 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/199292710-dcb28d65-b3e4-42e1-9410-4ef9f287a042.png)
 
-🚩 The unassigned data is assumed to be the total Gross Sales, all of which has occurred via our retail channel up until this point. However, next year we are going to run a pilot project in China to also sell directly via a newly developed Web Store. For this reason, we want to distribute the unassigned data for Gross Sales into different channels, which includes the Web Store and Retailer network. Before you do that, you want to display all channel members so that they are visible in the Table.
+🚩 The unassigned data is assumed to be the total Gross Sales, all of which has occurred via our retail channel up until this point. However, next year we are going to run a pilot project in China to also sell directly via a newly developed Web Store. For this reason, we want to distribute the unassigned data for Gross Sales into different channels, which includes the Web Store and Retailer network. Before we do that, we want to display all channel members so that they are visible in the Table.
 
 19. Right-click on the **SAP_XPA_CHANNEL header** in the Table. In Show/Hide, click Unbooked.
 
 ![image](https://user-images.githubusercontent.com/112718519/199125748-0d7b116d-6a31-4d31-b12a-d33e5892fafb.png)
 
-🚩 Currently, there are no values in Web Store and Retail Stores, so you want to distribute the unassigned data for Gross Sales into these two channels. You assume Web Store consumes 10% of Gross Sales and Retail Stores consume 90% of Gross Sales.
+🚩 Currently, there are no values in Web Store and Retail Stores, so we want to distribute the unassigned data for Gross Sales into these two channels. Let's assume Web Store consumes 10% of Gross Sales and Retail Stores consume 90% of Gross Sales.
 
 20. Let's right click into the unassigned value for 2023. Click **Distribute Value**.
 
@@ -138,7 +138,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/199125808-b25f7559-e903-42d0-b0b2-fd6e0953f1df.png)
 
-24. Now, you can specify the weights that you want to assign to Web Store and Retails Stores. Enter **10** for Web Store.
+24. Now, we can specify the weights that we want to assign to Web Store and Retails Stores. Enter **10** for Web Store.
 
 ![image](https://user-images.githubusercontent.com/112718519/199125827-099cf07f-146d-452c-8109-371d92286b9d.png)
 
@@ -154,7 +154,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/199125887-bf5bb856-7879-4ee7-b427-8dfa4cf35e89.png)
 
-🚩 Finally, you want to make some adjustments to Headcount for our Japanese business (Nippon Bikes) in anticpation of further growth in that market beyond 2023.  Navigate to the page in your story that contains Headcount data. 
+🚩 Finally, we want to make some adjustments to Headcount for our Japanese business (Nippon Bikes) in anticpation of further growth in that market beyond 2023.  Navigate to the page in your story that contains Headcount data. 
 
 27. Click on the **Employee Plan** tab
 
@@ -178,7 +178,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/199125988-d4324ea3-e405-4e56-b9cb-b54627b91627.png)
 
-35. Now, you want to ensure that changes with the Headcount data are reflected in the overall Financial Plan. Click the **Financial Plan** tab.
+35. Now, we want to ensure that changes with the Headcount data are reflected in the overall Financial Plan. Click the **Financial Plan** tab.
 
 ![image](https://user-images.githubusercontent.com/112718519/199126017-5948c8f3-2403-4450-bc98-f76f99773113.png)
 
@@ -204,7 +204,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/199126087-54d177fa-cf4f-45fc-a964-d356eaf8b592.png)
 
-41. Click the private version that you created. In this case, it would be XX - 23 Plan. Note that the label of the version will show the ID (which includes your username) and description. 
+41. Click the private version. In this case, it would be XX - 23 Plan. Note that the label of the version will show the ID (which includes your username) and description. 
 
 ![image](https://user-images.githubusercontent.com/112718519/199126100-702ef249-ee58-4019-b31a-80a53f8cadc3.png)
 

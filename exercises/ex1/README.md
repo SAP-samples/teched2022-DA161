@@ -265,60 +265,60 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 
 ⚠️**Quality Check!** Does your Chart look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/199088488-cda40c1a-49f0-4f6f-aa1c-542b66dd1b53.png)
+![image](https://user-images.githubusercontent.com/112718519/199614656-30cdeb21-8db1-4f07-b5dd-2bb2af222dd7.png)
 
 🚩 We can see that the current data model that is being used in the Chart is SAP_XPA_FINANCE. In order to incorporate Headcount data into the Chart, you will need to change the Data Model for this Chart. 
 
-57. Click the **Data Model** icon
+61. Click the **Data Model** icon
 
-![image](https://user-images.githubusercontent.com/112718519/199088539-02519191-aab8-4c05-81d2-7eb4530080ab.png)
+![image](https://user-images.githubusercontent.com/112718519/199614680-185c7392-cf32-4771-b2c0-03a4033c8548.png)
 
-58. Click **OK**
+62. Click **OK**
 
-![image](https://user-images.githubusercontent.com/112718519/199088565-dc4877cb-a110-432e-9dcf-48fca619c8a3.png)
+![image](https://user-images.githubusercontent.com/112718519/199614707-dd34101c-270e-4e2d-a52f-fe4a2063ec01.png)
 
-59. Click on the arrow
+63. Click on the arrow
 
-![image](https://user-images.githubusercontent.com/112718519/199088592-fbe3c085-17cb-4e76-894c-ffb31b8b3720.png)
+![image](https://user-images.githubusercontent.com/112718519/199614722-9be45fed-d9d8-41db-b341-e3921d2a3fb1.png)
 
-60. Click **SAP_XPA_HEADCOUNT**
+64. Click **SAP_XPA_HEADCOUNT**
 
-![image](https://user-images.githubusercontent.com/112718519/199088651-e0119529-873d-41c2-8d4b-07a64e52ff1a.png)
+![image](https://user-images.githubusercontent.com/112718519/199614750-00a70e68-ffb1-4803-8b13-9b7cf395ea10.png)
 
-61. Click **OK**
+65. Click **OK**
 
-![image](https://user-images.githubusercontent.com/112718519/199088836-cf4bc429-06d5-44c0-b447-4785daf2bcea.png)
+![image](https://user-images.githubusercontent.com/112718519/199614759-5d55219d-8c1d-44e9-ab75-d303ac3cb7e3.png)
 
 🚩 After selecting the Headcount Data Model, the Builder Panel automatically updates the name of the Data Model. For the Headcount Data Model, it is a Classic Account Model instead of a New Model that we saw for the Finance Data Model. Therefore, the Builder Panel is updated to reflect how Account is the only requirement for the Classic Account Model. 
 
 You are not too familiar with the Headcount Data Model and you want to see a list of Accounts and Dimensions that are available to insert into the Chart. In the top right of the Builder Panel, click Available Objects.
 
-62. Click **Available Objects** in the Builder Panel
+66. Click **Available Objects** in the Builder Panel
 
-![image](https://user-images.githubusercontent.com/112718519/199089493-f73a1984-91aa-4c6e-8bc0-46b8150dc7cb.png)
+![image](https://user-images.githubusercontent.com/112718519/199614808-726e270b-e505-4cc3-bac5-4ea168d46370.png)
 
 ℹ️ Welcome to the Available Objects!
 
 It provides you a holistic view of all the data related objects that are associated to the data model. It provides you an ability to quickly drag and drop objects into the Builder Panel or use any of the quick action menus to bind the data.
 
-![image](https://user-images.githubusercontent.com/112718519/197639771-4ade8c48-bff3-42ca-a676-2e6c4135b01a.png)
+![image](https://user-images.githubusercontent.com/112718519/199614821-90c0c534-1dcb-4ef4-91f6-a737fa4214d5.png)
 
 🚩 Based on the data that is available within this data model, we are interested in building a trend over time that represents our headcount.
 
-63. Click on the **More** action icon for **Headcount**
-64. Click Add to Accounts
+67. Click on the **More** action icon for **Headcount**
+68. Click Add to Accounts
 
-![image](https://user-images.githubusercontent.com/112718519/199089622-bd8daa3d-0cfe-4dec-b2dc-bfd466b2fc0c.png)
+![image](https://user-images.githubusercontent.com/112718519/199614850-ef04bcda-b276-4f05-a404-bf829eefe0fb.png)
 
-65. Click on the search bar and type **Hire**
-66. Click on the **More** action icon for **SAP_XPA_HIRE_DATE**
-67. Click on **Add to Dimensions**
+69. Click on the search bar and type **Hire**
+70. Click on the **More** action icon for **SAP_XPA_HIRE_DATE**
+71. Click on **Add to Dimensions**
 
-![image](https://user-images.githubusercontent.com/112718519/199089702-047c08f8-92a6-45f6-916e-3e64e9722ec4.png)
+![image](https://user-images.githubusercontent.com/112718519/199614876-7cc5eaf4-2f4a-499a-8fbf-41e72c8e0a70.png)
 
 ⚠️ **Quality Check!** Does your Chart look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/199096258-d04003f1-5482-42b0-9b50-b2e8a6fccafd.png)
+![image](https://user-images.githubusercontent.com/112718519/199614927-5b725dba-846c-40f7-9347-b13e6b41c24b.png)
 
 68. Click on the bar that represents (all)
 69. Click on the **Drill Down** icon

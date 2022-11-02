@@ -221,11 +221,11 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 
 ![image](https://user-images.githubusercontent.com/112718519/199613739-f4aa042a-37f7-4841-8192-d405b182ef80.png)
 
-52. Click Date (Range)
+52. Click **Date (Range)**
 
 ![image](https://user-images.githubusercontent.com/112718519/199613815-1e779afb-46ac-4cde-b43b-449690b65bc2.png)
 
-53. Click the toggle to enable the ability to include range up to the current period
+53. Click the **toggle** to enable the ability to include range up to the current period
 
 ![image](https://user-images.githubusercontent.com/112718519/199614034-f482b8f0-7303-4e8a-95d4-1e256375c425.png)
 
@@ -233,11 +233,11 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 
 ![image](https://user-images.githubusercontent.com/112718519/199614073-9d2b0cd3-1cc0-4fc6-95cc-fcde0928564d.png)
 
-55. For Actual, click the icon under Show As
+55. For Actual, click the icon under **Show As**
 
 ![image](https://user-images.githubusercontent.com/112718519/199614129-ee29dbe9-d8a3-4c07-9cfc-2c3972c5c197.png)
 
-56. In Layered Bars, ensure that Front is clicked.
+56. In Layered Bars, ensure that **Front** is checked
 
 ![image](https://user-images.githubusercontent.com/112718519/199614167-8050f4d9-5060-488a-acdf-812d182e1d0b.png)
 

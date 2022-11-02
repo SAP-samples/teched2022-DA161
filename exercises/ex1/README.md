@@ -46,9 +46,9 @@ Lets start by editing the dashboard!
 ![image](https://user-images.githubusercontent.com/112718519/197618626-1992e4a5-02f7-4368-81e8-dcacc83994f9.png)
 
 ⚠️**Quality Check!**
-Does your Table and Currency Selection Input Control look like this?
+Does your Table and Reporting Currency Input Control look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/197619011-916979d4-4ed4-413a-84b3-e025d8b47e10.png)
+![image](https://user-images.githubusercontent.com/112718519/199618487-073b1a5f-fa3c-48de-ba9f-a3106ade61fe.png)
 
 🚩 Now that we have room on our dashboards, let's create our first visualization. We want to provide our colleagues a better understanding of the Gross Profit per Product.
  
@@ -66,7 +66,7 @@ For this Chart, we want to use SAP_XPA_FINANCE as our data model, which is a New
 
 ![image](https://user-images.githubusercontent.com/112718519/197619076-27a85402-48e5-4dc1-bc60-c2b06fca7387.png)
 
-🚩 We can see that the current data model that is being used in the Chart is SAP_XPA_HEADCOUNT. In order to incorporate financial data into the Chart, you will need to change the Data Model for this Chart.
+🚩 In the Builder Panel, we can see that the current data model that is being used in the Chart is SAP_XPA_HEADCOUNT. In order to incorporate financial data into the Chart, you will need to change the Data Model for this Chart.
 
 8. Click on the **Data Model** icon
 

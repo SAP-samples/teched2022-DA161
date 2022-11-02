@@ -176,7 +176,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198373632-d456f5c0-8327-432e-a307-49aa0ddb88a3.png)
 
-40. Now, we will save our dashboard. Under File, click **Save**.
+40. Now, we will save our dashboard. Under File, click **Save**. Alternatively, you can also press CTRL + S.
 
 ![image](https://user-images.githubusercontent.com/112718519/198373645-8907a0a9-9202-4028-8d36-144175a276ee.png)
 

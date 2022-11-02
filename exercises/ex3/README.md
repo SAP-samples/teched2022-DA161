@@ -122,9 +122,9 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198375091-c5488392-91a1-4d07-905f-2ed040531e2f.png)
 
-27. Click onto the shape. After clicking, notice how the left vertical panel automatically highlights the shape that is currently selected.
+27. Click onto the shape. 
 
-![image](https://user-images.githubusercontent.com/112718519/198373196-f0df8a50-5d87-41d8-a6d9-e496af0df87f.png)
+![image](https://user-images.githubusercontent.com/112718519/199622168-484e713a-1d1c-4a6c-8aba-f13e77ac25c5.png)
 
 28. In Shape_7, click the **Edit Scripts** icon
 

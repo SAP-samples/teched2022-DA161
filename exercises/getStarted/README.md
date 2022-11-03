@@ -4,7 +4,7 @@
 
 **Estimated Time:** 5 mins 
 
-**Exercise Description:** Before we get started on the exercises, we will introduce the homepage of SAP Analytics Cloud and show where you can access your files and dashboards for the exercises. Before you begin each exercise, make sure that you refer to this section to ensure a seamless start.
+**Exercise Description:** Before we get started on the exercises, we will introduce the homepage of SAP Analytics Cloud and show where you can access your files and dashboards for the exercises. 
 
 **Key Features:**
 - Locate your files 

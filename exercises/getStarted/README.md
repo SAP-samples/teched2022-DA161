@@ -27,35 +27,35 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198722544-c05e6c82-cf52-443e-9af7-000eaa9a8c42.png)
 
-3. Here, you will see a folder with starting dashboards for each section of TechEd. In addition, you can see the data models that are used for the dashboards. Click **Starting Dashboards**. 
+3. Here, you will see a folder with starting dashboards for each section of TechEd. In addition, you can see the data models that are used for the dashboards. Let's create a copy of the Starting Dashboards folder and copy that to our local files. Click on the checkbox for the **Starting Dashboards** folder.
 
-![image](https://user-images.githubusercontent.com/112718519/198722631-2d7d012f-09ec-4324-95f0-0c5a9917f5c4.png)
+![image](https://user-images.githubusercontent.com/112718519/199790632-29b8590c-a5ad-4aee-9645-bd1c94f6041c.png)
 
-4. Click **Exercise 1 - Understanding the Basics of SAP Analytics Cloud**. If you are working on Exercise 2 or Exercise 3, click on the corresponding dashboard. 
+4. Click on the **Copy To** icon 
 
-![image](https://user-images.githubusercontent.com/112718519/198722743-bd3ba712-618d-4d20-bfcb-3c1af9b2cf3d.png)
+![image](https://user-images.githubusercontent.com/112718519/199790686-ee949e4d-341a-45a7-af3c-10c7d84aa41c.png)
 
-5. Before we make changes to this dashboard, we want to create our own copy. Go to File and click **Save As**.
-
-![image](https://user-images.githubusercontent.com/112718519/198722801-2e578dcf-688f-4ad2-a38d-d1249f22804b.png)
-
+5. Click **My Files** to copy the folder to your personal local files 
 6. Click **OK**
 
-![image](https://user-images.githubusercontent.com/112718519/198722812-6d202d06-f26f-46de-8afe-5bfb23148a07.png)
+![image](https://user-images.githubusercontent.com/112718519/199790818-f9750fce-a1f0-4a16-8608-9ca1a0777000.png)
 
-7.  Let's find the dashboard that we copied. Click on the **Stories** icon at the top bar.
+7. In order to access your personal local files, click **My Files**
 
-![image](https://user-images.githubusercontent.com/112718519/198722857-5e79b3bb-eb45-4701-b4e4-15a95c76106f.png)
+![image](https://user-images.githubusercontent.com/112718519/199791034-1fd8af59-f734-4b0c-9fb0-baa682aa7be1.png)
 
-ℹ️ There are multiple other ways to access our files. For example, we can also access our files by opening the navigation menu at the top left and clicking Files. 
+8. This is where you can find all the stories that you created. Click on the **Starting Dashboards** folder to access the dashboards for Exercise 1, 2 and 3
 
-8. This is where you can find all the stories that you created. Click on the dashboard that you copied, **Exercise 1 - Understanding the Basics of SAP Analytics Cloud**. 
+![image](https://user-images.githubusercontent.com/112718519/199791238-3a9ad8bb-faf6-4f89-ac9d-82b85d75f5de.png)
 
-![image](https://user-images.githubusercontent.com/112718519/198722923-edc7b4e6-4218-498c-a5cd-d7eda2da0b39.png)
+9. Click on the dashboard, **Exercise 1 - Understanding the Basics of SAP Analytics Cloud**. If you are working on Exercise 2 or Exercise 3, click on the corresponding dashboard. 
+
+![image](https://user-images.githubusercontent.com/112718519/199791296-9f1a45d8-e932-43fd-80bc-f193515286c3.png)
 
 You are ready to begin creating visualizations for your first story!
 
 ![image](https://user-images.githubusercontent.com/112718519/198722966-4d5f2946-b6fd-472b-9f60-dcb0a42358f0.png)
+
 
 
 ## Summary

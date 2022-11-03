@@ -16,8 +16,6 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-🚩 Before we get started, refer to the Getting Started section to find the starting dashboard for this exercise and create a copy of the starting dashboard. 
-
 🚩As a Business Analyst for TCS Technologies, we are interested in creating a dashboard that incorporates Business Intelligence, Planning, and Scripting. As a starting point, you want to enhance the dashboard that your colleague has started by incorporating HR data. 
  
 Lets start by editing the dashboard!

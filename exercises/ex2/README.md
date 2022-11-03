@@ -16,8 +16,6 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-🚩 Before we get started, refer to the Getting Started section to find the starting dashboard for this exercise and create a copy of the starting dashboard. 
-
 ℹ️ Welcome to Planning!
 
 🚩 We are going to make changes to planned financial data. First, let's make a copy of the last planned version for 2023.

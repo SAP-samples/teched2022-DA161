@@ -8,7 +8,7 @@
 
 **Key Features:**
 - Locate your files 
-- Save a new copy of a dashboard
+- Create a copy of the starting dashboards to your local file repository
 
 ⚠️**Disclaimer**
 When completing exercises, some data values or sceenshots may not match what you see on your sceen. It is because the current exercise is based on a feature that is currently in BETA. 
@@ -25,11 +25,11 @@ When completing exercises, some data values or sceenshots may not match what you
 
 2. The stories that you will work on are located in the DA161 folder. Click **DA161**.
 
-![image](https://user-images.githubusercontent.com/112718519/198722544-c05e6c82-cf52-443e-9af7-000eaa9a8c42.png)
+![image](https://user-images.githubusercontent.com/112718519/199792261-93423c10-7b53-43de-8737-57d005cdb649.png)
 
 3. Here, you will see a folder with starting dashboards for each section of TechEd. In addition, you can see the data models that are used for the dashboards. Let's create a copy of the Starting Dashboards folder and copy that to our local files. Click on the checkbox for the **Starting Dashboards** folder.
 
-![image](https://user-images.githubusercontent.com/112718519/199790632-29b8590c-a5ad-4aee-9645-bd1c94f6041c.png)
+![image](https://user-images.githubusercontent.com/112718519/199792643-9f71f444-6e79-45c1-9c46-362ca11c1097.png)
 
 4. Click on the **Copy To** icon 
 

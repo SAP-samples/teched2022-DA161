@@ -19,7 +19,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/198722315-f2b54cf5-997d-4dbe-b187-047cfdd3a143.png)
 
-1. First, you want to access existing stories that we have created for TechEd. In the leftside panel, click the **Files** icon.
+1. First, you want to access existing dashboards that we have created for TechEd. In the leftside panel, click the **Files** icon.
 
 ![image](https://user-images.githubusercontent.com/112718519/198722481-799120a8-f663-4d7d-8707-f9fcc657b457.png)
 
@@ -44,7 +44,7 @@ When completing exercises, some data values or sceenshots may not match what you
 
 ![image](https://user-images.githubusercontent.com/112718519/199791034-1fd8af59-f734-4b0c-9fb0-baa682aa7be1.png)
 
-8. This is where you can find all the stories that you created. Click on the **Starting Dashboards** folder to access the dashboards for Exercise 1, 2 and 3
+8. In your local files, this is where you can find all the stories that you created. Click on the **Starting Dashboards** folder to access the dashboards for Exercise 1, 2 and 3
 
 ![image](https://user-images.githubusercontent.com/112718519/199791238-3a9ad8bb-faf6-4f89-ac9d-82b85d75f5de.png)
 

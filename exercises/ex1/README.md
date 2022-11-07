@@ -197,7 +197,7 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 44. Scroll to the bottom of the Variance Panel
 45. Click **Both**
 46. Click  the **expand** icon for Number
-47. Select **1** to set the decimal precision for the absolute variance
+47. Select **1** to set the decimal precision for the numeric variance
 
 ![image](https://user-images.githubusercontent.com/112718519/199611970-290172b3-b513-409f-8bea-193624b99567.png)
 

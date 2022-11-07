@@ -2,7 +2,7 @@
 
 **Objective:** You should develop a basic understanding on how to create visualizations within SAP Analytics Cloud. 
 
-**Estimated Time:** 25 mins
+**Estimated Time:** 35 mins
 
 **Exercise Description:** You and a colleague are building a dashboard for the upcoming board meeting. As a starting point, your colleague has incorporated some Financial Planning Data into the dashboard. You want to further enhance the dashboard to better represent some KPIs while including HR data to get a better understanding on the end-to-end business operations as TCS Technologies. 
 

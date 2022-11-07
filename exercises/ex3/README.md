@@ -12,7 +12,7 @@
 * Write scripts to open and close a popup 
 
 ⚠️**Disclaimer**
-When completing exercises, some data values or sceenshots may not match what you see on your screen. It is because the current exercise is based on a feature that is currently in BETA. 
+When completing exercises, some data values or screenshots may not match what you see on your screen. It is because the current exercise is based on a feature that is currently in BETA. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 

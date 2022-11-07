@@ -213,7 +213,7 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 
 🚩 Press CTRL + S to save your story. 
 
-🚩 To ensure that we are comparing 22 Plan with 22 Actual instead of Actual financial data for all years, let's add a filter so that we are setting a date range for 2022 values only.
+🚩 To ensure that we are comparing 22 Plan with 22 Actual instead of Actual financial data for all years, let's add a filter so that we are setting a date range for 2022 values only (and only through the current period).
 
 51. Click **+ Add Filters**
 

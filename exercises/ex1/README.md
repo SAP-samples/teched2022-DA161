@@ -12,7 +12,7 @@
 - Learn how to create some calculations
 
 ⚠️**Disclaimer**
-When completing exercises, some data values or sceenshots may not match what you see on your sceen. It is because the current exercise is based on a feature that is currently in BETA. 
+When completing exercises, some data values or sceenshots may not match what you see on your screen. It is because the current exercise is based on a feature that is currently in BETA. 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 

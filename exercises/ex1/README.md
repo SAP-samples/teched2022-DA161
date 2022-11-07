@@ -303,13 +303,13 @@ It provides you a holistic view of all the data-related objects that are associa
 
 🚩 Based on the data that is available within this data model, we are interested in building a trend over time that represents our headcount.
 
-67. Click on the **More** action icon for **Headcount**
+67. Click on the **More** action icon ("...") for **Headcount**
 68. Click Add to Accounts
 
 ![image](https://user-images.githubusercontent.com/112718519/199614850-ef04bcda-b276-4f05-a404-bf829eefe0fb.png)
 
 69. Click on the search bar and type **Hire**
-70. Click on the **More** action icon for **SAP_XPA_HIRE_DATE**
+70. Click on the **More** action icon ("...") for **SAP_XPA_HIRE_DATE**
 71. Click on **Add to Dimensions**
 
 ![image](https://user-images.githubusercontent.com/112718519/199614876-7cc5eaf4-2f4a-499a-8fbf-41e72c8e0a70.png)

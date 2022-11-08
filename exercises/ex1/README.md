@@ -22,18 +22,21 @@ Lets start by editing the dashboard!
 
 1. Click **Edit**
 
-![image](https://user-images.githubusercontent.com/112718519/197618454-663a2604-6d6e-482c-b642-00b5db211192.png)
+![image](https://user-images.githubusercontent.com/112718519/200538027-765c8858-2bcc-4fac-a052-d27f2551a795.png)
 
 🚩 We can see that based on the current design of the dashboard, the Table and Currency Selection (Measure Input Control) takes up the entire dashboard. Let's resize a few widgets to make room for some additional visualizations that we want to create.
 
 2. Scroll to the **bottom of the dashboard**
+
+![image](https://user-images.githubusercontent.com/112718519/200538367-9cd58388-c2d6-44cd-bd82-21b6c27263c0.png)
+
 3. Click and **hold** the resize icon in the bottom right of the Table 
 
-![image](https://user-images.githubusercontent.com/112718519/197618514-dd7755d3-cc25-4564-9327-8755ee61c661.png)
+![image](https://user-images.githubusercontent.com/112718519/200538473-244c56b6-6bd2-4b4e-988e-55fc4cd3bace.png)
 
 4. Resize the Table until it just fits all the Accounts
 
-![image](https://user-images.githubusercontent.com/112718519/197618719-43f9b390-62a1-40bd-b398-b0d94fcc8ca7.png)
+![image](https://user-images.githubusercontent.com/112718519/200539009-e09d794e-c16e-443c-8c36-42cc837fe559.png)
 
 5. Click and hold the resize icon in the bottom right of the Currency Selection Input Control
 
@@ -41,7 +44,7 @@ Lets start by editing the dashboard!
 
 6. Resize the Currency Selection Input Control so that it has the same height as the Table
 
-![image](https://user-images.githubusercontent.com/112718519/197618626-1992e4a5-02f7-4368-81e8-dcacc83994f9.png)
+![image](https://user-images.githubusercontent.com/112718519/200538867-bbd46e3d-84e3-4845-90de-1c72d418c0c2.png)
 
 ⚠️**Quality Check!**
 Does your Table and Reporting Currency Input Control look like this?

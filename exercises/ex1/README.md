@@ -65,13 +65,13 @@ The Builder Panel is a place where you can create your visualizations by specify
  
 For this Chart, we want to use SAP_XPA_FINANCE as our data model, which is a New Model type. The Chart requires at least one Account and at least one Measure to be selected from the Builder Panel. 
 
-![image](https://user-images.githubusercontent.com/112718519/197619076-27a85402-48e5-4dc1-bc60-c2b06fca7387.png)
+![image](https://user-images.githubusercontent.com/112718519/200542883-18b2c9fd-ff46-416c-9575-e9ad0dc44ed9.png)
 
 🚩 In the Builder Panel, we can see that the current data model that is being used in the Chart is SAP_XPA_HEADCOUNT. In order to incorporate financial data into the Chart, you will need to change the Data Model for this Chart.
 
 8. Click on the **Data Model** icon
 
-![image](https://user-images.githubusercontent.com/112718519/199082435-196fb5e5-e9a1-401a-b0d4-b61e78d9be4b.png)
+![image](https://user-images.githubusercontent.com/112718519/200542938-d167e56a-4426-4b96-a32b-51b6ad75d08f.png)
 
 9. Click **OK**
 
@@ -262,11 +262,7 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 
 60. Resize the Chart so that its width is slightly smaller than the Table above
 
-![image](https://user-images.githubusercontent.com/112718519/199614452-ea197062-ed9f-4adc-a8e1-925dfe37989f.png)
-
-⚠️**Quality Check!** Does your Chart look like this?
-
-![image](https://user-images.githubusercontent.com/112718519/199614656-30cdeb21-8db1-4f07-b5dd-2bb2af222dd7.png)
+![image](https://user-images.githubusercontent.com/112718519/200541684-2d7ea6a5-f442-4a37-8c1a-4aaafc4b8ad0.png)
 
 🚩 We can see that the current data model that is being used in the Chart is SAP_XPA_FINANCE. In order to incorporate Headcount data into the Chart, you will need to change the Data Model for this Chart. 
 
@@ -439,12 +435,12 @@ It provides you a holistic view of all the data-related objects that are associa
 101. Click the **More** Action icon
 102. Hover over **Copy** and select **Duplicate**
 
-![image](https://user-images.githubusercontent.com/112718519/199616304-e0fea9e2-86d1-4115-887f-b60ec1d67c2f.png)
+![image](https://user-images.githubusercontent.com/112718519/200546805-ecf75015-f63e-47c3-9b9d-113cb5973549.png)
 
 103. Move the object besides Operating Income for 2022
 104. Click on the **Data Model** icon
 
-![image](https://user-images.githubusercontent.com/112718519/199616336-765a0b26-8cc6-40a9-af6b-8377c685074a.png)
+![image](https://user-images.githubusercontent.com/112718519/200546894-1f74e561-c802-4ab8-882c-bfe774bd8d48.png)
 
 105. Click **OK**
 

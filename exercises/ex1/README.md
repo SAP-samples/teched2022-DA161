@@ -202,7 +202,7 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 46. Click  the **expand** icon for Number
 47. Select **1** to set the decimal precision for the numeric variance
 
-![image](https://user-images.githubusercontent.com/112718519/199611970-290172b3-b513-409f-8bea-193624b99567.png)
+![image](https://user-images.githubusercontent.com/112718519/200696880-ec4cfdf2-c9b4-4b67-9696-c1b54156ab3a.png)
 
 48.	Click the **expand** icon for Percentage
 49.	Select **1** to set the decimal precision for the percentage variance

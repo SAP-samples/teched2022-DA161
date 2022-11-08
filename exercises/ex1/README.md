@@ -498,16 +498,16 @@ Hence, we will have to create a calculation to reflect this metric.
 
 122. Rename the Title to **Average Salary**
 
-![image](https://user-images.githubusercontent.com/112718519/199616576-f8b5cdd3-67df-415a-8413-df11ac313bad.png)
+![image](https://user-images.githubusercontent.com/112718519/200549292-15762bec-1696-48d0-a939-f5ab3bce2154.png)
 
 123. Click the **More** Action icon
 124. Hover over Show / Hide and deselect **Primary Value Labels**
 
-![image](https://user-images.githubusercontent.com/112718519/199616589-351dc39c-43f7-456c-b618-0067a178791f.png)
+![image](https://user-images.githubusercontent.com/112718519/200549597-4e138cc5-d262-476b-9c9a-9670bf448e03.png)
 
 ⚠️Quality Check! Does your KPI look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/199616621-4663cfe0-e300-4bee-ace0-6766b967aec6.png)
+![image](https://user-images.githubusercontent.com/112718519/200550010-208266a9-a57b-4f64-aed3-dd3459cbb14f.png)
 
 🚩 Press CTRL + S to save your story. 
 

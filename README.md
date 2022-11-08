@@ -46,7 +46,7 @@ Please open the following Survey in another tab. **DO NOT** answer the question 
 
 **[Link to OpenSAP Course](https://open.sap.com/courses/sac1)** - It contains a list of various trainings that enabled you to make intelligent decisions with SAP Analytics Cloud
 
-**[Link to Customer Influence](https://influence.sap.com/sap/ino/#/campaigns-open)** - You can help shape the future of SAP Analytics Cloud by suggesting and voting on potential improvements
+**[Link to Customer Influence](https://influence.sap.com/sap/ino/#/campaign/884)** - You can help shape the future of SAP Analytics Cloud by suggesting and voting on potential improvements
 
 **[Link to Roadmap Explorer](https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&range=CURRENT-LAST#Q4%202021)** - You can learn more about the future improvements that will be coming to SAP Analytics Cloud with every quarterly release 
 

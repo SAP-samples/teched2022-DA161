@@ -26,7 +26,7 @@ When completing exercises, some data values or screenshots may not match what yo
 
 2. Click on any cell in the Table
 
-![image](https://user-images.githubusercontent.com/112718519/198356466-4440061e-6928-4860-a84b-a8dba0d2b3ab.png)
+![image](https://user-images.githubusercontent.com/112718519/200690296-b835c503-2550-4359-bbb7-c49d09b1b936.png)
 
 3. Click the **Version Management** icon in the top panel
 
@@ -40,11 +40,11 @@ When completing exercises, some data values or screenshots may not match what yo
 
 5. Rename the Version Name to **XX - 23 Plan**. XX can be replaced by your ID number.
 
-![image](https://user-images.githubusercontent.com/112718519/198352046-44f3243d-9fd7-458f-a4e6-d0a5fb2b8b23.png)
+![image](https://user-images.githubusercontent.com/112718519/200690927-7db9c7b2-2277-4a5a-9a58-38ed42198ec6.png)
 
 6. Click **OK** 
 
-![image](https://user-images.githubusercontent.com/112718519/198352058-c4774e05-ac7c-48ef-9b99-5f3bf4e1688f.png)
+![image](https://user-images.githubusercontent.com/112718519/200690980-1b6e7520-3217-4054-90fb-02305fcf7d81.png)
 
 ℹ️ The private version that we just created now appears in the Version Management panel.
 
@@ -70,27 +70,27 @@ When completing exercises, some data values or screenshots may not match what yo
 
 11. Highlight the cells from **January to March 2023**. 
 
-![image](https://user-images.githubusercontent.com/112718519/199125554-a3f11588-d72d-4ca3-aca7-a555f4af97c9.png)
+![image](https://user-images.githubusercontent.com/112718519/200692297-2e60c218-3609-4c0d-9956-fee36da86e0d.png)
 
 12. Right click the highlighted cells and click **Lock Cell**. 
 
 🚩 By clicking Lock Cell, we are no longer able to apply edits and changes to the cells.
 
-![image](https://user-images.githubusercontent.com/112718519/199125571-29cb4be7-6307-4f1e-806d-284385dce690.png)
+![image](https://user-images.githubusercontent.com/112718519/200692315-e678f8ca-052c-4e7a-9c3d-c77814fcba11.png)
 
 13. Now, we want to increase the raw material charges by 10% for the year 2023. Click into the value for 2023.
 
-![image](https://user-images.githubusercontent.com/112718519/199125598-f58bec3d-a742-46d6-9bf5-921fc1f3be88.png)
+![image](https://user-images.githubusercontent.com/112718519/200692374-76ebf301-a31f-4634-98c5-0f4a7554c454.png)
 
 14. Type in **+10%** directly into the cell
 
-![image](https://user-images.githubusercontent.com/112718519/199125625-d5369078-d27a-4876-af76-ca293c7b37d2.png)
+![image](https://user-images.githubusercontent.com/112718519/200692388-dfc3d69f-d461-4f43-a4a6-2e6afbe9c245.png)
 
 ℹ️ Now, all the values are increased by 10% except for January 2023 to March 2023. This is because we have previously locked these cells. The increase in raw material charges are only applied to April 2023 to December 2023.
 
 ⚠️ **Quality check!** Does your Table look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/199125667-17bae9c1-02f5-4db7-81bd-c0c4bf831aad.png)
+![image](https://user-images.githubusercontent.com/112718519/200692810-4aac3b1f-93f2-469d-89db-4e4f8c7ac27f.png)
 
 🚩 Let's change the story filter so that we are filtering the data to show bikes in the Chinese market (China Bikes Ltd). 
 

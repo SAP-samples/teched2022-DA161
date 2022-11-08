@@ -40,7 +40,7 @@ Lets start by editing the dashboard!
 
 5. Click and hold the resize icon in the bottom right of the Currency Selection Input Control
 
-![image](https://user-images.githubusercontent.com/112718519/197618589-7e4855fa-9bfb-40d6-bfff-255d3fceef3b.png)
+![image](https://user-images.githubusercontent.com/112718519/200688313-e5bf582a-6eb6-49be-a931-4816ea637f4e.png)
 
 6. Resize the Currency Selection Input Control so that it has the same height as the Table
 

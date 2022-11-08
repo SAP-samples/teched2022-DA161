@@ -246,37 +246,37 @@ The color of the Chart is now changed to black for actual Gross Profit. This is 
 
 56. Click and hold the border of the chart to move the object and position it to align with the Reporting Currency Input Control.
 
-![image](https://user-images.githubusercontent.com/112718519/199614421-8ed5e049-b6b2-4712-b36c-328ff146fb36.png)
+![image](https://user-images.githubusercontent.com/112718519/200699710-282d1e17-2c87-4432-b4fb-9a46285cd6c2.png)
 
 57. Click and hold the bottom right resize icon of the Chart
 
-![image](https://user-images.githubusercontent.com/112718519/199614440-814aa9fe-f013-47af-a2bc-3feae53c91e8.png)
+![image](https://user-images.githubusercontent.com/112718519/200699722-7cb0d815-140f-4a03-9787-576b0d56daf2.png)
 
 58. Resize the Chart so that its width is slightly smaller than the Table above
 
-![image](https://user-images.githubusercontent.com/112718519/200541684-2d7ea6a5-f442-4a37-8c1a-4aaafc4b8ad0.png)
+![image](https://user-images.githubusercontent.com/112718519/200699738-6cb8cc4f-abd2-4798-8c1e-ed5a1e233211.png)
 
 🚩 We can see that the current data model that is being used in the Chart is SAP_XPA_FINANCE. In order to incorporate Headcount data into the Chart, you will need to change the Data Model for this Chart. 
 
 59. Click the **Data Model** icon
 
-![image](https://user-images.githubusercontent.com/112718519/199614680-185c7392-cf32-4771-b2c0-03a4033c8548.png)
+![image](https://user-images.githubusercontent.com/112718519/200699758-b5317fae-3d28-46ca-b163-a68c7135ab0c.png)
 
 60. Click **OK**
 
-![image](https://user-images.githubusercontent.com/112718519/199614707-dd34101c-270e-4e2d-a52f-fe4a2063ec01.png)
+![image](https://user-images.githubusercontent.com/112718519/200700057-0536d294-dada-4f65-93a5-8352daf6445c.png)
 
 61. Click on the arrow
 
-![image](https://user-images.githubusercontent.com/112718519/199614722-9be45fed-d9d8-41db-b341-e3921d2a3fb1.png)
+![image](https://user-images.githubusercontent.com/112718519/200700064-93cb9fb6-177a-4cd4-8720-0ced99f2fe0c.png)
 
 62. Click **SAP_XPA_HEADCOUNT**
 
-![image](https://user-images.githubusercontent.com/112718519/199614750-00a70e68-ffb1-4803-8b13-9b7cf395ea10.png)
+![image](https://user-images.githubusercontent.com/112718519/200699859-8a11a22a-5fe6-44c0-82bc-e74949cd3945.png)
 
 63. Click **OK**
 
-![image](https://user-images.githubusercontent.com/112718519/199614759-5d55219d-8c1d-44e9-ab75-d303ac3cb7e3.png)
+![image](https://user-images.githubusercontent.com/112718519/200699882-f0e7f7c1-15a5-40d6-9f31-61e2ce09dedb.png)
 
 🚩 After selecting the Headcount Data Model, the Builder Panel automatically updates the name of the Data Model. For the Headcount Data Model, it is a Classic Account Model instead of a New Model that we saw for the Finance Data Model. Therefore, the Builder Panel is updated to reflect how Account is the only requirement for the Classic Account Model. 
 
@@ -284,109 +284,109 @@ You are not too familiar with the Headcount Data Model and you want to see a lis
 
 64. Click **Available Objects** in the Builder Panel
 
-![image](https://user-images.githubusercontent.com/112718519/199614808-726e270b-e505-4cc3-bac5-4ea168d46370.png)
+![image](https://user-images.githubusercontent.com/112718519/200700090-22438f86-66af-41c7-84e4-d496de2d410d.png)
 
 ℹ️ Welcome to the Available Objects!
 
 It provides you a holistic view of all the data-related objects that are associated to the data model. It provides you with an ability to quickly drag and drop objects into the Builder Panel or use any of the quick action menus to bind the data.
 
-![image](https://user-images.githubusercontent.com/112718519/199614821-90c0c534-1dcb-4ef4-91f6-a737fa4214d5.png)
+![image](https://user-images.githubusercontent.com/112718519/200700120-2ad4f526-afb5-4c8c-b726-5b713ee866f3.png)
 
 🚩 Based on the data that is available within this data model, we are interested in building a trend over time that represents our headcount.
 
 65. Click on the **More** action icon ("...") for **Headcount**
 66. Click Add to Accounts
 
-![image](https://user-images.githubusercontent.com/112718519/199614850-ef04bcda-b276-4f05-a404-bf829eefe0fb.png)
+![image](https://user-images.githubusercontent.com/112718519/200700132-1213585c-7c8e-4fc7-9015-ad1a72dc94c6.png)
 
 67. Click on the search bar and type **Hire**
 68. Click on the **More** action icon ("...") for **SAP_XPA_HIRE_DATE**
 69. Click on **Add to Dimensions**
 
-![image](https://user-images.githubusercontent.com/112718519/199614876-7cc5eaf4-2f4a-499a-8fbf-41e72c8e0a70.png)
+![image](https://user-images.githubusercontent.com/112718519/200700147-e65c20e5-d574-4c03-b6fd-b009ce5b753c.png)
 
 ⚠️ **Quality Check!** Does your Chart look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/199614927-5b725dba-846c-40f7-9347-b13e6b41c24b.png)
+![image](https://user-images.githubusercontent.com/112718519/200700169-20a980c5-150b-4b23-bbc8-110fc1ce29d7.png)
 
 70. Click on the bar that represents (all)
 71. Click on the **Drill Down** icon
 
-![image](https://user-images.githubusercontent.com/112718519/199615079-53213222-d2fc-466c-ac77-4c306cc558b2.png)
+![image](https://user-images.githubusercontent.com/112718519/200700193-6f596a1d-51b4-4453-8f4e-4312fdbf377e.png)
 
 72. Within the Builder Panel, click on the **Drill icon** for SAP_XPA_HIRE_DATE
 73. Click **Level 3**
 
-![image](https://user-images.githubusercontent.com/112718519/199615137-24d31957-a09b-497a-a229-297580ce89a8.png)
+![image](https://user-images.githubusercontent.com/112718519/200700256-83084804-f666-4508-ac67-921b456c9c78.png)
  
 ⚠️ **Quality Check!** Does your Chart look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/199615304-31b90bd2-ebe0-41ad-bfb8-9e847413036d.png)
+![image](https://user-images.githubusercontent.com/112718519/200700287-dc7d40cd-b370-4d91-930a-845dd85f9a66.png)
 
 74. Scroll to the bottom of the Builder Panel
 75. Click **expand** for the Chart Add-ons
 76. Click **Variance**
 
-![image](https://user-images.githubusercontent.com/112718519/199615321-a07afb49-0dc1-44d1-9e99-8af337b711af.png)
+![image](https://user-images.githubusercontent.com/112718519/200700399-e565f6d1-5b99-4566-897e-22cfff24e9b8.png)
 
 77. Click **+ Add Version/Time**
 
-![image](https://user-images.githubusercontent.com/112718519/199615363-7be00bfb-c3f0-4ee2-aff5-501a82b37bce.png)
+![image](https://user-images.githubusercontent.com/112718519/200700414-d0fe9d59-9c32-4728-a109-2726c70fce2e.png)
 
 78. Click **SAP_XPA_HIRE_DATE** 
 
-![image](https://user-images.githubusercontent.com/112718519/199615382-20f9a59f-e4b3-4f29-973b-d830722bcfc2.png)
+![image](https://user-images.githubusercontent.com/112718519/200700427-5b4e7ef8-109f-4985-a43b-cdeed429a3eb.png)
 
 79. Click **Integrated**
 80. Click **Done**
 
-![image](https://user-images.githubusercontent.com/112718519/199615441-94bf4697-dd97-400a-b84a-4942ec5b3c42.png)
+![image](https://user-images.githubusercontent.com/112718519/200700455-f2a649c5-95fa-46b6-ad60-6d2fc7b251a6.png)
 
 81. Click **X** to close the Available Objects List
 
-![image](https://user-images.githubusercontent.com/112718519/199615461-7ae950e2-393a-4cf7-9cca-b5300d7ce122.png)
+![image](https://user-images.githubusercontent.com/112718519/200700471-5b0e705c-0597-4f93-a905-3570d6702cd0.png)
 
 ⚠️Quality Check! Does you Chart look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/199615859-3948d55b-c853-44f6-a4da-d1375c0da680.png)
+![image](https://user-images.githubusercontent.com/112718519/200700499-53054f60-e22f-4b51-ac73-4b1e9c29ea1d.png)
 
 🚩 We now want to add a Geographical representation of where the hires are per location. It would also be a good idea for us to better understand the various career levels that we have by headcount per location.
 
 82. Click the **Add** icon
 83. Click **Geo Map** in the Others section
 
-![image](https://user-images.githubusercontent.com/112718519/199615919-eac54a69-a388-4737-a0eb-f015343a61fe.png)
+![image](https://user-images.githubusercontent.com/112718519/200700517-df405730-8dda-49a9-af44-2a2c82f66ac5.png)
 
 84. Click and hold the border of the Geo Widget to move the object
 
-![image](https://user-images.githubusercontent.com/112718519/199615961-ee6becd3-05d9-4ca2-93fb-94f5d2f4757b.png)
+![image](https://user-images.githubusercontent.com/112718519/200700537-1900a278-ec0b-4e4d-888e-f018867ffab0.png)
 
 85. Move the Geo Widget to align it with the top of the Chart
 
-![image](https://user-images.githubusercontent.com/112718519/199615995-9e08e298-529d-41f7-82ca-ec5787c638d3.png)
+![image](https://user-images.githubusercontent.com/112718519/200700550-85845114-dfee-4711-8d86-b80bbe0b3cd3.png)
 
 86. Resize the Geo to align it with the Chart above and the edge of the shape header
 
-![image](https://user-images.githubusercontent.com/112718519/199616013-abff90f4-b84e-4ea0-b2ce-15e4002dcc73.png)
+![image](https://user-images.githubusercontent.com/112718519/200700578-4e4149d0-0a69-4eb7-b040-dcf1033ef36b.png)
 
 🚩 We want to change the Base Layer Style to better match the theme of the rest of the dashboard.
 
 87. Click Light Gray to open the dropdown menu to see other Base Layer Styles
 88. Click **Transparent Dark Gray**
 
-![image](https://user-images.githubusercontent.com/112718519/199616077-80944b2b-ab56-43b2-afbb-d84d38c5ad8c.png)
+![image](https://user-images.githubusercontent.com/112718519/200700597-e06d014c-be7d-40c4-88fc-678864d9c700.png)
 
 89. Click **+ Add Layer**
 
-![image](https://user-images.githubusercontent.com/112718519/199616094-37e75041-3392-4ab6-9455-5638e91eb8a7.png)
+![image](https://user-images.githubusercontent.com/112718519/200700607-0e230137-473a-4dc7-87db-4d821051f7ee.png)
 
 90. Click **+ Location Dimension required** 
 
-![image](https://user-images.githubusercontent.com/112718519/199616134-5362cd8c-9a4a-4cbf-971d-1c93123f2f7c.png)
+![image](https://user-images.githubusercontent.com/112718519/200700627-c6c4b7fd-5aa0-48c3-8d1d-1e9d72fb06c1.png)
 
 91. Click **Hire_Location**
 
-![image](https://user-images.githubusercontent.com/112718519/199616156-f6966a84-f910-4540-ad26-65b65df54e27.png)
+![image](https://user-images.githubusercontent.com/112718519/200700636-208ac5b3-fe52-4fd9-930e-2aeb528eea83.png)
 
 ℹ️ Location Clustering in Geo Visualization! Adding a Location Dimension will determine whether or not Location Clustering in the Builder Panel will continue to be turned on or automatically turned off. It will be turned off if you have less than 5000 data points. In this example, Location Clustering is automatically turned off in the Builder Panel. 
 
@@ -396,24 +396,24 @@ It provides you a holistic view of all the data-related objects that are associa
 
 92. Under Bubble Size, click **+ Add Account**
 
-![image](https://user-images.githubusercontent.com/112718519/199616178-cea0143c-d512-46bb-805d-61374bf6d152.png)
+![image](https://user-images.githubusercontent.com/112718519/200700669-11678090-2f2e-4f64-8a93-64182b9c2825.png)
 
 93. Click **Headcount**
 
-![image](https://user-images.githubusercontent.com/112718519/199616193-20e7ea28-94a3-41f0-a6d7-67dc15aa2f58.png)
+![image](https://user-images.githubusercontent.com/112718519/200700686-26f00d73-690f-4094-983c-76c15a30990a.png)
 
 94. Under Bubble Color, click **+ Add Dimension/Account**
 
-![image](https://user-images.githubusercontent.com/112718519/199616210-c7c3b02e-170c-464c-843f-e578db0dcfe1.png)
+![image](https://user-images.githubusercontent.com/112718519/200700694-f1a16543-1414-4109-adcc-e888aeff1d50.png)
 
 95. Click **SAP_XPA_CAREER_LEVEL**
 
-![image](https://user-images.githubusercontent.com/112718519/199616226-2203fcd9-c514-4d7c-8573-28b63021a495.png)
+![image](https://user-images.githubusercontent.com/112718519/200700716-165d1e12-ffe4-4474-afe0-75e9499ac3cf.png)
 
 96. Rename the Layer Name to **Headcount by Career Level**
 97. Click **Done**
 
-![image](https://user-images.githubusercontent.com/112718519/199616260-56114cd8-3c04-476d-866f-296aafc2517b.png)
+![image](https://user-images.githubusercontent.com/112718519/200700737-629fd6c3-9101-414f-8e3e-58d0ac247487.png)
 
 ⚠️ **Quality Check!** Does your Geo Visualization look like this?
 
@@ -427,32 +427,32 @@ It provides you a holistic view of all the data-related objects that are associa
 99. Click the **More** Action icon
 100. Hover over **Copy** and select **Duplicate**
 
-![image](https://user-images.githubusercontent.com/112718519/200546805-ecf75015-f63e-47c3-9b9d-113cb5973549.png)
+![image](https://user-images.githubusercontent.com/112718519/200700773-1eaf0076-8020-40c4-9bc3-16d585a2e94b.png)
 
 101. Move the object besides Operating Income for 2022
 102. Click on the **Data Model** icon
 
-![image](https://user-images.githubusercontent.com/112718519/200546894-1f74e561-c802-4ab8-882c-bfe774bd8d48.png)
+![image](https://user-images.githubusercontent.com/112718519/200700864-ff74b30b-f570-406f-9689-5eaf1a063ea8.png)
 
 103. Click **OK**
 
-![image](https://user-images.githubusercontent.com/112718519/199616357-3ceba66e-51e1-4eb7-b523-65ea2e5bf9a8.png)
+![image](https://user-images.githubusercontent.com/112718519/200701179-9bd190cc-d300-4ecf-88cf-50454928b682.png)
 
 104. Click **SAP_XPA_HEADCOUNT**
 
-![image](https://user-images.githubusercontent.com/112718519/199616370-e709cfa7-2ff2-4428-ab41-4d505c34b251.png)
+![image](https://user-images.githubusercontent.com/112718519/200701184-dc46e43c-5315-480b-82d5-df4fc5ff91be.png)
 
 105. Click **OK**
 
-![image](https://user-images.githubusercontent.com/112718519/199616382-b70570cd-62bf-469f-b233-583d7c5999e2.png)
+![image](https://user-images.githubusercontent.com/112718519/200701193-5245d5d0-0312-45d4-9570-1d7c621328ef.png)
 
 106. Click **+ At least 1 Account required** 
 
-![image](https://user-images.githubusercontent.com/112718519/199616406-bd93dc3b-4aba-40fe-b508-80c91b952add.png)
+![image](https://user-images.githubusercontent.com/112718519/200701208-4235146c-2923-47a3-b4bb-a9cbec469d3f.png)
 
 107. Click **Salary** 
 
-![image](https://user-images.githubusercontent.com/112718519/199616418-f7626f08-9f83-4595-8962-ec9dc62fbae3.png)
+![image](https://user-images.githubusercontent.com/112718519/200701215-9e0394ef-c673-4987-9bb7-a3f4c444803b.png)
 
 🚩 After clicking Salary, we realize that the KPI shows the total salary that was ever paid to employees. This KPI doesn't show Average Salary per Employee, which is what you want to see in the KPI.
 
@@ -461,36 +461,36 @@ Hence, we will have to create a calculation to reflect this metric.
 108. Deselect **Salary** 
 109. Click **Add Calculation** 
 
-![image](https://user-images.githubusercontent.com/112718519/199616462-749ed36a-bf99-4b55-abef-cba4ade09cb0.png)
+![image](https://user-images.githubusercontent.com/112718519/200701241-f7e16f77-bdab-451e-a406-3dad76b0b5be.png)
 
 110. Click **Aggregation**
 
-![image](https://user-images.githubusercontent.com/112718519/199616481-31a823d4-0e6a-4464-a60d-00fab25b0a84.png)
+![image](https://user-images.githubusercontent.com/112718519/200701339-93b98629-56a3-4d59-bf7f-cd396a5f6ce8.png)
 
 111. Click the **Expand** icon for Operation
 112. Scroll down till you see **Average**
 113. Click **Average**
 
-![image](https://user-images.githubusercontent.com/112718519/199616516-329b39e5-6899-4056-ac00-9200334e1501.png)
+![image](https://user-images.githubusercontent.com/112718519/200701327-91ed643e-7c06-4c50-b1a0-ba6f418bf09a.png)
 
 114. Click the **Expand** icon for Account
 115. Click **Salary** 
 
-![image](https://user-images.githubusercontent.com/112718519/199616532-e044cc22-dfa0-4f4b-8495-a156c78132b2.png)
+![image](https://user-images.githubusercontent.com/112718519/200701364-cf59044f-5f0c-4f5d-960c-ddf7fddf923c.png)
 
 116. Click the **Expand** icon for Aggregation Dimensions
 117. Click **SAP_XPA_EMPLOYEE**
 
-![image](https://user-images.githubusercontent.com/112718519/199616545-46e3da5b-e227-48ff-be5e-be6570b57629.png)
+![image](https://user-images.githubusercontent.com/112718519/200701378-8a015741-79a9-4e94-96c5-ef9f2ce06d3a.png)
 
 118. Rename the calculation to **Average Salary**
 119. Click **OK**
 
-![image](https://user-images.githubusercontent.com/112718519/199616558-d6b8a418-8723-4bc9-9e7a-970f4d335bae.png)
+![image](https://user-images.githubusercontent.com/112718519/200701424-1654a3c4-bf09-4e88-89af-b6e34f2bed7e.png)
 
 120. Rename the Title to **Average Salary**
 
-![image](https://user-images.githubusercontent.com/112718519/200549292-15762bec-1696-48d0-a939-f5ab3bce2154.png)
+![image](https://user-images.githubusercontent.com/112718519/200701482-05859c5d-e093-4f1a-aa74-f6add6ef9eae.png)
 
 121. Click the **More** Action icon
 122. Hover over Show / Hide and deselect **Primary Value Labels**

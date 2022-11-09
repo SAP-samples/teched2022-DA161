@@ -94,7 +94,7 @@ For this Chart, we want to use SAP_XPA_FINANCE as our data model, which is a New
 13. Click on the arrow beside Finance to expand the Account
 14. Click on the arrow beside Operating Income to expand the Account
 15. Click on **Gross Profit**
-16. Click anywhere outside the Account selection drop down menu to collapse it 
+16. Click anywhere outside the Account selection dropdown menu to collapse it 
 
 ![image](https://user-images.githubusercontent.com/112718519/199083860-4b4fe42e-e30c-4d16-ba7a-89e54192ae0a.png)
 
@@ -116,7 +116,7 @@ For this Chart, we want to use SAP_XPA_FINANCE as our data model, which is a New
 ![image](https://user-images.githubusercontent.com/112718519/199084155-488f00af-059f-43d5-a316-77fccd115369.png)
 
 21. Click **SAP_XPA_PRODUCT**
-22. Click anywhere outside the Dimension selection drop down menu to collapse it
+22. Click anywhere outside the Dimension selection dropdown menu to collapse it
 
 ![image](https://user-images.githubusercontent.com/112718519/199084307-0511fa19-fbed-4aac-b785-436c935ab24c.png)
 

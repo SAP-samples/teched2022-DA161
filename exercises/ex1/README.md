@@ -495,11 +495,11 @@ Hence, we will have to create a calculation to reflect this metric.
 121. Click the **More** Action icon
 122. Hover over Show / Hide and deselect **Primary Value Labels**
 
-![image](https://user-images.githubusercontent.com/112718519/200549597-4e138cc5-d262-476b-9c9a-9670bf448e03.png)
+![image](https://user-images.githubusercontent.com/112718519/200702329-03a8e9da-6f88-4a06-86d7-d29d006f4d00.png)
 
 ⚠️Quality Check! Does your KPI look like this?
 
-![image](https://user-images.githubusercontent.com/112718519/200550010-208266a9-a57b-4f64-aed3-dd3459cbb14f.png)
+![image](https://user-images.githubusercontent.com/112718519/200701969-72f72fba-8a2d-468b-a0cf-62818c48dd3c.png)
 
 🚩 Press CTRL + S to save your story. 
 

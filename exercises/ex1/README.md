@@ -125,7 +125,7 @@ For this Chart, we want to use SAP_XPA_FINANCE as our data model, which is a New
 23. Let's try drilling via the Builder Panel. Click the **Drill** icon in the SAP_XPA_Product Dimension. 
 24. Click on **Level 2**
  
-![image](https://user-images.githubusercontent.com/112718519/199084418-1e53b310-cb01-47b8-9475-d87c7cd71e27.png)
+![image](https://user-images.githubusercontent.com/112718519/200914833-0ece700b-cae3-473b-83e4-317bdf2acdd4.png)
 
 🚩 We can now see data for our Gross Profit per Product. Based on this breakdown, we can see that Youth Bikes bring us the most Gross Profit in comparison to any other product that we offer.
 

@@ -112,7 +112,7 @@ When completing exercises, some data values or screenshots may not match what yo
 
 🚩 The unassigned data is assumed to be the total Gross Sales, all of which has occurred via our retail channel up until this point. However, next year we are going to run a pilot project in China to also sell directly via a newly developed Web Store. For this reason, we want to distribute the unassigned data for Gross Sales into different channels, which includes the Web Store and Retailer network. Before we do that, we want to display all channel members so that they are visible in the Table.
 
-19. Right-click on the **SAP_XPA_CHANNEL header** in the Table. In Show/Hide, click Unbooked.
+19. Right-click on the **SAP_XPA_CHANNEL header** in the Table. In Show/Hide, click **Unbooked**.
 
 ![image](https://user-images.githubusercontent.com/112718519/200693670-f1e869a2-659f-4133-b7d3-54de1fe6a201.png)
 

@@ -149,7 +149,7 @@ Let's resize and reposition the visualization for better readability.
 28. Scroll to the bottom of the Builder Panel
 29. Click **+ Add Dimension/Account**
 
-![image](https://user-images.githubusercontent.com/112718519/199611131-67425fa6-003d-46a3-bd88-2e2feb35ba21.png)
+![image](https://user-images.githubusercontent.com/112718519/200915978-7e33105c-5b6b-49d3-9a36-b8e56ef4f383.png)
 
 30. Click **Version** 
 
@@ -454,7 +454,7 @@ It provides you a holistic view of all the data-related objects that are associa
 
 ![image](https://user-images.githubusercontent.com/112718519/200701215-9e0394ef-c673-4987-9bb7-a3f4c444803b.png)
 
-🚩 After clicking Salary, we realize that the KPI shows the total salary that was ever paid to employees. This KPI doesn't show Average Salary per Employee, which is what you want to see in the KPI.
+🚩 After clicking Salary, we realize that the KPI shows the total salary that was ever paid to employees. This KPI doesn't show Average Salary per Employee, which is what we want to see in the KPI.
 
 Hence, we will have to create a calculation to reflect this metric.
 

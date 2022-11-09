@@ -26,7 +26,7 @@ When completing exercises, some data values or screenshots may not match what yo
 
 🚩 The Employee Rates Table provides us with an understanding of the rates that are used for calculations in the Financial Plan and Employee Plan. However, we want to access the Employee Rates Table in an easier way. In order to do that, we want to provide a jumpoff point in the Employee Plan Table that can show us the rates.
 
-3. First, we want to copy the table. Right click into the Table and click **Copy**. Alternatively, we can also press **CTRL + C**.
+3. First, we want to copy the table. Click into the edge of the Table. Right click and click **Copy**. Alternatively, we can also press **CTRL + C**.
 
 ![image](https://user-images.githubusercontent.com/112718519/198360455-4d190c51-5297-4694-a9cd-aaf734ac78c8.png)
 

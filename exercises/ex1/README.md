@@ -471,7 +471,7 @@ Hence, we will have to create a calculation to reflect this metric.
 112. Scroll down till you see **Average**
 113. Click **Average**
 
-![image](https://user-images.githubusercontent.com/112718519/200701327-91ed643e-7c06-4c50-b1a0-ba6f418bf09a.png)
+![image](https://user-images.githubusercontent.com/112718519/200703351-672fc08a-5b22-4fcd-ab64-88ee1ef9d55b.png)
 
 114. Click the **Expand** icon for Account
 115. Click **Salary** 

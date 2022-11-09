@@ -166,7 +166,7 @@ When completing exercises, some data values or screenshots may not match what yo
 
 ![image](https://user-images.githubusercontent.com/112718519/199125938-7f8ce2dc-3254-46a4-9d81-4acebfeef9e9.png)
 
-🚩 For August through December 2023, we are looking to ramp up Headcount in Sales & Marketing. As a result of the additional Headcount, you are also anticipating that sales increased sales in future years. 
+🚩 For August through December 2023, we are looking to ramp up Headcount in Sales & Marketing. As a result of the additional Headcount, you are also anticipating that sales will increase. 
 
 30. In Sales & Marketing for August 2023, type in **17**
 31. In Sales & Marketing for September 2023, type **20**

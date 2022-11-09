@@ -5,6 +5,7 @@
 **Estimated Time:** 5 mins
 
 ⚠️ After you are done with the task, remember to fill out the User Zoom Survey.
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 🚩 The task will be completed via a prototype on Figma. Open the following link: https://www.figma.com/proto/09quQBLmHW02xWGWlaxdfm/Beta-Program_IDT?node-id=407%3A306959&viewport=655%2C232%2C0.08&scaling=min-zoom&starting-point-node-id=407%3A238578&show-proto-sidebar=1

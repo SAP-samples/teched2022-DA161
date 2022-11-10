@@ -355,7 +355,7 @@ It provides you a holistic view of all the data-related objects that are associa
 82. Click the **Add** icon
 83. Click **Geo Map** in the Others section
 
-![image](https://user-images.githubusercontent.com/112718519/200700517-df405730-8dda-49a9-af44-2a2c82f66ac5.png)
+![image](https://user-images.githubusercontent.com/112718519/201209092-fe78a5c4-c1bd-4c70-b1fb-1fca520b241f.png)
 
 84. Click and hold the border of the Geo Widget to move the object
 
@@ -481,7 +481,7 @@ Hence, we will have to create a calculation to reflect this metric.
 116. Click the **Expand** icon for Aggregation Dimensions
 117. Click **SAP_XPA_EMPLOYEE**
 
-![image](https://user-images.githubusercontent.com/112718519/200701378-8a015741-79a9-4e94-96c5-ef9f2ce06d3a.png)
+![image](https://user-images.githubusercontent.com/112718519/201209251-13ce09a0-2f4b-4cf2-a3ee-6195a836be8f.png)
 
 118. Rename the calculation to **Average Salary**
 119. Click **OK**

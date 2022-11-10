@@ -38,11 +38,11 @@ Lets start by editing the dashboard!
 
 ![image](https://user-images.githubusercontent.com/112718519/200539009-e09d794e-c16e-443c-8c36-42cc837fe559.png)
 
-5. Click and hold the resize icon in the bottom right of the Currency Selection Input Control
+5. Click and hold the resize icon in the bottom right of the Reporting Currency Input Control
 
 ![image](https://user-images.githubusercontent.com/112718519/200688313-e5bf582a-6eb6-49be-a931-4816ea637f4e.png)
 
-6. Resize the Currency Selection Input Control so that it has the same height as the Table
+6. Resize the Reporting Currency Input Control so that it has the same height as the Table
 
 ![image](https://user-images.githubusercontent.com/112718519/200538867-bbd46e3d-84e3-4845-90de-1c72d418c0c2.png)
 

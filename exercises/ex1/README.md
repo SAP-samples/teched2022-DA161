@@ -355,7 +355,7 @@ It provides you a holistic view of all the data-related objects that are associa
 82. Click the **Add** icon
 83. Click **Geo Map** in the Others section
 
-![image](https://user-images.githubusercontent.com/112718519/201209092-fe78a5c4-c1bd-4c70-b1fb-1fca520b241f.png)
+![image](https://user-images.githubusercontent.com/112718519/201235170-205d0ced-a278-4a14-a8bc-c75dc4e79420.png)
 
 84. Click and hold the border of the Geo Widget to move the object
 
@@ -427,7 +427,7 @@ It provides you a holistic view of all the data-related objects that are associa
 99. Click the **More** Action icon
 100. Hover over **Copy** and select **Duplicate**
 
-![image](https://user-images.githubusercontent.com/112718519/200700773-1eaf0076-8020-40c4-9bc3-16d585a2e94b.png)
+![image](https://user-images.githubusercontent.com/112718519/201237616-896118a2-4bf9-4d6b-bd1d-19db67557dbe.png)
 
 101. Move the object besides Operating Income for 2022
 102. Click on the **Data Model** icon
@@ -481,7 +481,7 @@ Hence, we will have to create a calculation to reflect this metric.
 116. Click the **Expand** icon for Aggregation Dimensions
 117. Click **SAP_XPA_EMPLOYEE**
 
-![image](https://user-images.githubusercontent.com/112718519/201209251-13ce09a0-2f4b-4cf2-a3ee-6195a836be8f.png)
+![image](https://user-images.githubusercontent.com/112718519/201236671-6079eef2-6a0a-483a-931e-9471a9d93c4b.png)
 
 118. Rename the calculation to **Average Salary**
 119. Click **OK**

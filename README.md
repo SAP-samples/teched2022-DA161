@@ -16,7 +16,7 @@ We will be using a provided SAP Analytics Cloud Tenant for these exercises. You 
 
 Tenant URL: [https://ana161.eu10.hcs.cloud.sap/](https://ana161.eu10.hcs.cloud.sap/)
 
-Users: [User List](https://docs.google.com/spreadsheets/d/1IxlHauMTgc0DmFSWbx-hyOhRzaX75VtJQYmYK7_SSBg/edit?usp=sharing)
+Users: [User List](https://docs.google.com/spreadsheets/d/1O0OeV8p_PGI7p1wCSjixx1rcGT36jCRgkCMv7jbnpuk/edit?usp=sharing)
 
 As soon as you select a user that you would like to use for the session, please mark an **X** next to the user to ensure that the account is not used by anyone else during the session.
 

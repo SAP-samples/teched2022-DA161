@@ -14,7 +14,7 @@ We've also included an opportunity for you to get an early hands-on preview, and
 
 ## Instructions to Logon to Tenant
 
-We will be using a provided SAP Analytics Cloud Tenant for these exercises. You can find a list of login credentials that will allow you to access the tenant under the User List.
+We will be using a provided SAP Analytics Cloud Tenant for these exercises. You can find a list of login credentials that will allow you to access the tenant under the User List..
 
 Tenant URL: [https://ana161.eu10.hcs.cloud.sap/](https://ana161.eu10.hcs.cloud.sap/)
 
